@@ -1,0 +1,2334 @@
+<!doctype html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+    <meta charset="utf-8" />
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="description" />
+    <link rel="shortcut icon" href="/estatico/favicon.ico" />
+    <!-- OpenGraph -->
+
+    <meta property="og:url" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Apartamento en Venta en Bogota, bogota Para estrenar" />
+    <meta property="og:description" />
+    <meta property="og:image" content="http://www.metrocuadrado.com/images/logo-metrocuadrado-home.png" />
+    <meta property="og:site_name" content="metrocuadrado.com" />
+    <meta property="fb:admins" content="facebook cuenta m2" />
+    <meta property="fb:app_id" content="facebook app m2" />
+
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@metrocuadrado" />
+    <meta name="twitter:creator" content="@metrocuadrado" />
+    <meta name="twitter:title" content="Apartamento en Venta en Bogota, bogota Para estrenar" />
+    <meta name="twitter:description" />
+    <meta name="twitter:image" content="http://www.metrocuadrado.com/images/logo-metrocuadrado-home.png" />
+
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Apartamento en Venta Para estrenar en Bogota, bogota</title>
+
+    <!--[if lt IE 9]>
+    <script src="assets/javascripts/html5shiv.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <!--[if lte IE 9]>
+    <link href="assets/stylesheets/stylesheets.ie.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+
+    <link href="/estatico/metrocuadrado-results/dist/stylesheets.min.css" rel="stylesheet" type="text/css" />
+    <link rel="canonical" />
+
+    <!-- Google FONTS -->
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,700,300|Raleway:400,500,600,700,300,100" rel="stylesheet" type="text/css" />
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&amp;l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WTMXDZ');</script>
+    <!-- End Google Tag Manager -->
+    <!-- see statics/gulpfile.js -->
+    <script src="/estatico/metrocuadrado-results/js/jsFilesResults1.min.js" type="text/javascript"></script>
+
+
+    <!-- Tag CrazyEgg -->
+    <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol
+                + "//script.crazyegg.com/pages/scripts/0017/1361.js";
+            a.async = true;
+            a.type = "text/javascript";
+            b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script>
+    <!-- End Tag CrazyEgg -->
+
+    <!-- Tag Criteo -->
+    <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="async"></script>
+    <script>
+        var date = new Date(); //current date to create the cookie
+        var expires; //expire date of the cookie
+        var value; //cookie's value
+        var url = window.location.href.substring(1);
+        var valor = url.search("utm_source=criteo")
+
+        date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
+        expires = date.toUTCString();
+        value = valor != -1 ? "criteo" : "other";
+        document.cookie = "__utmz=" + value + "; expires=" + expires + "; path=/";
+
+        $(document).ready(function () {
+
+            var testarray = [];
+            testarray = $(".detail_wrap").map(function () {
+                return this.id;
+            });
+            var inmuebles = $.makeArray(testarray);
+            var IdInmueble = [];
+            IdInmueble.push(inmuebles[0]);
+            IdInmueble.push(inmuebles[1]);
+            IdInmueble.push(inmuebles[2]);
+            //var idInmueble = inmuebles[0] + ","+ inmuebles[1]+ "," + inmuebles[2];
+            //var idInmuebles = inmuebles.join();
+
+            window.criteo_q = window.criteo_q || [];
+            var typeVar = identiDispositivo();
+
+            window.criteo_q.push(
+                {event: "setAccount", account: 25719},
+                {event: "setSiteType", type: typeVar},
+                {event: "viewList", item: IdInmueble}
+            );
+
+            function identiDispositivo() {
+
+                var dispositivo = navigator.userAgent;
+
+                if (dispositivo.match(/Iphone/i) || dispositivo.match(/Ipod/i) || dispositivo.match(/Android/i) || dispositivo.match(/J2ME/i) || dispositivo.match(/BlackBerry/i) || dispositivo.match(/iPhone|iPod/i) || dispositivo.match(/Opera Mini/i) || dispositivo.match(/IEMobile/i) || dispositivo.match(/Mobile/i) || dispositivo.match(/Windows Phone/i) || dispositivo.match(/windows mobile/i) || dispositivo.match(/windows ce/i) || dispositivo.match(/webOS/i) || dispositivo.match(/palm/i) || dispositivo.match(/bada/i) || dispositivo.match(/series60/i) || dispositivo.match(/nokia/i) || dispositivo.match(/symbian/i) || dispositivo.match(/HTC/i)) {
+                    return "m";
+                }
+                else if (dispositivo.match(/iPad/i)) {
+                    return "t";
+                } else {
+                    return "d";
+                }
+            }
+
+        });
+    </script>
+    <!-- END Tag Criteo -->
+
+
+    <!-- begin Convert Experiences code -->
+    <script type="text/javascript" src="https://cdn-3.convertexperiments.com/js/10022306-10021159.js"></script>
+    <!-- end Convert Experiences code -->
+
+    <!-- Tag DTM -->
+    
+    <script src="https://assets.adobedtm.com/41d3b477534338831f14b02d7af1cd359b73904f/satelliteLib-8aeb63a9ee18c0379a15a0fcb080dcbc94c88dd8.js"></script>
+    <!-- End Tag DTM -->
+
+    <script src="https://ak-ns.sascdn.com/diff/js/smart.js" type="text/javascript" async="async"></script>
+
+    <!-- Script Pauta -->
+    <script type="application/javascript" src="https://ced.sascdn.com/tag/484/smart.js" async="async"></script>
+    <script type="application/javascript">
+        var sas = sas || {};
+        sas.cmd = sas.cmd || [];
+        sas.cmd.push(function () {
+            sas.setup({networkid: 484, domain: "https://ads.eltiempo.co", async: true});
+        });
+    </script>
+    <!-- end Script Pauta -->
+
+    <script type="text/javascript">
+        var s_account = 'eltiempometrocuadradoprod,eltiempoglobal';
+        var loadResultsStatsEventName = 'load-results';
+        var viewPhoneStatsEventName = 'view-phone';
+        var sendMyContactStatsEventName = 'send-my-contact';
+
+        var detailImageAzureServer = 'https://metrocuadrado.blob.core.windows.net/inmuebles';
+        var detailImageAmazonServer = 'https://metrocuadrado.blob.core.windows.net/inmuebles';
+        var unAvailableDetailNImageUrl = '/estatico/metrocuadrado-results/images/foto_no_disponible_n.jpg';
+        var unAvailableDetailPImageUrl = '/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg';
+        var serverString = 'https://www.metrocuadrado.com';
+    </script>
+
+    <!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults2.min.js"></script>
+
+    <script type="text/javascript">
+
+        /*<![CDATA[*/
+        var propertyState = null;
+        var totalResultsCount = 4;
+        var city = 'bogota';
+        var zone = 'chapinero';
+        var neighborhood = null;
+        var propertyType = 'apartamento';
+        var businessType = 'venta';
+        var queryWithNoInitialResults = false;
+        if (propertyState == null && businessType != null) {
+            if (businessType == 'venta') {
+                propertyState = "nuevo y usado";
+            } else {
+                propertyState = "usado";
+            }
+        }
+
+        currentViewType = 'list';
+        setOmnitureChannel();
+        initResultPageOmnitureEvents();
+        /*]]>*/
+
+    </script>
+	
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults3.min.js"></script>
+
+<script>
+	var locationAutocompleteContentUrl = 'https://www.metrocuadrado.com/estatico/locations.js'
+</script>
+
+<script type="text/javascript" src="/estatico/metrocuadrado-results/dist/js/locations-autocomplete.min.js"></script>
+
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults4.min.js"></script>
+	
+
+    <script type="text/javascript">
+        var metrocuadradoResultsUrlContext = '/';
+
+        //Initialize result in map variables
+        var dragMoveEnableEventPercentage = '50';
+        var maxMarkers = null;
+        var urlGoogleMapsAPIJs = 'https://maps.googleapis.com/maps/api/js?v=3.27\x26libraries=geometry\x26language=es\x26channel=m2_web_resultados\x26client=gme-casaeditorialeltiempo';
+        var urlM2MapAPIJs = '/estatico/metrocuadrado-results/js/map.js';
+        var mapLoaded = false;
+
+        $(function () {
+            $('.lazy').lazy();
+        });
+    </script>
+    <style type="text/css">
+        .m_location_ma {
+            width: 100%;
+            height: 600px;
+        }
+        .p_absolute {
+            position: absolute;
+        }
+    </style>
+</head>
+
+<body data-sticky_parent="" class="body_resultados_mapa">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTMXDZ" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<div id="page" class="m2_list list_view">
+
+		<header id="header">		 	
+		 	<div>
+
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="/estatico/favicon.ico" />
+    <!--[if lt IE 9]>
+    <script th:src="|${@properties.getProperty('static.resources.baseurl')}/js/html5shiv.js|"
+            type="text/javascript"></script>
+    <![endif]-->
+
+    <!--[if lte IE 9]>
+    <link th:href="|${@properties.getProperty('static.resources.baseurl')}/css/stylesheets.ie.css|" rel="stylesheet"
+          type="text/css"/>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/estatico/metrocuadrado-header-resources/dist/header.icons.min.css" />
+
+    <style>
+        .usuario_opciones ul li a {
+            padding: 15px 0px 15px 40px;
+        }
+
+        .usuario_opciones ul li {
+            padding: 10px 0;
+        }
+
+        .usuario_opciones .m_header_combo {
+            padding: 0px 0px;
+        }
+    </style>
+
+</head>
+<body>
+
+<input type="hidden" id="urlcas" value="https://www.metrocuadrado.com/cas" />
+<input type="hidden" id="facebookApplicationId" value="163952777486318" />
+
+
+<div class="m_header_alt">
+		
+		<div class="bg_sup_alt">
+			
+		</div>
+		
+		<div class="bg_main_alt">
+			<div class="m_header_main_alt">
+				<div class="m_header_main_wrap_alt">
+					<div id="logo_alt">
+						<a href="https://www.metrocuadrado.com/"> <img alt="Metrocuadrado" src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+						</a>
+					</div>
+					<ul id="menu_level_0_alt">
+						<li class="item_alt hide_for_mobile_alt btn_menusearch"><span class="active">Buscar inmuebles
+							<div class="icon_desplegar"><img src="/estatico/metrocuadrado-header-resources/images/icons/png/select_arrow.png" /></div>
+							</span></li>
+						<li class="item_alt has_sublevel_al noticias">
+						<span><span onmouseover="sendOmnitureEventMegaMenu('Noticias y Tendencias')">Noticias	y Tendencias</span>
+								<div class="icon_desplegar"><img src="/estatico/metrocuadrado-header-resources/images/icons/png/select_arrow.png" /></div>
+								</span>
+							<div class="level_1_alt menu_noticias">
+
+								<div class="m_header_combo_alt">
+									<em class="close_alt"> Cerrar <span></span></em>
+
+									<div class="m_header_combo_wrap_alt">
+										<div class="col_1_alt">
+											<div class="title_alt">Noticias y Tendencias</div>
+											<ul class="m_list_alt dark_alt">
+												<li><a href="https://www.metrocuadrado.com/noticias/">Noticias</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/economia/">Econom&iacute;a</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/decoracion/">Decoraci&oacute;n</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/arquitectura/">Arquitectura</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/entretenimiento/">Entretenimiento</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/actualidad/">Actualidad</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/noticias-y-tendencias/oikos-construyendo-futuro/">Oikos construyendo futuro</a></li>
+											</ul>
+										</div>
+										<div class="col_3_alt">
+											<div class="title_alt">Lo último en Metrocuadrado</div>
+											<ul>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/te-explicamos-como-retirar-las-cesantias-para-comprar-vivienda-3303">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/75441033_l.jpg?itok=hwGlwUl1" /> <span>Cómo retirar las cesantías para comprar vivienda</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/preparate-empieza-el-cobro-de-valorizacion-en-bogota-3588">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/81841782_m_4.jpg?itok=lU3JrG_Z" /> <span>Prepárate, empieza el cobro de valorización en Bogotá</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/el-megaproyecto-que-cambiara-el-norte-de-bogota-3587">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/lagos_de_torca_planeacion.jpg?itok=D-13RsAe" /> <span>El megaproyecto que cambiará el norte de Bogotá</span>
+												</a></li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="col_inf_alt">
+
+										<a href="https://www.metrocuadrado.com/noticias/tendencias/" class="m_btn_alt inline_alt inverted_alt"> Sobre noticias
+											y tendencias </a>
+
+
+									</div>
+								</div>
+							</div></li>
+						<li class="item_alt has_sublevel_alt herramientas"><span><span onmouseover="sendOmnitureEventMegaMenu('Herramientas')">Herramientas</span>
+							<div class="icon_desplegar"><img src="/estatico/metrocuadrado-header-resources/images/icons/png/select_arrow.png" /></div>
+							</span>
+							<div class="level_1_alt menu_herramientas">
+
+								<div class="m_header_combo_alt hide_for_mobile_alt hide_for_tablet_alt">
+									<em class="close_alt"> Cerrar <span></span></em>
+
+									<div class="m_header_combo_wrap_alt">
+										<div class="col_1_alt">
+										<div class="fondo_grs">
+											<div class="title_alt">Calculadoras</div>
+											<ul class="m_list_alt dark_alt">
+
+												<li><a href="https://www.metrocuadrado.com/calculadora-credito-hipotecario-vivienda/">Calculadora
+														de cr&eacute;dito </a></li>
+												<li><a href="https://www.metrocuadrado.com/calculadora-poliza-seguro-arrendamiento/">Calculadora de
+														seguros </a></li>
+												
+
+												
+
+												
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/precios-m2">Precios
+														m2</a></li>
+
+											</ul>
+											</div>
+											<div class="tu_inmueble">
+												<div class="title_alt second">Tu Inmueble</div>
+										      <ul class="m_list_alt dark_alt">
+										        <li><a href="https://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">Solicita tu inmueble</a></li>
+										        <li><a href="https://www.metrocuadrado.com/publicar-inmuebles/consignment/firststep">Consigna tu inmueble</a></li>
+									      </ul>
+									      </div>
+										</div>
+										<div class="col_2_alt">
+											<div class="title_alt">Gu&iacute;as</div>
+											<ul class="m_list_alt dark_alt">
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-arriendo">Gu&iacute;a
+														de arriendo</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-propiedad-horizontal">Gu&iacute;a
+														de propiedad horizontal</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-venta">Gu&iacute;a
+														de compra y venta</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-credito">Gu&iacute;a
+														de cr&eacute;dito</a></li>
+<!-- 												<li><a href="https://www.metrocuadrado.com/noticias/asesor-metrocuadrado">Asesor</a> -->
+<!-- 												</li> -->
+												<li><a href="https://www.metrocuadrado.com/directorio-inmobiliarias/">Directorio</a>
+												</li>
+											</ul>
+										</div>
+										<div class="col_3_alt">
+											<div class="title_alt">Guías </div>
+											<ul>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/guia-de-propiedad-horizontal/una-herramienta-para-administrar-propiedad-horizontal-3590">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/32225451_m.jpg?itok=cue8u6vz" /> <span>Una herramienta para administrar propiedad horizontal</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/programa-semillero-de-propietarios-te-explicamos-como-funciona-3580">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/67349000_m.jpg?itok=R3LtuSZQ" /> <span>Así funciona el programa Semillero de Propietarios</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/asi-se-ha-valorizado-cedritos-en-este-2018-3534">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/cedritos.jpg?itok=rznx64dd" /> <span>La valorización de Cedritos en este 2018</span>
+												</a></li>
+											</ul>
+										</div>
+										
+									</div>
+
+									<div class="col_inf_alt">
+
+										<a href="https://www.metrocuadrado.com/noticias/herramientas" class="m_btn_alt inline_alt inverted_alt "> Sobre
+											herramientas </a>
+
+
+									</div>
+								</div>
+							</div></li>
+					<!-- <li class="loginBody"></li>			 -->
+					<li class="item_alt has_sublevel_alt usuario_opciones_alt loginBody">
+							<a rel="nofollow" class="link ir_login_superior" href="/metrocuadrado-header/rlogin?service="> Ingresar </a>
+					</li>
+					</ul>
+					<div id="menu_side_alt">
+						<a id="publishAPropertyLiHref" rel="nofollow" class="m_btn_alt inline_alt publishAPropertyLink" onclick="sendOmnitureEventPublishProperty();" href="https://www.metrocuadrado.com/publicar-inmuebles/"> Publica tu inmueble </a>
+						<input type="hidden" id="urlconstructores" value="https://www.metrocuadrado.com/constructores/" />
+						<input type="hidden" id="urlinmobiliarias" value="https://www.metrocuadrado.com/inmobiliarias/" />	
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Inicio Buscador -->
+		<div class="contentDesktopSearch">
+			
+			<div class="bg_inf_alt  bg_inf_search" style="display: none">
+				<div class="m_header_content_alt">
+		<div class="m_header_search_alt">
+			<div class="busqueda_avanzada_alt" style="display: block;">
+				<form action="https://www.metrocuadrado.com/metrocuadrado-results/search/non-ajax" id="form-search-header" method="post">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<div class="form_select"> 
+								<select id="mobile-mtiponegocio" data-hidden-field-id="mtiponegocio">
+										<option value="venta-nuevo">Compra Nuevo</option>
+										<option value="venta-usado">Compra Usado</option>
+										<option value="venta">Compra Nuevo y Usado</option>
+										<option value="arriendo">Arriendo</option>
+								</select>
+							</div>
+						</div>
+						<div class="col_2_alt">
+
+							<div id="fondo-selector-multiple-mobile" class="fondo-selector-multiple-mobile"></div>
+
+
+							<div class="campo-selector-multiple">
+								<div class="campo-selector-multiple-seleccionados">Tipo de
+									inmueble</div>
+
+								<div id="btn-selector-multiple" class="btn-selector-multiple" align="center">
+									<img src="/estatico/metrocuadrado-header-resources/images/icons/svg/fake_select.svg" />
+								</div>
+
+								<div id="selector-multiple" class="selector-multiple">
+
+									<img id="btn-selector-multiple-cerrar" class="btn-selector-multiple-cerrar" src="/estatico/metrocuadrado-header-resources/images/icons/svg/close.svg" />
+
+									<div class="inmueble-check">
+										<input id="check_01" class="property-type-list" propertytype="casa" name="check_01" value="casas" type="checkbox" /> <label for="check_01" class="form_label form_label_inline">Casas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_02" class="property-type-list" propertytype="apartamento" name="check_02" value="apartamentos" type="checkbox" /> <label for="check_02" class="form_label form_label_inline">Apartamentos</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_03" class="property-type-list" propertytype="oficina" name="check_03" value="oficinas" type="checkbox" /> <label for="check_03" class="form_label form_label_inline">Oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_04" class="property-type-list" propertytype="bodega" name="check_04" value="bodegas" type="checkbox" /> <label for="check_04" class="form_label form_label_inline">Bodegas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_05" class="property-type-list" propertytype="consultorio" name="check_05" value="consultorios" type="checkbox" /> <label for="check_05" class="form_label form_label_inline">Consultorios</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_06" class="property-type-list" propertytype="local" name="check_06" value="locales" type="checkbox" /> <label for="check_06" class="form_label form_label_inline">Locales</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_07" class="property-type-list" propertytype="lote" name="check_07" value="lotes" type="checkbox" /> <label for="check_07" class="form_label form_label_inline">Lotes</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_08" class="property-type-list" propertytype="finca" name="check_08" value="fincas" type="checkbox" /> <label for="check_08" class="form_label form_label_inline">Fincas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_09" class="property-type-list" propertytype="edificio-de-oficinas" name="check_09" value="edificios-oficinas" type="checkbox" />
+										<label for="check_09" class="form_label form_label_inline">Edificio
+											de oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_10" class="property-type-list" propertytype="edificio-de-apartamentos" name="check_10" value="edificios-apartamentos" type="checkbox" /> <label for="check_10" class="form_label form_label_inline">Edificio de
+											apartamentos</label>
+									</div>
+									<a id="btn-selector-multiple-mobile-aceptar" class="m_btn btn-selector-multiple-mobile-aceptar">Aceptar</a>
+
+								</div>
+							</div>
+						</div>
+						<div class="col_3_alt">
+							<input type="text" name="city" id="mobile-location" class="search-by-location" placeholder="Ciudad, Zona o Barrio" />
+						</div>
+						<div class="col_4_alt">
+
+							<button id="btn_submit_search_header" class="search-button m_btn_alt big_alt header-structured-search">Buscar</button>
+
+							<script type="text/javascript">
+				
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>Buscar c&oacute;digo &raquo;</a>
+						</div>
+					</div>
+					<input type="hidden" name="sfh" id="sfh" value="1" />
+				</form>
+			</div>
+
+			<!-- Inicio búsqueda código -->
+			<div class="busqueda_codigo_alt" style="display: none;">
+				<form method="post" id="form-search-header-by-code" action="https://www.metrocuadrado.com/metrocuadrado-results/search/code">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<input type="text" name="propertyId" id="propertyId" placeholder="Buscar por c&oacute;digo" required="required" />
+						</div>
+						<div class="col_4_alt">
+							<button if="btn_submit_search_header_by_code" class="m_btn_alt big_alt">Buscar</button>
+							<script type="text/javascript">
+								$('#btn_submit_search_header_by_code').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),"","Search-by-code","","");
+									
+									setTimeout(function(){ 
+										$('#form-search-header-by-code').submit();
+									}, 500);
+								});
+								
+							    (function(h,o,t,j,a,r){
+							        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+							        h._hjSettings={hjid:966913,hjsv:6};
+							        a=o.getElementsByTagName('head')[0];
+							        r=o.createElement('script');r.async=1;
+							        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+							        a.appendChild(r);
+							    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>B&uacute;squeda avanzada &raquo;</a>
+						</div>
+					</div>
+				<input type="hidden" name="_csrf" value="d4302d58-2f05-48b7-81fe-be5dcebf06e1" /></form>
+			</div>
+			<!-- Fin búsqueda código -->
+		</div>
+	</div>
+			</div>
+		</div>
+		
+		<script type="text/javascript" src="/estatico/metrocuadrado-header-resources/js/libs/jquery.lazyload.min.js"></script>
+		
+	</div>
+<div id="mobile_header_alt">
+		<div class="m_header_mobile_alt">
+			<div class="m_header_mobile_bar_alt">
+				<div class="m_header_mobile_bar_logo_alt">
+					<a href="https://www.metrocuadrado.com/"> <img alt="Metrocuadrado" src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+					</a>
+				</div>
+				<div class="m_header_mobile_bar_search_alt">Buscar</div>				
+				<div class="m_header_mobile_bar_menu_alt open"></div>
+			</div>
+
+			<div class="m_header_mobile_menu_alt menu_moviles" style="display: none;">
+				<div id="menu_side_alt">
+					<a id="publishAPropertyLiHref" rel="nofollow" class="m_btn_alt inline_alt publishAPropertyLink" href="https://www.metrocuadrado.com/publicar-inmuebles/"> Publica tu inmueble </a>
+					<input type="hidden" id="urlconstructores" value="https://www.metrocuadrado.com/constructores/" />
+					<input type="hidden" id="urlinmobiliarias" value="https://www.metrocuadrado.com/inmobiliarias/" />
+				</div>
+
+				<ul id="menu_level_0_alt">
+
+					<li class="item_alt has_sublevel_alt"><span onmouseover="sendOmnitureEventMegaMenu('Noticias y Tendencias')">Noticias
+							y Tendencias</span>
+						<div class="level_1_alt menu_noticias">
+
+							<div class="m_header_combo_mobile_alt show_on_mobile show_on_tablet">
+								<ul>
+									<li><a href="https://www.metrocuadrado.com/noticias/">Noticias</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/economia/">Econom&iacute;a</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/decoracion/">Decoraci&oacute;n</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/arquitectura/">Arquitectura</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/entretenimiento/">Entretenimiento</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/actualidad/">Actualidad</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/noticias-y-tendencias/oikos-construyendo-futuro/">Oikos construyendo futuro</a></li>
+								</ul>
+							</div>
+
+						</div></li>
+					<li class="item_alt has_sublevel_alt herramientas"><span onmouseover="sendOmnitureEventMegaMenu('Herramientas')">Herramientas</span>
+						<div class="level_1_alt menu_herramientas">
+
+							<div class="m_header_combo_mobile_alt show_on_mobile show_on_tablet">
+								<ul>
+									<li class="has_sublevel_2_alt"><span>Calculadoras</span>
+										<div class="level_2_alt">
+											<p class="level_2_alt_link">Calculadoras</p>
+											<ul>
+												<li><a href="https://www.metrocuadrado.com/calculadora-credito-hipotecario-vivienda/">Calculadora
+														de cr&eacute;dito </a></li>
+												<li><a href="https://www.metrocuadrado.com/calculadora-poliza-seguro-arrendamiento/">Calculadora de
+														seguros </a></li>
+												
+
+												
+
+												
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/precios-m2">Precios
+														m2</a></li>
+
+											</ul>
+										</div></li>
+										<li class="has_sublevel_2_alt">
+								          <span>Tu inmueble</span>
+								          <div class="level_2_alt">
+								            <p class="level_2_alt_link">Tu inmueble</p>
+								            <ul>
+								              <li>
+								              	<a href="https://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">Solicita tu inmueble</a>
+								              </li>
+								              <li>
+								              	<a href="https://www.metrocuadrado.com/publicar-inmuebles/consignment/firststep">Consigna tu inmueble</a>
+								              </li>
+								            </ul>
+								          </div>
+								        </li>
+									<li class="has_sublevel_2_alt dos"><span>Gu&iacute;as</span>
+										<div class="level_2_alt dos">
+											<p class="level_2_alt_link">Gu&iacute;as</p>
+											<ul>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-arriendo">Gu&iacute;a
+														de arriendo</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-propiedad-horizontal">Gu&iacute;a
+														de propiedad horizontal</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-venta">Gu&iacute;a
+														de compra y venta</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-credito">Gu&iacute;a
+														de cr&eacute;dito</a></li>
+<!-- 												<li><a href="https://www.metrocuadrado.com/noticias/asesor-metrocuadrado">Asesor</a> -->
+<!-- 												</li> -->
+												<li><a href="https://www.metrocuadrado.com/directorio-inmobiliarias/">Directorio</a>
+												</li>
+											</ul>
+										</div></li>
+
+								</ul>
+							</div>
+
+
+						</div></li>
+						<li class="loginBody"></li>
+				</ul>
+
+				<div class="m_header_sup_alt">
+					<ul>
+						<li><a href="/metrocuadrado-header/contactenos">Cont&aacute;ctenos </a></li>
+						<li style="display: none"><a href="/metrocuadrado-header/ayuda">&iquest;Necesitas
+								ayuda? </a></li>
+						<li class="phone" style="display: none"><a href="tel:01 80000 115 252">01 80000 115 252</a></li>
+						
+					</ul>
+				</div>
+			</div>
+
+			<div class="m_header_mobile_menu" data-mobile-menu-placeholder=""></div>
+		</div>
+	</div>
+<div class="mobile_header_search_alt" style="display: none">
+		<div class="mobile_header_search_head_alt">
+			<div class="mobile_header_search_logo_alt">
+				<img src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+			</div>
+			<div class="mobile_header_search_close_alt"></div>
+		</div>
+		<div class="mobile_header_search_title_alt">Encuentra casa y
+			apartamentos en venta o arriendo:</div>
+		<div class="">
+			<div class="m_header_content_alt">
+		<div class="m_header_search_alt">
+			<div class="busqueda_avanzada_alt" style="display: block;">
+				<form action="https://www.metrocuadrado.com/metrocuadrado-results/search/non-ajax" id="form-search-header" method="post">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<div class="form_select"> 
+								<select id="mobile-mtiponegocio" data-hidden-field-id="mtiponegocio">
+										<option value="venta-nuevo">Compra Nuevo</option>
+										<option value="venta-usado">Compra Usado</option>
+										<option value="venta">Compra Nuevo y Usado</option>
+										<option value="arriendo">Arriendo</option>
+								</select>
+							</div>
+						</div>
+						<div class="col_2_alt">
+
+							<div id="fondo-selector-multiple-mobile" class="fondo-selector-multiple-mobile"></div>
+
+
+							<div class="campo-selector-multiple">
+								<div class="campo-selector-multiple-seleccionados">Tipo de
+									inmueble</div>
+
+								<div id="btn-selector-multiple" class="btn-selector-multiple" align="center">
+									<img src="/estatico/metrocuadrado-header-resources/images/icons/svg/fake_select.svg" />
+								</div>
+
+								<div id="selector-multiple" class="selector-multiple">
+
+									<img id="btn-selector-multiple-cerrar" class="btn-selector-multiple-cerrar" src="/estatico/metrocuadrado-header-resources/images/icons/svg/close.svg" />
+
+									<div class="inmueble-check">
+										<input id="check_01" class="property-type-list" propertytype="casa" name="check_01" value="casas" type="checkbox" /> <label for="check_01" class="form_label form_label_inline">Casas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_02" class="property-type-list" propertytype="apartamento" name="check_02" value="apartamentos" type="checkbox" /> <label for="check_02" class="form_label form_label_inline">Apartamentos</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_03" class="property-type-list" propertytype="oficina" name="check_03" value="oficinas" type="checkbox" /> <label for="check_03" class="form_label form_label_inline">Oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_04" class="property-type-list" propertytype="bodega" name="check_04" value="bodegas" type="checkbox" /> <label for="check_04" class="form_label form_label_inline">Bodegas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_05" class="property-type-list" propertytype="consultorio" name="check_05" value="consultorios" type="checkbox" /> <label for="check_05" class="form_label form_label_inline">Consultorios</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_06" class="property-type-list" propertytype="local" name="check_06" value="locales" type="checkbox" /> <label for="check_06" class="form_label form_label_inline">Locales</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_07" class="property-type-list" propertytype="lote" name="check_07" value="lotes" type="checkbox" /> <label for="check_07" class="form_label form_label_inline">Lotes</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_08" class="property-type-list" propertytype="finca" name="check_08" value="fincas" type="checkbox" /> <label for="check_08" class="form_label form_label_inline">Fincas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_09" class="property-type-list" propertytype="edificio-de-oficinas" name="check_09" value="edificios-oficinas" type="checkbox" />
+										<label for="check_09" class="form_label form_label_inline">Edificio
+											de oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_10" class="property-type-list" propertytype="edificio-de-apartamentos" name="check_10" value="edificios-apartamentos" type="checkbox" /> <label for="check_10" class="form_label form_label_inline">Edificio de
+											apartamentos</label>
+									</div>
+									<a id="btn-selector-multiple-mobile-aceptar" class="m_btn btn-selector-multiple-mobile-aceptar">Aceptar</a>
+
+								</div>
+							</div>
+						</div>
+						<div class="col_3_alt">
+							<input type="text" name="city" id="mobile-location" class="search-by-location" placeholder="Ciudad, Zona o Barrio" />
+						</div>
+						<div class="col_4_alt">
+
+							<button id="btn_submit_search_header" class="search-button m_btn_alt big_alt header-structured-search">Buscar</button>
+
+							<script type="text/javascript">
+				
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>Buscar c&oacute;digo &raquo;</a>
+						</div>
+					</div>
+					<input type="hidden" name="sfh" id="sfh" value="1" />
+				</form>
+			</div>
+
+			<!-- Inicio búsqueda código -->
+			<div class="busqueda_codigo_alt" style="display: none;">
+				<form method="post" id="form-search-header-by-code" action="https://www.metrocuadrado.com/metrocuadrado-results/search/code">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<input type="text" name="propertyId" id="propertyId" placeholder="Buscar por c&oacute;digo" required="required" />
+						</div>
+						<div class="col_4_alt">
+							<button if="btn_submit_search_header_by_code" class="m_btn_alt big_alt">Buscar</button>
+							<script type="text/javascript">
+								$('#btn_submit_search_header_by_code').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),"","Search-by-code","","");
+									
+									setTimeout(function(){ 
+										$('#form-search-header-by-code').submit();
+									}, 500);
+								});
+								
+							    (function(h,o,t,j,a,r){
+							        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+							        h._hjSettings={hjid:966913,hjsv:6};
+							        a=o.getElementsByTagName('head')[0];
+							        r=o.createElement('script');r.async=1;
+							        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+							        a.appendChild(r);
+							    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>B&uacute;squeda avanzada &raquo;</a>
+						</div>
+					</div>
+				<input type="hidden" name="_csrf" value="d4302d58-2f05-48b7-81fe-be5dcebf06e1" /></form>
+			</div>
+			<!-- Fin búsqueda código -->
+		</div>
+	</div>
+		</div>
+	</div>
+<div id="login" class="mfp-hide">
+    <div class="m_login">
+        <div class="m_login_bg"></div>
+        <div class="m_login_close" data-login-toggle=""></div>
+
+        <!-- Inicio Login -->
+        <div class="m_login_content login">
+            <div class="m_login_content_title">Ingresa a MetroCuadrado, el mejor portal inmobiliario de Colombia</div>
+            <div class="m_login_content_error" style="display: none;">Se ha producido un error en el servidor, int&eacute;ntelo
+                m&aacute;s tarde
+            </div>
+            <form action="/cas/login?service=https://localhost:38080/metrocuadrado-home/login/cas" data-form-validate="" method="post">
+                <div class="input_box">
+                    <label for="j_username">Usuario</label>
+                    <input type="text" id="j_username" name="j_username" placeholder="Usuario" required="required" />
+                </div>
+                <div class="input_box">
+                    <label for="j_password">Ingresar contraseña</label>
+                    <input type="password" id="j_password" name="j_password" placeholder="Clave" required="required" />
+                </div>
+
+                <input type="submit" value="Ingresar" class="m_btn big" />
+
+                <div class="m_login_social" style="display: none;">
+                    <div class="col_social">
+                        <a href="#" class="m_btn fb">Ingresar con Facebook</a>
+                    </div>
+                    <div class="col_social">
+                        <a href="#" class="m_btn gp">Ingresar con Google</a>
+                    </div>
+                </div>
+
+                <div class="m_login_links">
+                    <div class="col_link">
+                        <a href="/metrocuadrado-header/restablecerContrasena">&iquest;Olvidaste su contraseña?</a>
+                    </div>
+                    <div class="col_link">
+                        <a class="ir_registro" href="#">Reg&iacute;strate</a>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+        <!-- Fin Login -->
+
+        <!-- Inicio Registro -->
+        <div class="m_login_content registro">
+            <div class="m_login_content_title">Ingresa a MetroCuadrado, el mejor portal inmobiliario de Colombia</div>
+            <div class="m_login_content_error" style="display: none;">Se ha producido un error en el servidor, inténtelo
+                más tarde
+            </div>
+            <p>Regístrate con una cuenta de correo</p>
+            <form action="#" data-form-validate="">
+                <div class="input_box">
+                    <label for="login_user">Ingrese un correo electrónico</label>
+                    <input type="email" id="login_user" for="login_user" placeholder="correo@mail.com" required="required" />
+                </div>
+                <input type="submit" value="Crear cuenta" class="m_btn big" />
+                <p>O ingrese con</p>
+                <div class="m_login_social" style="display: none;">
+                    <div class="col_social">
+                        <a href="#" class="m_btn fb">Facebook</a>
+                    </div>
+                    <div class="col_social">
+                        <a href="#" class="m_btn gp">Google</a>
+                    </div>
+                </div>
+
+                <div class="m_login_links">
+                    <a class="ir_login" href="#">Ya estoy registrado</a>
+                </div>
+
+            </form>
+        </div>
+        <!-- Fin Registro -->
+    </div>
+</div>
+
+<script type="text/javascript" src="/estatico/metrocuadrado-header-resources/dist/jsFilesHeaderInclude.min.js"></script>
+
+</body>
+</html>
+</div>	
+		</header>
+
+		<div id="breadcrumb" class="wrapper" style="display:block">
+		
+	</div>
+
+		<script type="text/javascript" src="/estatico/metrocuadrado-results/dist/js/sidebar-filters.min.js"></script>
+
+		<div id="resultListHtmlContainer">
+			<div class="wrapper" data-sticky-content="" style="position: relative;">
+    <input type="hidden" id="totalResults" value="4" />
+    <div class="mfp-hide" id="list-guardarBusqueda">
+		<script>
+		/*<![CDATA[*/
+		           var saveSearchMessage = 'Estamos almacenando su b\xFAsqueda';				 
+		 /*]]>*/
+		</script>
+		<div class="m_login">
+			<div class="m_login_bg"></div>
+			<div class="m_login_close" data-login-toggle=""></div>
+
+			<div class="m_login_content resultados_guardar_busqueda">
+
+				<form class="save-search-form" action="#" data-form-validate="" method="get">
+
+					<p>La b&uacute;squeda se guardar&aacute; con el nombre:</p>
+					<p>
+						<span class="save-search-title">4 Apartamento en Venta en Bogota, bogota Para estrenar</span>
+					</p>
+
+					<input type="button" value="Guardar B&uacute;squeda" class="save-search-button m_btn big a" id="listsave-search-button" />
+
+				</form>
+			</div>
+		</div>
+		<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+	</div>
+    <div id="layout">
+        
+        <p class="numero_titulo mobile">4</p>
+        
+        <div id="sidebar">
+
+		<div class="sidebar_filters" id="search_filter">
+
+			<div class="m_search_filter header show_on_mobile show_on_tablet">
+				<div class="btn_light filter_btn ">
+					<a href="#" class="m_btn search-filters" data-search-filter-popup-toggle=""> filtrar
+					</a>
+				</div>
+			</div>
+
+			<div class="m_search_filter main" data-filters="">
+				<div class="m_search_filter_close" data-search-filter-popup-toggle=""></div>
+
+				<div class="search_main">
+					<h2 class="title search-filters">Filtra tu b&uacute;squeda</h2>
+				</div>
+
+				<div>
+
+					<div class="m_search_by word">
+						
+		<div class="form_text_field by_word">
+			<input type="text" placeholder="Filtrar por palabra" data-hidden-field-id="mbasico" name="list-search_word" id="list-search_word" /> <a href="#" class="m_btn inverted " id="list-search-by-word"> ok </a>
+		</div>
+	
+					</div>
+
+					<div class="m_search_by price">
+						<div id="price-range-filter" class="title">Rango de precio
+							en millones</div>
+						<div>
+							
+	
+
+			<div class="form_select">
+				<select class="sidebar-filter price_range" data-hidden-field-id="mvalorventa" id="list-mvalorventa">
+
+					<option value="">Todos los precios</option>
+					<option value="0-40000000" hasResults="false">Hasta 40 millones</option>
+					<option value="40000001-70000000" hasResults="false">40&#39;000.001 a 70&#39;000.000</option>
+					<option value="70000001-100000000" hasResults="false">70&#39;000.001 a 100&#39;000.000</option>
+					<option value="100000001-150000000" hasResults="false">100&#39;000.001 a 150&#39;000.000</option>
+					<option value="150000001-200000000" hasResults="false">150&#39;000.001 a 200&#39;000.000</option>
+					<option value="200000001-250000000" hasResults="false">200&#39;000.001 a 250&#39;000.000</option>
+					<option value="250000001-300000000" hasResults="false">250&#39;000.001 a 300&#39;000.000</option>
+					<option value="300000001-400000000" hasResults="false">300&#39;000.001 a 400&#39;000.000</option>
+					<option value="400000001-500000000" hasResults="false">400&#39;000.001 a 500&#39;000.000</option>
+					<option value="500000001-650000000" hasResults="false">500&#39;000.001 a 650&#39;000.000</option>
+					<option value="650000001-880000000" hasResults="false">650&#39;000.001 a 880&#39;000.000</option>
+					<option value="880000001-1000000000" hasResults="false">880&#39;000.001 a 1.000&#39;000.000</option>
+					<option value="1000000000" hasResults="false">1.000&#39;000.001 o más millones</option>
+				</select>
+			</div>
+			<div class="from_to_price">
+				<div class="form_text_field">
+					<label for="list-price_from">Desde</label> 
+					<input type="text" data-thousands="." data-prefix="$" data-precision="0" name="list-price_from" id="list-price_from" />
+				</div>
+				<div class="form_text_field">
+					<label for="list-price_to">Hasta</label> 
+					<input type="text" data-thousands="." data-prefix="$" data-precision="0" name="list-price_to" id="list-price_to" />
+				</div>
+
+			</div>
+
+			<a href="#" class="m_btn inline inverted price_range" data-hidden-field-id="mvalorventa" id="list-search-by-price-range"> ok </a>
+
+	
+	
+							<div style="clear: both;"></div>
+						</div>
+					</div>
+
+					<div class="m_search_by size">
+						<!-- cabecera -->
+						<div class="title">&Aacute;rea (m&sup2;)</div>
+						<div>
+							
+	
+		<!-- 			Common -->		
+			<div class="form_select">
+				<select class="sidebar-filter area-range" data-hidden-field-id="marea" id="list-marea">
+					<option value="">Todas las &aacute;reas</option>
+					<option value="0-60" hasResults="false">Hasta 60</option>
+					<option value="61-100" hasResults="false">61 a 100</option>
+					<option value="101-200" hasResults="false">101 a 200</option>
+					<option value="201-300" hasResults="false">201 a 300</option>
+					<option value="301-400" hasResults="false">301 a 400</option>
+					<option value="401-500" hasResults="false">401 a 500</option>
+					<option value="501-1000" hasResults="false">501 a 1000</option>
+					<option value="1000" hasResults="false">1001 o más</option>
+
+				</select>
+			</div>
+			
+		<!-- Common			 -->
+		
+	
+	
+						</div>
+					</div>
+
+
+
+					<div class="m_search_by others">
+						<!-- cabecera -->
+						<div>
+							<div>
+		<p class="light">Habitaciones</p>
+		<div class="buttons_select_group">
+			<div class="button">
+				<input type="checkbox" value="1" id="list-mnrocuartos-checkbox-1" class="rooms-filter sidebar-filter mnrocuartos-checkbox-1" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-1" /> <label for="list-mnrocuartos-checkbox-1">1</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="2" id="list-mnrocuartos-checkbox-2" class="rooms-filter sidebar-filter mnrocuartos-checkbox-2" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-2" /> <label for="list-mnrocuartos-checkbox-2">2</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="3" id="list-mnrocuartos-checkbox-3" class="rooms-filter sidebar-filter mnrocuartos-checkbox-3" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-3" /> <label for="list-mnrocuartos-checkbox-3">3</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="4" id="list-mnrocuartos-checkbox-4" class="rooms-filter sidebar-filter mnrocuartos-checkbox-4" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-4" /> <label for="list-mnrocuartos-checkbox-4">4</label>
+			</div>
+			<div class="button plus">
+				<input type="checkbox" value="5" id="list-mnrocuartos-checkbox-plus" class="rooms-filter sidebar-filter mnrocuartos-checkbox-plus" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-plus" /> <label for="list-mnrocuartos-checkbox-plus"></label>
+			</div>
+		</div>
+		<hr />
+	</div>
+
+							<div>
+		<p class="light">Baños</p>
+		<div class="buttons_select_group">
+			<div class="button">
+				<input type="checkbox" value="1" id="list-mnrobanos-checkbox-1" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-1" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-1" /> <label for="list-mnrobanos-checkbox-1">1</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="2" id="list-mnrobanos-checkbox-2" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-2" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-2" /> <label for="list-mnrobanos-checkbox-2">2</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="3" id="list-mnrobanos-checkbox-3" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-3" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-3" /> <label for="list-mnrobanos-checkbox-3">3</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="4" id="list-mnrobanos-checkbox-4" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-4" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-4" /> <label for="list-mnrobanos-checkbox-4">4</label>
+			</div>
+			<div class="button plus">
+				<input type="checkbox" value="5" id="list-mnrobanos-checkbox-plus" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-plus" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-plus" /> <label for="list-mnrobanos-checkbox-plus"></label>
+			</div>
+		</div>
+		<hr />
+	</div>
+
+							<div>
+		<div>
+			<p class="light">Garajes</p>
+			<div class="buttons_select_group">
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-1" data-checkbox-class="mnrogarajes-checkbox-1" class="garages-filter sidebar-filter mnrogarajes-checkbox-1" value="1" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-1">1</label>
+				</div>
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-2" data-checkbox-class="mnrogarajes-checkbox-2" class="garages-filter sidebar-filter mnrogarajes-checkbox-2" value="2" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-2">2</label>
+				</div>
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-3" data-checkbox-class="mnrogarajes-checkbox-3" class="garages-filter sidebar-filter mnrogarajes-checkbox-3" value="3" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-3">3</label>
+				</div>
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-4" data-checkbox-class="mnrogarajes-checkbox-4" class="garages-filter sidebar-filter mnrogarajes-checkbox-4" value="4" data-hidden-field-id="mnrogarajes" /><label for="list-mnrogarajes-checkbox-4">4</label>
+				</div>
+				<div class="button plus">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-plus" data-checkbox-class="mnrogarajes-checkbox-plus" class="garages-filter sidebar-filter mnrogarajes-checkbox-plus" value="5" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-plus"></label>
+				</div>
+			</div>
+			<hr />
+		</div>
+	</div>
+
+							<div>
+
+		<p class="light">Antigüedad</p>
+
+		<div class="form_select">
+			<select class="sidebar-filter antiquity-filter" data-hidden-field-id="mtiempoconstruido" id="list-mtiempoconstruido">
+				<option value="">Todas las opciones</option>
+				<option value="sobre-plano" hasResults="false">Sobre Plano</option>
+				<option value="en-construccion" hasResults="false">En Construcción</option>
+				<option value="para-estrenar" hasResults="false">Para Estrenar</option>
+				<option value="remodelado" hasResults="false">Remodelado</option>
+				<option value="Entre 0 y 5 años" hasResults="false">Entre 0 y 5 años</option>
+				<option value="Entre 5 y 10 años" hasResults="false">Entre 5 y 10 años</option>
+				<option value="Entre 10 y 20 años" hasResults="false">Entre 10 y 20 años</option>
+				<option value="Más de 20 años" hasResults="false">Más de 20 años</option>
+			</select>
+		</div>
+
+	</div>
+						</div>
+					</div>
+
+					<div class="m_search_by wonder">
+						<!-- cabecera -->
+						<div class="title">Me gustar&iacute;a que tenga</div>
+						<div>
+							
+				<div class="filter_group">
+					<div class="form_checkbox">
+						<input id="amcheck_01" class="amenity-filter" name="amcheck_01" value="amoblados" type="checkbox" />
+						<label for="amcheck_01" class="form_label form_label_inline">Amoblado</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_02" class="amenity-filter" name="amcheck_02" value="con-zona-para-ninos" type="checkbox" />
+						<label for="amcheck_02" class="form_label form_label_inline">Zona para ni&ntilde;os</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_03" class="amenity-filter" name="amcheck_03" value="con-gimnasio" type="checkbox" />
+						<label for="amcheck_03" class="form_label form_label_inline">Gimnasio</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_04" class="amenity-filter" name="amcheck_04" value="con-cancha-squash" type="checkbox" />
+						<label for="amcheck_04" class="form_label form_label_inline">Cancha(s) de Squash</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_05" class="amenity-filter" name="amcheck_05" value="con-acceso-discapacitados" type="checkbox" />
+						<label for="amcheck_05" class="form_label form_label_inline">Acceso para discapacitados</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_06" class="amenity-filter" name="amcheck_06" value="con-piscina" type="checkbox" />
+						<label for="amcheck_06" class="form_label form_label_inline">Piscina</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_07" class="amenity-filter" name="amcheck_07" value="con-zonas-verdes" type="checkbox" />
+						<label for="amcheck_07" class="form_label form_label_inline">Zonas verdes</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_08" class="amenity-filter" name="amcheck_08" value="con-cancha-tenis" type="checkbox" />
+						<label for="amcheck_08" class="form_label form_label_inline">Cancha(s) de tennis</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_09" class="amenity-filter" name="amcheck_09" value="con-cancha-futbol" type="checkbox" />
+						<label for="amcheck_09" class="form_label form_label_inline">Cancha(s) de f&uacute;tbol</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="amcheck_10" class="amenity-filter" name="amcheck_10" value="con-cancha-basket" type="checkbox" />
+						<label for="amcheck_10" class="form_label form_label_inline">Cancha(s) de Basket</label>
+					</div>
+					 <div class="form_checkbox verified">
+						<input id="amcheck_11" class="amenity-filter" name="amcheck_11" value="verificado" type="checkbox" />
+                		<label for="amcheck_11" class="form_label form_label_inline">Verificado</label>
+                		<div class="verified_tooltip">
+                  		<p>Metrocuadrado valida y verifica que toda la información del inmueble sea acorde con el anuncio publicado.</p>
+                	</div>
+              		</div>
+              		<div class="form_checkbox">
+                		<input id="amcheck_12" class="amenity-filter more_filters" name="amcheck_12" type="checkbox" value="cerca-transporte-publico" />
+                		<label for="amcheck_12" class="form_label form_label_inline">Cerca Transporte P&uacute;blico</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_13" class="amenity-filter more_filters" name="amcheck_13" type="checkbox" value="cerca-centro-comercial" />
+	                	<label for="amcheck_13" class="form_label form_label_inline">Cerca a Centros Comerciales</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_14" class="amenity-filter more_filters" name="amcheck_14" type="checkbox" value="cerca-parque" />
+	                	<label for="amcheck_14" class="form_label form_label_inline">Cerca a Parques</label>
+	              	</div>
+	              	<div class="form_checkbox">
+		                <input id="amcheck_15" class="amenity-filter more_filters" name="amcheck_15" type="checkbox" value="cerca-supermercado" />
+		                <label for="amcheck_15" class="form_label form_label_inline">Cerca a Supermercados</label>
+	              	</div>
+	              	<div class="form_checkbox">
+		                <input id="amcheck_16" class="amenity-filter more_filters" name="amcheck_16" type="checkbox" value="cerca-colegio-universidad" />
+		                <label for="amcheck_16" class="form_label form_label_inline">Cerca a colegios/universidades</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_17" class="amenity-filter more_filters" name="amcheck_17" type="checkbox" value="con-zona-bbq" />
+	                	<label for="amcheck_17" class="form_label form_label_inline">Zona de BBQ</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_18" class="amenity-filter more_filters" name="amcheck_18" type="checkbox" value="ascensor" />
+	                	<label for="amcheck_18" class="form_label form_label_inline">Ascensor</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_19" class="amenity-filter more_filters" name="amcheck_19" type="checkbox" value="con-balcon" />
+	                	<label for="amcheck_19" class="form_label form_label_inline">Con Balc&oacute;n</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_20" class="amenity-filter more_filters" name="amcheck_20" type="checkbox" value="con-vigilancia7x24" />
+	                	<label for="amcheck_20" class="form_label form_label_inline">Con Vigilancia</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_21" class="amenity-filter more_filters" name="amcheck_21" type="checkbox" value="en-conjunto-cerrado" />
+	                	<label for="amcheck_21" class="form_label form_label_inline">En conjunto cerrado</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_22" class="amenity-filter more_filters" name="amcheck_22" type="checkbox" value="con-cuarto-servicio" />
+	                	<label for="amcheck_22" class="form_label form_label_inline">Cuarto de servicio</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_23" class="amenity-filter more_filters" name="amcheck_23" type="checkbox" value="con-chimenea" />
+	                	<label for="amcheck_23" class="form_label form_label_inline">Con chimenea</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_24" class="amenity-filter more_filters" name="amcheck_24" type="checkbox" value="con-deposito" />
+	                	<label for="amcheck_24" class="form_label form_label_inline">Con deposito</label>
+	              	</div>	
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_25" class="amenity-filter more_filters" name="amcheck_25" type="checkbox" value="con-zona-lavanderia" />
+	                	<label for="amcheck_25" class="form_label form_label_inline">Con zona de lavander&iacute;a</label>
+	              	</div>	
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_26" class="amenity-filter more_filters" name="amcheck_26" type="checkbox" value="se-permiten-mascotas" />
+	                	<label for="amcheck_26" class="form_label form_label_inline">Se permiten mascotas</label>
+	              	</div>	
+	              	<div class="form_checkbox">
+	                	<input id="amcheck_27" class="amenity-filter more_filters" name="amcheck_27" type="checkbox" value="se-permite-fumar" />
+	                	<label for="amcheck_27" class="form_label form_label_inline">Se permite fumar</label>
+	              	</div>		           
+				</div>
+				<div class="filter_wrapper">
+					<a href="#" class="m_btn inverted amenity-filter-search-button filter_preferences_button"> aplicar preferencias </a>
+				</div>									
+	
+						</div>
+					</div>
+
+					<div class="boton_guardar_busqueda">
+						<a href="#list-guardarBusqueda" class="m_btn inline save-search" data-login-toggle=""> guardar b&uacute;squeda </a>
+					</div>
+					
+					<button class="m_btn filter_mobile" id="list-search-mobile">FILTRAR</button>
+
+
+				</div>
+
+			</div>
+
+
+			<div style="" class="sidebar_filters_hidden" data-sticky-content-sidebar="">
+				<div style="display: none;" class="m_search_filter sticky hide_for_mobile hide_for_tablet">
+					<div class="sticky_filter">
+						<a href="#search_filter" data-smooth="70" class="title">Filtra
+							tu b&uacute;squeda</a>
+					</div>
+					<div class="save_search hide_for_mobile hide_for_tablet">
+
+						<a href="#list-guardarBusqueda" class="m_btn" data-login-toggle="">guardar
+							b&uacute;squeda </a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+        <div id="main">
+            <div>
+		<!-- Inicio didyoumean -->
+		<div class="listado_mensaje_resultados">
+			<div>
+				<span>!</span>
+				<p>Quisiste decir:</p>
+			</div>
+			<div>
+				<a href="#" class="dym" data-url="bogota/bogota">Bogotá D.C. (Bogotá D.C.)</a>
+			</div>
+			<div>
+				<a href="#" class="dym" data-url="bogota/bogota-dc">Bogota D.C. (Bogotá D.C.)</a>
+			</div>
+			<div>
+				<a href="#" class="dym" data-url="bogota/norte-de-bogota-bosques-de-la-caada">Norte De Bogota Bosques De La Ca¿Ada (Bogotá D.C.)</a>
+			</div>
+			
+		</div>
+
+		<!-- Inicio mensaje de resultados -->
+		
+		<!-- Fin mensaje de resultados -->
+		<div class="m_rs_list_header list_view">		
+			<div>
+				
+
+				 <!-- --> <!-- -->
+				
+				<div class="order_by">
+		<div class="form_select">
+			<select class="order-by" id="resultlist-sort-by">
+				<option value="" disabled="disabled" selected="selected">Ordenar por</option>
+				<option value="DESC-mvalorventa">Mayor precio</option>
+				<option value="ASC-mvalorventa">Menor precio</option>
+				<option value="DESC-mfechapublicacion">M&aacute;s reciente</option>
+				<option value="ASC-mfechapublicacion">Menos reciente</option>
+				<option value="DESC-mnrocuartos">M&aacute;s habitaciones</option>
+				<option value="ASC-mnrocuartos">Menos habitaciones</option>
+				<option value="DESC-marea">Mayor &aacute;rea</option>
+				<option value="ASC-marea">Menor &aacute;rea</option>
+			</select>
+		</div>
+	</div>
+				
+			</div>
+		</div>
+	</div>
+            <div id="highlighted-properties-list"></div>
+            <div class="m_rs_list_item  ">
+                <div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="1631-C00008-03">
+		
+		<div class="image">
+		
+			
+				
+			<div class="image_tag green">Para Estrenar</div>
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-03">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-03/1631-C00008-03_11_p.jpg" data-detail-image="1631-C00008-03_11" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="1631-C00008-03" alt="Venta de Apartamento en CHAPINERO ALTO, Bogotá D.C. con  1 Habitaciones, 2 Baños, Estrato 4, Área 64.0 m2 y 2 Garages" data-default-image="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-03/1631-C00008-03_11_p.jpg" title="Apartamento en Venta en CHAPINERO ALTO, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">proyecto con excelente ubicación, cerca de los cerros orientales. los apartamentos tendrán vista hacia la ciudad y/o hacia los cerros. Además, cuentan con iluminación y ventilación en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+	<div class="header">
+		<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-03">
+			<h2 itemprop="name">Apartamento en Venta, CHAPINERO ALTO Bogotá D.C..</h2></a>
+	</div>
+</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$471.425.700</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>64.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>1</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="PROJECT">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Nuevo" data-property-city="Bogotá D.C." data-property-id="1631-C00008-03">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Constructora" />
+			<input type="hidden" name="property-state" id="property-state" value="Nuevo" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Nuevo" data-property-stratum="4" data-property-price="471425700" data-property-price-range="400&#39;000.001 a 500&#39;000.000" data-property-business-type="Venta" data-property-offerer="Constructora" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="464550" data-property-enterprise-id="6" data-property-city-zone-id="1-null" data-property-id="1631-C00008-03" data-property-city-id="1" data-property-project-id="1631-C00008" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+            </div>
+            <div class="m_rs_list_item  ">
+                <div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="1631-C00008-07">
+		
+		<div class="image">
+		
+			
+				
+			<div class="image_tag green">Para Estrenar</div>
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-07">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-07/1631-C00008-07_1_p.jpg" data-detail-image="1631-C00008-07_1" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="1631-C00008-07" alt="Venta de Apartamento en CHAPINERO ALTO, Bogotá D.C. con  2 Habitaciones, 2 Baños, Estrato 4, Área 85.3 m2 y 2 Garages" data-default-image="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-07/1631-C00008-07_1_p.jpg" title="Apartamento en Venta en CHAPINERO ALTO, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">proyecto con excelente ubicación, cerca de los cerros orientales. los apartamentos tendrán vista hacia la ciudad y/o hacia los cerros. Además, cuentan con iluminación y ventilación en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+	<div class="header">
+		<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-07">
+			<h2 itemprop="name">Apartamento en Venta, CHAPINERO ALTO Bogotá D.C..</h2></a>
+	</div>
+</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$733.075.967</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>85.3 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="PROJECT">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Nuevo" data-property-city="Bogotá D.C." data-property-id="1631-C00008-07">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Constructora" />
+			<input type="hidden" name="property-state" id="property-state" value="Nuevo" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Nuevo" data-property-stratum="4" data-property-price="733075967" data-property-price-range="650&#39;000.001 a 880&#39;000.000" data-property-business-type="Venta" data-property-offerer="Constructora" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="464550" data-property-enterprise-id="6" data-property-city-zone-id="1-null" data-property-id="1631-C00008-07" data-property-city-id="1" data-property-project-id="1631-C00008" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+            </div>
+            <div class="m_rs_list_item  ">
+                <div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="1631-C00008-01">
+		
+		<div class="image">
+		
+			
+				
+			<div class="image_tag green">Para Estrenar</div>
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-01">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-01/1631-C00008-01_2_p.jpg" data-detail-image="1631-C00008-01_2" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="1631-C00008-01" alt="Venta de Apartamento en CHAPINERO ALTO, Bogotá D.C. con  1 Habitaciones, 2 Baños, Estrato 4, Área 51.0 m2 y 1 Garages" data-default-image="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-01/1631-C00008-01_2_p.jpg" title="Apartamento en Venta en CHAPINERO ALTO, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">proyecto con excelente ubicación, cerca de los cerros orientales. los apartamentos tendrán vista hacia la ciudad y/o hacia los cerros. Además, cuentan con iluminación y ventilación en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+	<div class="header">
+		<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-01">
+			<h2 itemprop="name">Apartamento en Venta, CHAPINERO ALTO Bogotá D.C..</h2></a>
+	</div>
+</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$377.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>51.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>1</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>1</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="PROJECT">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Nuevo" data-property-city="Bogotá D.C." data-property-id="1631-C00008-01">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Constructora" />
+			<input type="hidden" name="property-state" id="property-state" value="Nuevo" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Nuevo" data-property-stratum="4" data-property-price="377000000" data-property-price-range="300&#39;000.001 a 400&#39;000.000" data-property-business-type="Venta" data-property-offerer="Constructora" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="464550" data-property-enterprise-id="6" data-property-city-zone-id="1-null" data-property-id="1631-C00008-01" data-property-city-id="1" data-property-project-id="1631-C00008" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+            </div>
+            <div class="m_rs_list_item  ">
+                <div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="1631-C00008-04">
+		
+		<div class="image">
+		
+			
+				
+			<div class="image_tag green">Para Estrenar</div>
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-04">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-04/1631-C00008-04_2_p.jpg" data-detail-image="1631-C00008-04_2" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="1631-C00008-04" alt="Venta de Apartamento en CHAPINERO ALTO, Bogotá D.C. con  3 Habitaciones, 2 Baños, Estrato 4, Área 103.0 m2 y 2 Garages" data-default-image="https://metrocuadrado.blob.core.windows.net/inmuebles/1631-C00008-04/1631-C00008-04_2_p.jpg" title="Apartamento en Venta en CHAPINERO ALTO, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">proyecto con excelente ubicación, cerca de los cerros orientales. los apartamentos tendrán vista hacia la ciudad y/o hacia los cerros. Además, cuentan con iluminación y ventilación en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+	<div class="header">
+		<a itemprop="url" class="data-details-id" target="_blank" href="https://www.metrocuadrado.com/proyecto/segal/1631-C00008-04">
+			<h2 itemprop="name">Apartamento en Venta, CHAPINERO ALTO Bogotá D.C..</h2></a>
+	</div>
+</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$837.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>103.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>3</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="PROJECT">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Nuevo" data-property-city="Bogotá D.C." data-property-id="1631-C00008-04">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Constructora" />
+			<input type="hidden" name="property-state" id="property-state" value="Nuevo" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Nuevo" data-property-stratum="4" data-property-price="837000000" data-property-price-range="650&#39;000.001 a 880&#39;000.000" data-property-business-type="Venta" data-property-offerer="Constructora" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="464550" data-property-enterprise-id="6" data-property-city-zone-id="1-null" data-property-id="1631-C00008-04" data-property-city-id="1" data-property-project-id="1631-C00008" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+            </div>
+            <div class="m_banner ">		
+  		<a href="https://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">
+ 		<img src="/estatico/metrocuadrado-results/images/resultados_banner_solicitudes.jpg" /></a>
+  	</div><div class="m_rs_list_paginator">
+		
+		
+		<input class="list-paginator" data-request-param="currentPage" id="current-page-list" name="current-page-list" type="hidden" value="1" />
+		<input class="list-paginator" data-request-param="totalPropertiesCount" id="total-properties-count-list" name="total-properties-count-list" type="hidden" value="4" />
+		<input class="list-paginator" data-request-param="totalUsedPropertiesCount" id="total-used-properties-count-list" name="total-used-properties-count-list" type="hidden" value="0" />
+		<input class="list-paginator" data-request-param="totalNewPropertiesCount" id="total-new-properties-count-list" name="total-new-properties-count-list" type="hidden" value="4" />
+
+		
+		
+	</div>
+        </div>
+        <!-- main -->
+    </div>
+
+</div>
+		</div>
+		
+
+  
+<!-- 		<hr id="last-seen-properties-separator" class="separator" /> -->
+
+		<div id="last-seen-properties-container" class="wrapper wrapper_space m2_list" style="display:block">
+		<div class="m_property_carousel" id="lastseenpropertiescontainer">
+			<div class="m_property_carousel_title" id="tituloPanelUltimosVistos" style="display: none;">
+				<h3>&Uacute;ltimos inmuebles vistos</h3>
+			</div>
+			
+		</div>
+	</div>
+
+		<div id="result-list-view-banner" class="m_banner "></div>
+
+		<hr id="footer-separator" class="separator" /> 
+
+		<div id="list-contact" class="mfp-hide">
+		<div class="m_popup_contact_seller">
+			<h2 class="title">Env&iacute;a tus datos para que te contacten</h2>
+
+
+			<hr class="separator" />
+			<form action="#" data-form-validate="" novalidate="novalidate" id="send-my-contact">
+				<input type="hidden" id="propertyId" name="propertyId" /> <input type="hidden" id="offerer" name="offerer" /> <input type="hidden" id="propertyDescription" name="propertyDescription" />
+
+				<div class="data">
+					<div class="input_box">
+						<label for="name">Nombre</label>
+						<input type="text" name="name" id="name" required="" aria-required="true" value="" />
+					</div>
+					<div class="input_box">
+						<label for="telephone">Tel&eacute;fono</label>
+						<input type="text" name="telephone" id="telephone" required="" aria-required="true" class="validateDigitRepeated" maxlength="20" minlength="7" value="" />
+					</div>
+				</div>
+
+				<div class="form_checkbox m_acceptance_box">
+					<span class="checkbox webkit webkit55 not_msie custom-form_newsletter"><input id="newsletter" name="newsletter" type="checkbox" value="false" required="" aria-required="true" /></span>
+					<p class="label">
+						Acepto <a target="_blank" href="https://www.metrocuadrado.com/metrocuadrado-header/terminoscondiciones">pol&iacute;ticas y t&eacute;rminos</a> - <a target="_blank" href="https://www.metrocuadrado.com/metrocuadrado-header/avisoprivacidad">Aviso de
+							privacidad</a> y enviar mis datos al anunciante.
+					</p>
+				</div>
+
+				<div class="send_data">
+					<input type="submit" class="m_btn contact-seller" data-omniture-event="contactSeller" value="Quiero que me contacten" />
+				</div>
+			</form>
+		</div>
+
+	</div>
+
+		<div id="suggested">
+		<div class="m_real_estate_list">
+			<div class="wrapper">
+				<h2 class="title">B&Uacute;SQUEDAS SUGERIDAS</h2>
+				<ul class="m_list">
+					<li><a target="_blank" href="/apartamentos/arriendo/bogota/"><span>Apartamentos en </span><span>Arriendo </span><span>Bogota </span></a></li>
+					<li><a target="_blank" href="/apartamentos/arriendo/cali/"><span>Apartamentos en </span><span>Arriendo </span><span>Cali </span></a></li>
+					<li><a target="_blank" href="/apartamentos/arriendo/barranquilla/"><span>Apartamentos en </span><span>Arriendo </span><span>Barranquilla </span></a></li>
+					<li><a target="_blank" href="/apartamentos/arriendo/"><span>Apartamentos en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/apartamentos/venta/bogota/"><span>Apartamentos en </span><span>Venta </span><span>Bogota </span></a></li>
+					<li><a target="_blank" href="/apartamentos/venta/medellin/"><span>Apartamentos en </span><span>Venta </span><span>Medellin </span></a></li>
+					<li><a target="_blank" href="/apartamentos/venta/cali/"><span>Apartamentos en </span><span>Venta </span><span>Cali </span></a></li>
+					<li><a target="_blank" href="/apartamentos/venta/barranquilla/"><span>Apartamentos en </span><span>Venta </span><span>Barranquilla </span></a></li>
+					<li><a target="_blank" href="/casas/arriendo/bogota/"><span>Casas en </span><span>Arriendo </span><span>Bogota </span></a></li>
+					<li><a target="_blank" href="/casas/arriendo/medellin/"><span>Casas en </span><span>Arriendo </span><span>Medellin </span></a></li>
+					<li><a target="_blank" href="/apartamentos/arriendo/medellin/"><span>Apartamentos en </span><span>Arriendo </span><span>Medellin </span></a></li>
+					<li><a target="_blank" href="/casas/arriendo/cali/"><span>Casas en </span><span>Arriendo </span><span>Cali </span></a></li>
+					<li><a target="_blank" href="/casas/arriendo/barranquilla/"><span>Casas en </span><span>Arriendo </span><span>Barranquilla </span></a></li>
+					<li><a target="_blank" href="/casas/arriendo/"><span>Casas en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/casas/venta/bogota/"><span>Casas en </span><span>Venta </span><span>Bogota </span></a></li>
+					<li><a target="_blank" href="/casas/venta/medellin/"><span>Casas en </span><span>Venta </span><span>Medellin </span></a></li>
+					<li><a target="_blank" href="/casas/venta/cali/"><span>Casas en </span><span>Venta </span><span>Cali </span></a></li>
+					<li><a target="_blank" href="/casas/venta/barranquilla/"><span>Casas en </span><span>Venta </span><span>Barranquilla </span></a></li>
+					<li><a target="_blank" href="/fincas/arriendo/"><span>Fincas en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/lotes/arriendo/"><span>Lotes en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/oficinas/arriendo/"><span>Oficinas en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/consultorios/arriendo/"><span>Consultorios en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/locales/arriendo/"><span>Locales en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/bodegas/arriendo/"><span>Bodegas en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/edificios-oficinas/arriendo/"><span>Edificios oficinas en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/edificios-apartamentos/arriendo/"><span>Edificios apartamentos en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/inmuebles/arriendo/"><span>Inmuebles en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/fincas/venta/"><span>Fincas en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/lotes/venta/"><span>Lotes en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/oficinas/venta/"><span>Oficinas en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/consultorios/venta/"><span>Consultorios en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/locales/venta/"><span>Locales en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/bodegas/venta/"><span>Bodegas en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/edificios-oficinas/venta/"><span>Edificios oficinas en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/edificios-apartamentos/venta/"><span>Edificios apartamentos en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/inmuebles/venta/"><span>Inmuebles en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/apartamentos/venta/"><span>Apartamentos en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/casas/venta/"><span>Casas en </span><span>Venta </span></a></li>
+					<li><a target="_blank" href="/vivienda/arriendo/"><span>Vivienda en </span><span>Arriendo </span></a></li>
+					<li><a target="_blank" href="/vivienda/venta/"><span>Vivienda en </span><span>Venta </span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+
+		<div>
+		<!-- Inicio mensaje limite de favoritos superado -->
+		<div class="contenedor_favoritos_superado" style="display: none;">
+			<div class="mfp-bg"></div>
+			<div class="mfp-wrap">
+				<div class="mfp-container">
+					<div class="mfp-content">
+						<div class="m_popup_hide_ad">
+							<h2 class="title">L&iacute;­mite de favoritos alcanzado</h2>
+							<p>Ha alcanzado el l&iacute;­mite de inmuebles que puede marcar como
+								favoritos. Revise y elimine inmuebles de su listado de
+								favoritos.</p>
+						</div>
+						<button title="Close (Esc)" type="button" class="mfp-close">X</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Fin mensaje limite de favoritos superado -->
+	</div>
+
+		<div class="footer">
+		<div class="m_real_estate_list">
+		
+		<!-- ./wrapper -->
+		<!--Contiene como valor el lugar donde se origina la b�squeda desde el header, necesario para Omniture -->
+		<input type="hidden" id="search-origin" value="header-results" />
+	</div>
+		<div id="footer">
+			
+<html>
+<body>
+	<!-- ./m_real_estate_list -->
+	<div class="m_contact_social">
+		<div class="wrapper">
+			<div class="contact">
+				<div class="col">
+					<h3 class="title">
+						Oficinas<br />Metrocuadrado
+					</h3>
+					<p>
+						Avenida de calle 26 No. 68B-70<br /> Casa Editorial El Tiempo.
+						Bogotá.<br />Colombia.<br /> (571)425 1734.
+					</p>
+				</div>
+				<div class="col last">
+					<strong>Línea Nacional: </strong>
+					<p>
+						01 8000 115 252
+					</p>
+				</div>
+			</div>
+
+			<div class="col s-col social">
+				<h3 class="title">Síguenos en</h3>
+				<ul>
+					<li><a href="https://twitter.com/metrocuadrado" target="_blank"><span class="sm_tw">Tweeter</span></a></li>					
+					<li><a href="http://www.facebook.com/metrocuadradocom" target="_blank"><span class="sm_fb">Facebook</span></a></li>
+					<li><a href="https://www.instagram.com/metrocuadradooficial/?utm_source=ig_profile_share&amp;igshid=1srxatoub206l" target="_blank"><span class="sm_go">Instagram</span></a></li>
+					<li><a href="https://www.youtube.com/user/METROCUADRADOcom" target="_blank"><span class="sm_yt">You Tube</span></a></li>	
+				</ul>
+			</div>
+		</div>
+		<!-- ./wrapper -->
+	</div>
+	<!-- ./m_contact_social-->
+	<div class="m_footer_others">
+		<div class="wrapper">
+			<ul class="legal">
+				<li><a rel="nofollow" href="/metrocuadrado-header/terminoscondiciones" target="_blank">Política
+						y términos</a></li>
+				<li><a rel="nofollow" href="/metrocuadrado-header/avisoprivacidad" target="_blank">Aviso de privacidad</a></li>
+				<li><a rel="nofollow" href="/metrocuadrado-header/politicaCookies" target="_blank">
+					   Política Datos de Navegación</a></li>
+				<li><a rel="nofollow" href="https://www.eltiempo.com/linea-etica" target="_blank">
+					   Línea Ética</a></li>
+				<li><a rel="nofollow" href="/metrocuadrado-header/contactenos?tipoContacto=quejasYReclamos" target="_blank">Quejas
+						y reclamos</a></li>
+				<li><a rel="nofollow" href="/metrocuadrado-header/ayuda" target="_blank">Ayuda</a></li>
+			</ul>
+			<hr />
+			<h3 class="title">Nuestros portales especializados</h3>
+			<ul class="portals_icons">
+				<li><a href="https://clasificados.eltiempo.com/" target="blank"><span class="pt_clasified">El tiempo clasificados</span></a></li>
+				<li><a href="http://www.elempleo.com/colombia/trabajo/ofertas.aspx" target="blank"><span class="pt_job">El empleo</span></a></li>
+				<li><a href="http://www.carroya.com/" target="blank"><span class="pt_motor">Carroya</span></a></li>
+				<li><a href="http://www.guiaacademica.com/" target="blank"><span class="pt_studies">guia académica</span></a></li>
+				<li><a href="https://goo.gl/KJk6hu" target="blank"><span class="pt_contrato">TratoconTrato</span></a></li>
+			</ul>
+			<hr />
+			<div class="logo_tiempo">
+				<a href="http://www.eltiempo.com/" target="blank"><span>
+						el tiempo </span></a>
+			</div>
+			<div class="info-logo-superint">
+				<p class="info">
+					Copyright &amp; <span id="copyright-year"></span> Metrocuadrado.com. Usar este site implica que
+					aceptas nuestras <a href="/metrocuadrado-header/terminoscondiciones" target="_blank">Políticas y Términos | 
+					<a href="/metrocuadrado-header/avisoprivacidad" target="_blank"></a> Aviso
+						de Privacidad | </a>
+						<a href="/metrocuadrado-header/politicaCookies" target="_blank">Politica datos de Navegación</a> 
+						<br /> Prohibida su reproducción total o parcial,
+					así como su traducción a cualquier idioma sin autorización escrita
+					de su titular.
+				</p>
+				<a href="http://www.sic.gov.co/" target="blank"><img src="/estatico/metrocuadrado-header-resources/images/icons/png/logo_super_industria_comercio.png" alt="Logo - Superintendencia de Industria y comercio" /></a>
+			</div>
+			<div class="portals_list">
+				<div class="accordion_footer">
+					<div data-collapsable="" class="accordion_collapsable" data-collapsable-group="group_01">
+						<a class="title" href="#" data-collapsable-toggle="">Conoce nuestra red de portales</a>
+						<div data-collapsable-content="">
+							<ul class="col s-col">
+								<li><a href="http://www.portafolio.co/" target="blank">PORTAFOLIO.CO</a>
+									Noticias de Economía</li>
+								<li><a href="http://bogota.vive.in/bogota/index.html" target="blank">VIVE.IN</a> Planes en Bogotá</li>
+								<li><a href="http://www.futbolred.com/" target="blank">FUTBOLRED.COM</a>
+									Fútbol colombiano</li>
+								<li><a href="http://www.carroya.com/" target="blank">CARROYA.COM</a>
+									Venta de carros</li>
+								<li><a href="http://www.revistadonjuan.com/" target="blank">REVISTADONJUAN.COM</a>
+									Fotos de mujeres</li>
+							</ul>
+							<ul class="col s-col">
+								<li><a href="http://www.abcdelbebe.com/" target="blank">ABCDELBEBÉ.COM</a>
+									Embarazo</li>
+								<li><a href="http://www.eltiempo.com/revista-motor" target="blank">MOTOR.COM.CO</a> Carros y motos</li>
+								<li><a href="http://diarioadn.co/" target="blank">DIARIOADN.CO</a>
+									Noticias de Bogotá</li>
+								<li><a href="http://www.guiaacademica.com/" target="blank">GUIA
+										ACADEMICA.COM</a> Educación en Colombia</li>
+								<li><a href="http://alo.co/" target="blank">ALO.CO</a>
+									Consejos para mujeres</li>
+							</ul>
+							<ul class="col s-col">
+								<li><a href="http://www.elempleo.com/colombia/trabajo/ofertas.aspx" target="blank">ELEMPLEO.COM</a> Clasificados de trabajo</li>
+								<li><a href="http://www.circulodelectores.com.co/" target="blank">CÍRCULODELECTORES.COM.CO</a> Venta de
+									libros</li>
+								<li><a href="https://clasificados.eltiempo.com/" target="blank">CLASIFICADOS.ELTIEMPO.COM</a> Clasificados</li>
+								<li><a href="http://www.citytv.com.co/" target="blank">CITYTV.COM.CO</a>
+									Videos de entretenimiento</li>
+								<li><a href="http://www.eltiempo.com/" target="blank">ELTIEMPO.COM</a>
+									Portal de noticias</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- ./portal_list -->
+		</div>
+		<!-- ./wrapper -->
+	</div>
+	<script src="/estatico/metrocuadrado-detail/js/jquery.cookie.js"></script>
+ 	<script src="/estatico/metrocuadrado-detail/js/clearCookiesContact.js"></script>
+ 	<script type="text/javascript">_satellite.pageBottom();</script>
+ 	<script>
+
+		function getCopyRightYear(){
+		  var today = new Date();
+		  var year = today.getFullYear();
+		  document.getElementById("copyright-year").innerHTML = year;
+		}    
+    
+      $(function() {    	  
+    	getCopyRightYear();
+    	
+      });
+    </script>
+</body>
+</html>
+
+		</div>
+	</div>
+
+
+	</div>
+
+	<div id="login" class="mfp-hide">
+		<div class="m_login">
+			<div class="m_login_bg"></div>
+			<div class="m_login_close" data-login-toggle=""></div>
+
+			<div class="m_login_content">
+				<div class="m_login_content_title">Ingresa a MetroCuadrado, el
+					mejor portal inmobiliario de Colombia</div>
+				<div class="m_login_content_error">Se ha producido un error en
+					el servidor, int&eacute;ntelo m&aacute;s tarde</div>
+				<form action="#" data-form-validate="">
+					<div class="input_box">
+						<label for="login_user">Usuario</label> <input type="email" id="login_user" for="login_user" placeholder="Usuario" />
+					</div>
+					<div class="input_box">
+						<label for="login_pass">Clave</label> <input type="password" id="login_pass" for="login_pass" placeholder="Clave" />
+					</div>
+
+					<input type="submit" value="Ingresar" class="m_btn big" />
+
+					<div class="m_login_social">
+						<div class="col_social">
+							<a href="#" class="m_btn fb">Ingresar con Facebook</a>
+						</div>
+						<div class="col_social">
+							<a href="#" class="m_btn gp">Ingresar con Google</a>
+						</div>
+					</div>
+
+					<div class="m_login_links">
+						<div class="col_link">
+							<a href="#">¿Olvid&oacute; su clave?</a>
+						</div>
+						<div class="col_link">
+							<a href="#">Reg&iacute;strese</a>
+						</div>
+					</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div id="advertising" style="display: none;">
+
+		<div id="top-mpu-ad">
+			<div id="sas_9346">
+				<!-- init desktop top mpu ad  -->
+				<noscript>
+					<a href="https://ads.eltiempo.co/ac?jump=1&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9346&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" target="_blank"> <img src="https://ads.eltiempo.co/ac?out=nonrich&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9346&amp;visit=m&amp;tmstp=[timestamp]" border="0" alt="" /></a>
+				</noscript>
+				<!-- end desktop top mpu ad  -->
+			</div>
+		</div>
+		
+		
+		<div id="results-list-ad-1">
+			<div id="sas_9648">
+				<!-- init desktop top mpu ad  -->
+				<noscript>
+    				<a href="https:////ads.eltiempo.co/ac?jump=1&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9648&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" target="_blank">
+        			<img src="https:////ads.eltiempo.co/ac?out=nonrich&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9648&amp;visit=m&amp;tmstp=[timestamp]" border="0" alt="" />
+    				</a>
+				</noscript>
+				<!-- end desktop top mpu ad  -->
+			</div>
+		</div>
+		
+		
+		<div id="results-list-ad-2">
+            <div id="sas_9649">
+                <!-- init desktop top mpu ad  -->
+                <noscript>
+                    <a href="https://ads.eltiempo.co/ac?jump=1&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9649&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" target="_blank">
+                    <img src="https://ads.eltiempo.co/ac?out=nonrich&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9649&amp;visit=m&amp;tmstp=[timestamp]" border="0" alt="" />
+                    </a>
+                </noscript>
+                <!-- end desktop top mpu ad  -->
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+	</div>
+
+	<div id="loader" class="contenedor-cargador" style="display: none;">
+		<div class="cargador">
+			<img src="/estatico/metrocuadrado-results/images/M2_loader.gif" alt="Cargando..." />
+			<p id="loader-message">
+				<strong>Mostrando:</strong>Proyectos nuevos Lorem Ipsum es
+				simplemente el texto de relleno de las imprentas y archivos de texto
+				Lorem Ipsum es simplemente el texto de relleno de las imprentas y
+				archivos de texto ...
+			</p>
+		</div>
+		
+		<script>
+		/*<![CDATA[*/
+		           var searchPropertiesMessage = 'Buscando inmuebles...';
+		 /*]]>*/
+		</script>
+		<script type="text/javascript" src="/estatico/metrocuadrado-results/js/loader.js"></script>
+		
+	</div>
+
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+
+		$(document).ready(
+				function(){
+					$.ajaxSetup({ cache: false });		
+					var headerUrl = '/metrocuadrado-header/includeSearchPanel';
+					var footerUrl = '/estatico/metrocuadrado-footer/footer.html';
+					var dontShowHighlight = null;
+		
+
+					currentViewType = 'list';
+					currentViewUrl = '/search/list/ajax';
+					currentViewContainer = 'resultListHtmlContainer';
+					
+					$(document).ajaxStop(function(){
+							M2.init();
+							$(window).trigger('resize');
+							
+						}
+					);
+
+					$('.bg_inf').addClass('visible');	
+					filterButtonMobile();
+					initLocationAutocomplete();
+					initStructuredSearch();
+					initFilterValues();
+					if(!dontShowHighlight){initHighlightedProperties()};
+					initHeader(true);					
+					initChangeResultView();
+					initListPaginator();
+					initSaveSearch();
+					initFavorites();
+					initVisualizeDetails();
+					initContactSeller();					
+					initOmnitureEvents();
+					loadResultsStatsEvent();
+					initLastSeenProperties();					
+					initDetailImageLoad(".detail_image");
+
+					//load("footer",footerUrl);
+					//history.pushState(null,document.title,window.location.href);
+				}
+		);
+		
+		/*]]>*/
+	</script>
+	<script type="text/javascript">
+			/*<![CDATA[*/
+			resultSearch = {'filters':{'midempresa':null,'madicionales':'','madicionales_normalized':'','keywords':{},'mvalorventa':null,'keywordsSpecialSortCriteria':[],'currentQuery':'/bogota/chapinero/*/*/*/*/2/2///1/300/0//','mtipoinmueble':{'$type':'PropertyType','$name':'APARTMENT'},'h1':'Apartamento en Venta en Bogota, bogota Para estrenar','title':'Apartamento en Venta Para estrenar en Bogota, bogota  - Vivienda Nueva y Usada','pageBlockSize':1,'totalResultsCount':4,'mtiempoconstruido':{'$type':'KeywordSpecialFilterType','$name':'BRAND_NEW'},'msector':null,'mtiponegocio':{'$type':'BusinessType','$name':'SALE'},'marea':null,'identifiedSeoItems':[{'indexOf':1,'normalizedValue':'bogota','showValue':'Bogota'},{'indexOf':18,'normalizedValue':'venta','showValue':'Venta'},{'indexOf':24,'normalizedValue':'apartamento','showValue':'Apartamento'},{'indexOf':36,'normalizedValue':'para-estrenar','showValue':'Para estrenar'}],'customFilter':[{'dateFormat':null,'fieldsToCompare':null,'fuzziness':false,'maxValue':null,'minShouldMatch':100,'minShouldMatchPercentage':'100%','minValue':null,'multimatch':false,'mustNot':false,'name':'mubicacion','subFilters':null,'type':{'$type':'FilterType','$name':'SIMPLE'},'validFilter':true,'value':'bogota','valueType':{'$type':'FilterValueType','$name':'STRING_VALUE'}}],'mvalorarriendo':null,'mbarrio':null,'normalizedKeywords':{},'totalNewPropertiesCount':0,'mbasico':'','selectedLocationFilter':'mubicacion','multiplePropertiesLength':1,'mubicacion_normalized':'bogota','mzona':'chapinero','newPropertiesPerPage':3,'usedPropertiesPerPage':47,'totalPropertiesCount':300,'mubicacion':'Bogota','mciudad':'bogota','mnrocuartos':null,'identifiedKeywords':[{'indexOf':36,'normalizedValue':'para-estrenar','showValue':'Para estrenar'}],'selectedLocationCategory':'5','mnrobanos':null,'visiblePages':5,'mnrogarajes':null,'searchFromHeader':false,'singlePropertiesPerPage':50,'dym':[{'category':1,'cityName':'Bogot\xE1 D.C.','description':'Cundinamarca','groupId':null,'groupName':'null','label':'Bogot\xE1 D.C.','normalizedName':'bogota/bogota'},{'category':3,'cityName':'Bogot\xE1 D.C.','description':'Zona Norte, Bogot\xE1 D.C.','groupId':null,'groupName':'null','label':'Bogota D.C.','normalizedName':'bogota/bogota-dc'},{'category':3,'cityName':'Bogot\xE1 D.C.','description':'Zona Norte, Bogot\xE1 D.C.','groupId':null,'groupName':'null','label':'Norte De Bogota Bosques De La Ca\xBFAda','normalizedName':'bogota/norte-de-bogota-bosques-de-la-caada'},{'category':3,'cityName':'Bogot\xE1 D.C.','description':'Zona Sur, Bogot\xE1 D.C.','groupId':null,'groupName':'null','label':'Bogota Protecho Ii','normalizedName':'bogota/bogota-protecho-ii'}],'originalQuery':'/bogota/chapinero/venta/apartamento/para-estrenar/para-estrenar/2/2///1/300/0//','currentPage':1,'paginatorView':{'currentPage':1,'firstBlockPage':1,'firstViewPage':1,'lastBlockPage':1,'lastPage':1,'lastViewPage':1,'resultsPerPage':50,'totalNewResults':4,'totalResults':4,'totalUsedResults':0},'totalUsedPropertiesCount':300,'queryWithNoInitialResults':false},'offset':0,'paginatorView':{'currentPage':1,'firstBlockPage':1,'firstViewPage':1,'lastBlockPage':1,'lastPage':1,'lastViewPage':1,'resultsPerPage':50,'totalNewResults':4,'totalResults':4,'totalUsedResults':0},'properties':[{'adicionales':null,'altSEO':' de Apartamento en CHAPINERO ALTO, Bogot\xE1 D.C. con  1 Habitaciones, 2 Ba\xF1os, Estrato 4, \xC1rea 64.0 m2 y 2 Garages','area':64.0,'bathrooms':'2','builder':'CUSEZAR','businessType':'Venta','city':'Bogot\xE1 D.C.','cityId':'1','communNeighborhood':'CHAPINERO ALTO','companyId':'6','constructionTime':'Para Estrenar','description':'proyecto con excelente ubicaci\xF3n, cerca de los cerros orientales. los apartamentos tendr\xE1n vista hacia la ciudad y/o hacia los cerros. Adem\xE1s, cuentan con iluminaci\xF3n y ventilaci\xF3n en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.','detailUrl':'/proyecto/segal/1631-C00008-03','enterpriseId':'CUSEZAR','expirationDate':null,'garages':'2','id':'1631-C00008-03','imageUrl':'1631-C00008-03_11','latitute':4.645329,'longitude':-74.05388,'lotType':null,'neighborhood':'CHAPINERO ALTO','offerer':'Constructora','price':471425700,'priceRange':'400\'000.001 a 500\'000.000','projectId':null,'propertyState':'Nuevo','propertyType':'Apartamento','propertyTypeId':'1','publicationDate':'0017-03-26T00:00:00.000Z','realEstate':null,'rentPrice':null,'rentPriceRange':null,'rooms':'1','salePrice':471425700,'salePriceRange':'400\'000.001 a 500\'000.000','stratum':'4','titleSEO':'Apartamento en Venta en CHAPINERO ALTO, Bogot\xE1 D.C.','visitorId':'464550','wharehouseType':null,'zoneId':null},{'adicionales':null,'altSEO':' de Apartamento en CHAPINERO ALTO, Bogot\xE1 D.C. con  2 Habitaciones, 2 Ba\xF1os, Estrato 4, \xC1rea 85.3 m2 y 2 Garages','area':85.3,'bathrooms':'2','builder':'CUSEZAR','businessType':'Venta','city':'Bogot\xE1 D.C.','cityId':'1','communNeighborhood':'CHAPINERO ALTO','companyId':'6','constructionTime':'Para Estrenar','description':'proyecto con excelente ubicaci\xF3n, cerca de los cerros orientales. los apartamentos tendr\xE1n vista hacia la ciudad y/o hacia los cerros. Adem\xE1s, cuentan con iluminaci\xF3n y ventilaci\xF3n en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.','detailUrl':'/proyecto/segal/1631-C00008-07','enterpriseId':'CUSEZAR','expirationDate':null,'garages':'2','id':'1631-C00008-07','imageUrl':'1631-C00008-07_1','latitute':4.645329,'longitude':-74.05388,'lotType':null,'neighborhood':'CHAPINERO ALTO','offerer':'Constructora','price':733075967,'priceRange':'650\'000.001 a 880\'000.000','projectId':null,'propertyState':'Nuevo','propertyType':'Apartamento','propertyTypeId':'1','publicationDate':'0017-03-26T00:00:00.000Z','realEstate':null,'rentPrice':null,'rentPriceRange':null,'rooms':'2','salePrice':733075967,'salePriceRange':'650\'000.001 a 880\'000.000','stratum':'4','titleSEO':'Apartamento en Venta en CHAPINERO ALTO, Bogot\xE1 D.C.','visitorId':'464550','wharehouseType':null,'zoneId':null},{'adicionales':null,'altSEO':' de Apartamento en CHAPINERO ALTO, Bogot\xE1 D.C. con  1 Habitaciones, 2 Ba\xF1os, Estrato 4, \xC1rea 51.0 m2 y 1 Garages','area':51.0,'bathrooms':'2','builder':'CUSEZAR','businessType':'Venta','city':'Bogot\xE1 D.C.','cityId':'1','communNeighborhood':'CHAPINERO ALTO','companyId':'6','constructionTime':'Para Estrenar','description':'proyecto con excelente ubicaci\xF3n, cerca de los cerros orientales. los apartamentos tendr\xE1n vista hacia la ciudad y/o hacia los cerros. Adem\xE1s, cuentan con iluminaci\xF3n y ventilaci\xF3n en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.','detailUrl':'/proyecto/segal/1631-C00008-01','enterpriseId':'CUSEZAR','expirationDate':null,'garages':'1','id':'1631-C00008-01','imageUrl':'1631-C00008-01_2','latitute':4.645329,'longitude':-74.05388,'lotType':null,'neighborhood':'CHAPINERO ALTO','offerer':'Constructora','price':377000000,'priceRange':'300\'000.001 a 400\'000.000','projectId':null,'propertyState':'Nuevo','propertyType':'Apartamento','propertyTypeId':'1','publicationDate':'0017-03-26T00:00:00.000Z','realEstate':null,'rentPrice':null,'rentPriceRange':null,'rooms':'1','salePrice':377000000,'salePriceRange':'300\'000.001 a 400\'000.000','stratum':'4','titleSEO':'Apartamento en Venta en CHAPINERO ALTO, Bogot\xE1 D.C.','visitorId':'464550','wharehouseType':null,'zoneId':null},{'adicionales':null,'altSEO':' de Apartamento en CHAPINERO ALTO, Bogot\xE1 D.C. con  3 Habitaciones, 2 Ba\xF1os, Estrato 4, \xC1rea 103.0 m2 y 2 Garages','area':103.0,'bathrooms':'2','builder':'CUSEZAR','businessType':'Venta','city':'Bogot\xE1 D.C.','cityId':'1','communNeighborhood':'CHAPINERO ALTO','companyId':'6','constructionTime':'Para Estrenar','description':'proyecto con excelente ubicaci\xF3n, cerca de los cerros orientales. los apartamentos tendr\xE1n vista hacia la ciudad y/o hacia los cerros. Adem\xE1s, cuentan con iluminaci\xF3n y ventilaci\xF3n en todos sus espacios. Es un conjunto cerrado, conformado por 117 apartamentos, en una torre de 17 pisos con 2 ascensores y un acceso vehicular independiente del peatonal. Sus zonas comunes se localizan en el primer nivel de la torre, y son terrazas para disfrutar de su excelente vista.','detailUrl':'/proyecto/segal/1631-C00008-04','enterpriseId':'CUSEZAR','expirationDate':null,'garages':'2','id':'1631-C00008-04','imageUrl':'1631-C00008-04_2','latitute':4.645329,'longitude':-74.05388,'lotType':null,'neighborhood':'CHAPINERO ALTO','offerer':'Constructora','price':837000000,'priceRange':'650\'000.001 a 880\'000.000','projectId':null,'propertyState':'Nuevo','propertyType':'Apartamento','propertyTypeId':'1','publicationDate':'0017-03-26T00:00:00.000Z','realEstate':null,'rentPrice':null,'rentPriceRange':null,'rooms':'3','salePrice':837000000,'salePriceRange':'650\'000.001 a 880\'000.000','stratum':'4','titleSEO':'Apartamento en Venta en CHAPINERO ALTO, Bogot\xE1 D.C.','visitorId':'464550','wharehouseType':null,'zoneId':null}],'total':4};
+			currentPage = 1;
+			visiblePages = parseInt('5');
+			/*]]>*/
+			</script>
+
+	<script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>

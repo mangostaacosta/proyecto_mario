@@ -1,0 +1,3403 @@
+<!doctype html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+
+<meta charset="utf-8" />
+
+<!-- Always force latest IE rendering engine or request Chrome Frame -->
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="description" />
+
+
+<!-- OpenGraph -->
+
+<meta property="og:url" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Apartamento en Venta en Norte, Bogot&amp;aacute; Para estrenar" />
+<meta property="og:description" />
+<meta property="og:image" content="http://www.metrocuadrado.com/images/logo-metrocuadrado-home.png" />
+<meta property="og:site_name" content="metrocuadrado.com" />
+<meta property="fb:admins" content="facebook cuenta m2" />
+<meta property="fb:app_id" content="facebook app m2" />
+
+
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@metrocuadrado" />
+<meta name="twitter:creator" content="@metrocuadrado" />
+<meta name="twitter:title" content="Apartamento en Venta en Norte, Bogot&amp;aacute; Para estrenar" />
+<meta name="twitter:description" />
+<meta name="twitter:image" content="http://www.metrocuadrado.com/images/logo-metrocuadrado-home.png" />
+
+
+<!-- Use title if it's in the page YAML frontmatter -->
+<title>Apartamento en Venta Para estrenar en Norte, Bogotá</title>
+
+<!--[if lt IE 9]>
+    <script src="assets/javascripts/html5shiv.js" type="text/javascript"></script>
+    <![endif]-->
+
+<!--[if lte IE 9]>
+    <link href="assets/stylesheets/stylesheets.ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+<link href="/estatico/metrocuadrado-results/css/stylesheets.css" rel="stylesheet" type="text/css" />
+<link href="/estatico/metrocuadrado-results/css/results-styles.css" rel="stylesheet" type="text/css" />
+
+<link rel="canonical" />
+
+
+<!-- Google FONTS -->
+
+
+<link href="//fonts.googleapis.com/css?family=Oswald:400,700,300|Raleway:400,500,600,700,300,100" rel="stylesheet" type="text/css" />
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WTMXDZ');</script>
+<!-- End Google Tag Manager -->
+<!-- see statics/gulpfile.js -->
+<script src="/estatico/metrocuadrado-results/js/jsFilesResults1.min.js" type="text/javascript"></script>
+
+
+<!-- Tag CrazyEgg -->
+<script type="text/javascript">
+		setTimeout(function() {			
+			var a = document.createElement("script");
+			var b = document.getElementsByTagName("script")[0];
+			a.src = document.location.protocol
+					+"//script.crazyegg.com/pages/scripts/0017/1361.js";
+			a.async = true;
+			a.type = "text/javascript";
+			b.parentNode.insertBefore(a, b)
+		}, 1);
+	</script>
+<!-- End Tag CrazyEgg -->
+
+<!-- Tag Criteo -->
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="async"></script>
+	<script>
+	var date = new Date(); //current date to create the cookie
+	var expires; //expire date of the cookie
+	var value; //cookie's value
+	var url =  window.location.href.substring(1);
+	var valor = url.search("utm_source=criteo")
+	
+	date.setTime(date.getTime()+(30*24*60*60*1000));
+	expires = date.toUTCString();
+	value = valor!=-1?"criteo":"other";
+	document.cookie = "__utmz=" + value + "; expires=" + expires + "; path=/";
+</script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			
+			var testarray=[];
+	           testarray = $(".detail_wrap").map(function () {
+	               return this.id;
+	           });
+	           var inmuebles = $.makeArray(testarray);
+	           var IdInmueble = [];
+	           IdInmueble.push(inmuebles[0]);
+	           IdInmueble.push(inmuebles[1]);
+	           IdInmueble.push(inmuebles[2]);
+	           //var idInmueble = inmuebles[0] + ","+ inmuebles[1]+ "," + inmuebles[2];
+	           //var idInmuebles = inmuebles.join();
+
+		window.criteo_q = window.criteo_q || [];
+		var typeVar = identiDispositivo();		 	
+		
+		window.criteo_q.push(
+		    { event: "setAccount", account: 25719 },		    
+		    { event: "setSiteType", type: typeVar},
+		    { event: "viewList", item: IdInmueble}
+		);
+
+		function identiDispositivo(){
+			
+			var dispositivo = navigator.userAgent;
+			
+			if (dispositivo.match(/Iphone/i)|| dispositivo.match(/Ipod/i)|| dispositivo.match(/Android/i)|| dispositivo.match(/J2ME/i)|| dispositivo.match(/BlackBerry/i)|| dispositivo.match(/iPhone|iPod/i)|| dispositivo.match(/Opera Mini/i)|| dispositivo.match(/IEMobile/i)|| dispositivo.match(/Mobile/i)|| dispositivo.match(/Windows Phone/i)|| dispositivo.match(/windows mobile/i)|| dispositivo.match(/windows ce/i)|| dispositivo.match(/webOS/i)|| dispositivo.match(/palm/i)|| dispositivo.match(/bada/i)|| dispositivo.match(/series60/i)|| dispositivo.match(/nokia/i)|| dispositivo.match(/symbian/i)|| dispositivo.match(/HTC/i)){
+				return "m";	
+			}
+			else if(dispositivo.match(/iPad/i)){
+				return "t";
+			}else{
+				return "d";
+			}
+		}
+
+	});
+</script>
+<!-- END Tag Criteo -->	
+
+<!-- Tag DTM -->
+
+<script src="//assets.adobedtm.com/41d3b477534338831f14b02d7af1cd359b73904f/satelliteLib-8aeb63a9ee18c0379a15a0fcb080dcbc94c88dd8.js"></script>
+<!-- End Tag DTM -->
+
+<script src="http://ak-ns.sascdn.com/diff/js/smart.js" type="text/javascript" async="async"></script>
+	
+<script type="text/javascript">
+var sas = sas || {};
+sas.cmd = sas.cmd || [];
+sas.cmd.push(function() {
+    sas.setup({ domain: "http://ads.eltiempo.com", async: true });
+});
+
+</script>
+
+<script type="text/javascript">
+var s_account='eltiempometrocuadradoprod,eltiempoglobal';
+var loadResultsStatsEventName='load-results';
+var viewPhoneStatsEventName='view-phone';
+var sendMyContactStatsEventName='send-my-contact';
+
+var detailImageAzureServer='http://static.metrocuadrado.com/inmuebles';
+var detailImageAmazonServer='http://e.metrocuadrado.com.s3.amazonaws.com/inmuebles';
+var unAvailableDetailNImageUrl='/estatico/metrocuadrado-results/images/foto_no_disponible_n.jpg';
+var unAvailableDetailPImageUrl='/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg';
+var serverString = 'http://www.metrocuadrado.com';
+</script>
+
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults2.min.js"></script>
+	
+<script type="text/javascript">
+
+/*<![CDATA[*/
+	var propertyState=null;
+	var totalResultsCount = 194;
+	var city = 'Bogot\xE1';
+	var zone = 'norte';
+	var neighborhood = null;
+	var propertyType = 'apartamento';
+	var businessType = 'venta';
+	var queryWithNoInitialResults = false;
+	if(propertyState==null && businessType!=null){
+		if(businessType=='venta'){
+			propertyState = "nuevo y usado";
+		}else{
+			propertyState = "usado";
+		}
+	}
+	
+	currentViewType = 'list';
+	setOmnitureChannel();
+	initResultPageOmnitureEvents();
+	/*]]>*/
+	
+</script>		
+	
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults3.min.js"></script>
+
+<script>
+	var locationAutocompleteContentUrl = 'http://www.metrocuadrado.com/estatico/locations.js'
+</script>
+
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/locations-autocomplete.js"></script>
+
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults4.min.js"></script>
+	
+
+<script type="text/javascript">
+	var metrocuadradoResultsUrlContext = '/';
+
+	//Initialize result in map variables
+	var dragMoveEnableEventPercentage = '50';
+	var maxMarkers = null;
+	var urlGoogleMapsAPIJs = 'https://maps.googleapis.com/maps/api/js?v=3.27&libraries=geometry&language=es&channel=m2_web_resultados&client=gme-casaeditorialeltiempo';
+	var urlM2MapAPIJs =  '/estatico/metrocuadrado-results/js/map.js';
+	var mapLoaded = false;
+
+</script>
+
+<script type="text/javascript">
+	$(function() {
+	    $('.lazy').lazy();
+	});
+</script>
+
+
+
+
+<style type="text/css">
+.m_location_ma {
+	width: 100%;
+	height: 600px;
+}
+</style>
+
+<style type="text/css">
+.p_absolute {
+	position:absolute;
+}
+</style>
+
+<link href="/estatico/metrocuadrado-results/css/locations-autocomplete.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body data-sticky_parent="" class="body_resultados_mapa">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTMXDZ" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<div id="page" class="m2_list list_view">
+
+		<header id="header">		 	
+		 	<div>
+
+<html lang="en">
+<head>
+<!--[if lt IE 9]>
+    <script th:src="|${@properties.getProperty('static.resources.baseurl')}/js/html5shiv.js|" type="text/javascript"></script>
+    <![endif]-->
+
+<!--[if lte IE 9]>
+    <link th:href="|${@properties.getProperty('static.resources.baseurl')}/css/stylesheets.ie.css|" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<!-- 
+<link th:href="|${@properties.getProperty('static.resources.baseurl')}/css/stylesheets.css|" rel="stylesheet" type="text/css" />
+
+Google FONTS
+<link href='//fonts.googleapis.com/css?family=Oswald:400,700,300|Raleway:400,500,600,700,300,100' rel='stylesheet' type='text/css' />
+<style type="text/css">
+body, td, th {
+	font-family: Raleway;
+}
+</style> -->
+<style>
+.usuario_opciones ul li a
+	{
+	padding: 15px 0px 15px 40px;
+	}
+.usuario_opciones ul li
+	{
+	padding: 10px 0;
+	}	
+.usuario_opciones .m_header_combo
+	{
+	padding: 0px 0px;
+	}
+</style>
+</head>
+<body>
+	
+	<input type="hidden" id="facebookApplicationId" value="163952777486318" />
+	
+		
+	<div class="m_header_alt">
+		
+		<div class="bg_sup_alt">
+			
+		</div>
+		
+		<div class="bg_main_alt">
+			<div class="m_header_main_alt">
+				<div class="m_header_main_wrap_alt">
+					<div id="logo_alt">
+						<a href="http://www.metrocuadrado.com/"> <img src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+							<h1 class="logo_hide_alt">Metro cuadrado</h1>
+						</a>
+					</div>
+					<ul id="menu_level_0_alt">
+						<li class="item_alt hide_for_mobile_alt btn_menusearch"><span class="active">Buscar inmuebles</span></li>
+						<li class="item_alt has_sublevel_al noticias"><span onmouseover="sendOmnitureEventMegaMenu('Noticias y Tendencias')">Noticias
+								y Tendencias</span>
+							<div class="level_1_alt menu_noticias">
+
+								<div class="m_header_combo_alt">
+									<em class="close_alt"> Cerrar <span></span></em>
+
+									<div class="m_header_combo_wrap_alt">
+										<div class="col_1_alt">
+											<div class="title_alt">Noticias y Tendencias</div>
+											<ul class="m_list_alt dark_alt">
+												<li><a href="http://www.metrocuadrado.com/noticias/">Noticias</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/economia/">Econom&iacute;a</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/decoracion/">Decoraci&oacute;n</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/arquitectura/">Arquitectura</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/entretenimiento/">Entretenimiento</a></li>
+												<li><a href="${header.ahref.actualidadHref}">Actualidad</a></li>
+											</ul>
+										</div>
+										<div class="col_3_alt">
+											<div class="title_alt">Lo último en Metrocuadrado.com</div>
+											<ul>
+												<li><a class="m_image_link_small_alt" href="http://www.metrocuadrado.com/noticias/casas-de-famosos/el-actor-luciano-d-alessandro-nos-hizo-un-recorrido-por-su-casa-3307">
+														<img alt="" src="http://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/luciano_foto.jpg?itok=V7zFwXqD" /> <span>Recorre la casa del actor venezolano Luciano D&#39;Alessandro</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="http://www.metrocuadrado.com/noticias/arquitectura/conoce-los-estadios-que-seran-sede-del-mundial-de-rusia-2018-3291">
+														<img alt="" src="http://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/fisht_stadium2.jpg?itok=Oi6xwMbb" /> <span>Estos estadios serán sede del Mundial de Rusia 2018</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="http://www.metrocuadrado.com/noticias/casas-de-famosos/mi-casa-es-un-mensaje-diario-para-mi-daniella-moscarella-3292">
+														<img alt="" src="http://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/danielle_foto_arreglada1.jpg?itok=lTDbmnX4" /> <span>Conoce la casa de la joven empresaria Daniella Moscarella</span>
+												</a></li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="col_inf_alt">
+
+										<a href="http://www.metrocuadrado.com/noticias/tendencias/" class="m_btn_alt inline_alt inverted_alt"> Sobre noticias
+											y tendencias </a>
+
+
+									</div>
+								</div>
+							</div></li>
+						<li class="item_alt has_sublevel_alt herramientas"><span onmouseover="sendOmnitureEventMegaMenu('Herramientas')">Herramientas</span>
+							<div class="level_1_alt menu_herramientas">
+
+								<div class="m_header_combo_alt hide_for_mobile_alt hide_for_tablet_alt">
+									<em class="close_alt"> Cerrar <span></span></em>
+
+									<div class="m_header_combo_wrap_alt">
+										<div class="col_1_alt">
+											<div class="title_alt">Calculadoras</div>
+											<ul class="m_list_alt dark_alt">
+
+												<li><a href="http://www.metrocuadrado.com/calculadora-credito-hipotecario-vivienda/">Calculadora
+														de cr&eacute;dito </a></li>
+												<li><a href="http://www.metrocuadrado.com/calculadora-poliza-seguro-arrendamiento/">Calculadora de
+														seguros </a></li>
+												
+
+												
+
+												
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/precios-m2">Precios
+														m2</a></li>
+
+											</ul>
+											<div class="title_alt second">Tu Inmueble</div>
+									      <ul class="m_list_alt dark_alt">
+									        <li><a href="http://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">Solicita tu inmueble</a></li>
+									        <li><a href="http://www.metrocuadrado.com/publicar-inmuebles/consignment/firststep">Consigna tu inmueble</a></li>
+									      </ul>
+										</div>
+										<div class="col_2_alt">
+											<div class="title_alt">Gu&iacute;as</div>
+											<ul class="m_list_alt dark_alt">
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-arriendo">Gu&iacute;a
+														de arriendo</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-propiedad-horizontal">Gu&iacute;a
+														de propiedad horizontal</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-venta">Gu&iacute;a
+														de compra y venta</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-credito">Gu&iacute;a
+														de cr&eacute;dito</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/asesor-metrocuadrado">Asesor</a>
+												</li>
+<!-- 												<li><a href="http://www.metrocuadrado.com/directory/real-state">Directorio</a> -->
+<!-- 												</li> -->
+											</ul>
+										</div>
+										<div class="col_3_alt">
+											<div class="title_alt">Guías </div>
+											<ul>
+												<li><a class="m_image_link_small_alt" href="http://www.metrocuadrado.com/noticias/guia-de-arriendo/deudas-de-servicios-publicos-de-arrendatarios-quien-las-debe-pagar-124">
+														<img alt="" src="http://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/pareja-preocupada-haciendo-cuentas.jpg?itok=A5Suu9EK" /> <span>Todo sobre las deudas de servicios públicos de arrendatarios</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="http://www.metrocuadrado.com/noticias/guia-de-arriendo/beneficios-de-un-seguro-de-arrendamiento-1955">
+														<img alt="" src="http://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/33631002_xl.jpg?itok=hyh7VJyU" /> <span>Conoce los beneficios de un seguro de arrendamiento</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="http://www.metrocuadrado.com/noticias/guia-de-credito/como-obtener-un-credito-de-vivienda-259">
+														<img alt="" src="http://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/credito-de-vivienda.jpg?itok=ltOTlRFe" /> <span>¿Cómo obtener un crédito de vivienda?</span>
+												</a></li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="col_inf_alt">
+
+										<a href="http://www.metrocuadrado.com/noticias/herramientas" class="m_btn_alt inline_alt inverted_alt "> Sobre
+											herramientas </a>
+
+
+									</div>
+								</div>
+							</div></li>
+							<li class="loginBody"></li>			
+					</ul>
+					<div id="menu_side_alt">
+						<a rel="nofollow" class="m_btn_alt inline_alt" onclick="sendOmnitureEventPublishProperty();" href="http://www.metrocuadrado.com/publicar-inmuebles/"> Publica tu inmueble </a>
+							
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Inicio Buscador -->
+		<div class="contentDesktopSearch">
+			
+			<div class="bg_inf_alt  bg_inf_search" style="display: none">
+				<div class="m_header_content_alt">
+		<div class="m_header_search_alt">
+			<div class="busqueda_avanzada_alt" style="display: block;">
+				<form action="https://www.metrocuadrado.com/metrocuadrado-results/search/non-ajax" id="form-search-header" method="post">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<div class="form_select"> 
+								<select id="mobile-mtiponegocio" data-hidden-field-id="mtiponegocio">
+										<option value="venta-nuevo">Compra Nuevo</option>
+										<option value="venta-usado">Compra Usado</option>
+										<option value="venta">Compra Nuevo y Usado</option>
+										<option value="arriendo">Arriendo</option>
+								</select>
+							</div>
+						</div>
+						<div class="col_2_alt">
+
+							<div id="fondo-selector-multiple-mobile" class="fondo-selector-multiple-mobile"></div>
+
+
+							<div class="campo-selector-multiple">
+								<div class="campo-selector-multiple-seleccionados">Tipo de
+									inmueble</div>
+
+								<div id="btn-selector-multiple" class="btn-selector-multiple" align="center">
+									<img src="/estatico/metrocuadrado-header-resources/images/icons/svg/fake_select.svg" />
+								</div>
+
+								<div id="selector-multiple" class="selector-multiple">
+
+									<img id="btn-selector-multiple-cerrar" class="btn-selector-multiple-cerrar" src="/estatico/metrocuadrado-header-resources/images/icons/svg/close.svg" />
+
+									<div class="form_checkbox">
+										<input id="check_01" class="property-type-list" name="check_01" value="casa" type="checkbox" /> <label for="check_01" class="form_label form_label_inline">Casa</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_02" class="property-type-list" name="check_02" value="apartamento" type="checkbox" /> <label for="check_02" class="form_label form_label_inline">Apartamento</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_03" class="property-type-list" name="check_03" value="oficina" type="checkbox" /> <label for="check_03" class="form_label form_label_inline">Oficina</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_04" class="property-type-list" name="check_04" value="bodega" type="checkbox" /> <label for="check_04" class="form_label form_label_inline">Bodega</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_05" class="property-type-list" name="check_05" value="consultorio" type="checkbox" /> <label for="check_05" class="form_label form_label_inline">Consultorio</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_06" class="property-type-list" name="check_06" value="local" type="checkbox" /> <label for="check_06" class="form_label form_label_inline">Local</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_07" class="property-type-list" name="check_07" value="lote" type="checkbox" /> <label for="check_07" class="form_label form_label_inline">Lote</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_08" class="property-type-list" name="check_08" value="finca" type="checkbox" /> <label for="check_08" class="form_label form_label_inline">Finca</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_09" class="property-type-list" name="check_09" value="edificio-de-oficinas" type="checkbox" />
+										<label for="check_09" class="form_label form_label_inline">Edificio
+											de oficinas</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_10" class="property-type-list" name="check_10" value="edificio-de-apartamentos" type="checkbox" /> <label for="check_10" class="form_label form_label_inline">Edificio de
+											apartamentos</label>
+									</div>
+									<a id="btn-selector-multiple-mobile-aceptar" class="m_btn btn-selector-multiple-mobile-aceptar">Aceptar</a>
+
+								</div>
+							</div>
+						</div>
+						<div class="col_3_alt">
+							<input type="text" name="city" id="mobile-location" class="search-by-location" placeholder="Ciudad, Zona o Barrio" />
+						</div>
+						<div class="col_4_alt">
+
+							<button id="btn_submit_search_header" class="search-button m_btn_alt big_alt header-structured-search">Buscar</button>
+
+							<script type="text/javascript">
+								$('#btn_submit_search_header').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),
+											$('#mobile-location','form#form-search-header').data('inputType'),
+											$('#mobile-mtiponegocio','form#form-search-header').val(),
+											$('#mobile-mtipoinmueble','form#form-search-header').val(),
+											$('#mobile-location','form#form-search-header').val());
+									
+									setTimeout(function(){ 
+										$('#form-search-header').submit();
+									}, 500);
+								});
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>Buscar c&oacute;digo &raquo;</a>
+						</div>
+					</div>
+					<input type="hidden" name="sfh" id="sfh" value="1" />
+				</form>
+			</div>
+
+			<!-- Inicio búsqueda código -->
+			<div class="busqueda_codigo_alt" style="display: none;">
+				<form method="post" id="form-search-header-by-code" action="https://www.metrocuadrado.com/metrocuadrado-results/search/code">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<input type="text" name="propertyId" id="propertyId" placeholder="Buscar por c&oacute;digo" required="required" />
+						</div>
+						<div class="col_4_alt">
+							<button if="btn_submit_search_header_by_code" class="m_btn_alt big_alt">Buscar</button>
+							<script type="text/javascript">
+								$('#btn_submit_search_header_by_code').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),"","Search-by-code","","");
+									
+									setTimeout(function(){ 
+										$('#form-search-header-by-code').submit();
+									}, 500);
+								});					
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>B&uacute;squeda avanzada &raquo;</a>
+						</div>
+					</div>
+				<input type="hidden" name="_csrf" value="a5048e0e-6473-4109-843f-13b456ef5d6c" /></form>
+			</div>
+			<!-- Fin búsqueda código -->
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+	<div id="mobile_header_alt">
+		<div class="m_header_mobile_alt">
+			<div class="m_header_mobile_bar_alt">
+				<div class="m_header_mobile_bar_logo_alt">
+					<a href="http://www.metrocuadrado.com/"> <img src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+						<h1 class="logo_hide_alt">Metro cuadrado</h1>
+					</a>
+				</div>
+				<div class="m_header_mobile_bar_search_alt">Buscar</div>
+				<div class="m_header_mobile_bar_menu_alt open"></div>
+			</div>
+
+			<div class="m_header_mobile_menu_alt menu_moviles" style="display: none;">
+				<div id="menu_side_alt">
+					<a rel="nofollow" class="m_btn_alt inline_alt" href="http://www.metrocuadrado.com/publicar-inmuebles/"> Publica tu inmueble </a>
+				</div>
+
+				<ul id="menu_level_0_alt">
+
+					<li class="item_alt has_sublevel_alt"><span onmouseover="sendOmnitureEventMegaMenu('Noticias y Tendencias')">Noticias
+							y Tendencias</span>
+						<div class="level_1_alt menu_noticias">
+
+							<div class="m_header_combo_mobile_alt show_on_mobile show_on_tablet">
+								<ul>
+									<li><a href="http://www.metrocuadrado.com/noticias/">Noticias</a></li>
+									<li><a href="http://www.metrocuadrado.com/noticias/economia/">Econom&iacute;a</a></li>
+									<li><a href="http://www.metrocuadrado.com/noticias/decoracion/">Decoraci&oacute;n</a></li>
+									<li><a href="http://www.metrocuadrado.com/noticias/arquitectura/">Arquitectura</a></li>
+									<li><a href="http://www.metrocuadrado.com/noticias/entretenimiento/">Entretenimiento</a></li>
+									<li><a href="${header.ahref.actualidadHref}">Actualidad</a></li>
+								</ul>
+							</div>
+
+						</div></li>
+					<li class="item_alt has_sublevel_alt herramientas"><span onmouseover="sendOmnitureEventMegaMenu('Herramientas')">Herramientas</span>
+						<div class="level_1_alt menu_herramientas">
+
+							<div class="m_header_combo_mobile_alt show_on_mobile show_on_tablet">
+								<ul>
+									<li class="has_sublevel_2_alt"><span>Calculadoras</span>
+										<div class="level_2_alt">
+											<p class="level_2_alt_link">Calculadoras</p>
+											<ul>
+												<li><a href="http://www.metrocuadrado.com/calculadora-credito-hipotecario-vivienda/">Calculadora
+														de cr&eacute;dito </a></li>
+												<li><a href="http://www.metrocuadrado.com/calculadora-poliza-seguro-arrendamiento/">Calculadora de
+														seguros </a></li>
+												
+
+												
+
+												
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/precios-m2">Precios
+														m2</a></li>
+
+											</ul>
+										</div></li>
+										<li class="has_sublevel_2_alt">
+								          <span>Tu inmueble</span>
+								          <div class="level_2_alt">
+								            <p class="level_2_alt_link">Tu inmueble</p>
+								            <ul>
+								              <li>
+								              	<a href="http://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">Solicita tu inmueble</a>
+								              </li>
+								              <li>
+								              	<a href="http://www.metrocuadrado.com/publicar-inmuebles/consignment/firststep">Consigna tu inmueble</a>
+								              </li>
+								            </ul>
+								          </div>
+								        </li>
+									<li class="has_sublevel_2_alt dos"><span>Gu&iacute;as</span>
+										<div class="level_2_alt dos">
+											<p class="level_2_alt_link">Gu&iacute;as</p>
+											<ul>
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-arriendo">Gu&iacute;a
+														de arriendo</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-propiedad-horizontal">Gu&iacute;a
+														de propiedad horizontal</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-venta">Gu&iacute;a
+														de compra y venta</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/herramientas/guia-de-credito">Gu&iacute;a
+														de cr&eacute;dito</a></li>
+												<li><a href="http://www.metrocuadrado.com/noticias/asesor-metrocuadrado">Asesor</a>
+												</li>
+<!-- 												<li><a href="http://www.metrocuadrado.com/directory/real-state">Directorio</a> -->
+<!-- 												</li> -->
+											</ul>
+										</div></li>
+
+								</ul>
+							</div>
+
+
+						</div></li>
+						<li class="loginBody"></li>
+				</ul>
+
+				<div class="m_header_sup_alt">
+					<ul>
+						<li><a href="/metrocuadrado-header/contactenos">Cont&aacute;ctenos </a></li>
+						<li style="display: none"><a href="/metrocuadrado-header/ayuda">&iquest;Necesitas
+								ayuda? </a></li>
+						<li class="phone" style="display: none"><a href="tel:01 80000 115 252">01 80000 115 252</a></li>
+						
+					</ul>
+				</div>
+			</div>
+
+			<div class="m_header_mobile_menu" data-mobile-menu-placeholder=""></div>
+		</div>
+	</div>
+	<div class="mobile_header_search_alt" style="display: none">
+		<div class="mobile_header_search_head_alt">
+			<div class="mobile_header_search_logo_alt">
+				<img src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+			</div>
+			<div class="mobile_header_search_close_alt"></div>
+		</div>
+		<div class="mobile_header_search_title_alt">Encuentra casa y
+			apartamentos en venta o arriendo:</div>
+		
+		<div class="">
+			<div class="m_header_content_alt">
+		<div class="m_header_search_alt">
+			<div class="busqueda_avanzada_alt" style="display: block;">
+				<form action="https://www.metrocuadrado.com/metrocuadrado-results/search/non-ajax" id="form-search-header" method="post">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<div class="form_select"> 
+								<select id="mobile-mtiponegocio" data-hidden-field-id="mtiponegocio">
+										<option value="venta-nuevo">Compra Nuevo</option>
+										<option value="venta-usado">Compra Usado</option>
+										<option value="venta">Compra Nuevo y Usado</option>
+										<option value="arriendo">Arriendo</option>
+								</select>
+							</div>
+						</div>
+						<div class="col_2_alt">
+
+							<div id="fondo-selector-multiple-mobile" class="fondo-selector-multiple-mobile"></div>
+
+
+							<div class="campo-selector-multiple">
+								<div class="campo-selector-multiple-seleccionados">Tipo de
+									inmueble</div>
+
+								<div id="btn-selector-multiple" class="btn-selector-multiple" align="center">
+									<img src="/estatico/metrocuadrado-header-resources/images/icons/svg/fake_select.svg" />
+								</div>
+
+								<div id="selector-multiple" class="selector-multiple">
+
+									<img id="btn-selector-multiple-cerrar" class="btn-selector-multiple-cerrar" src="/estatico/metrocuadrado-header-resources/images/icons/svg/close.svg" />
+
+									<div class="form_checkbox">
+										<input id="check_01" class="property-type-list" name="check_01" value="casa" type="checkbox" /> <label for="check_01" class="form_label form_label_inline">Casa</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_02" class="property-type-list" name="check_02" value="apartamento" type="checkbox" /> <label for="check_02" class="form_label form_label_inline">Apartamento</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_03" class="property-type-list" name="check_03" value="oficina" type="checkbox" /> <label for="check_03" class="form_label form_label_inline">Oficina</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_04" class="property-type-list" name="check_04" value="bodega" type="checkbox" /> <label for="check_04" class="form_label form_label_inline">Bodega</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_05" class="property-type-list" name="check_05" value="consultorio" type="checkbox" /> <label for="check_05" class="form_label form_label_inline">Consultorio</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_06" class="property-type-list" name="check_06" value="local" type="checkbox" /> <label for="check_06" class="form_label form_label_inline">Local</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_07" class="property-type-list" name="check_07" value="lote" type="checkbox" /> <label for="check_07" class="form_label form_label_inline">Lote</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_08" class="property-type-list" name="check_08" value="finca" type="checkbox" /> <label for="check_08" class="form_label form_label_inline">Finca</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_09" class="property-type-list" name="check_09" value="edificio-de-oficinas" type="checkbox" />
+										<label for="check_09" class="form_label form_label_inline">Edificio
+											de oficinas</label>
+									</div>
+									<div class="form_checkbox">
+										<input id="check_10" class="property-type-list" name="check_10" value="edificio-de-apartamentos" type="checkbox" /> <label for="check_10" class="form_label form_label_inline">Edificio de
+											apartamentos</label>
+									</div>
+									<a id="btn-selector-multiple-mobile-aceptar" class="m_btn btn-selector-multiple-mobile-aceptar">Aceptar</a>
+
+								</div>
+							</div>
+						</div>
+						<div class="col_3_alt">
+							<input type="text" name="city" id="mobile-location" class="search-by-location" placeholder="Ciudad, Zona o Barrio" />
+						</div>
+						<div class="col_4_alt">
+
+							<button id="btn_submit_search_header" class="search-button m_btn_alt big_alt header-structured-search">Buscar</button>
+
+							<script type="text/javascript">
+								$('#btn_submit_search_header').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),
+											$('#mobile-location','form#form-search-header').data('inputType'),
+											$('#mobile-mtiponegocio','form#form-search-header').val(),
+											$('#mobile-mtipoinmueble','form#form-search-header').val(),
+											$('#mobile-location','form#form-search-header').val());
+									
+									setTimeout(function(){ 
+										$('#form-search-header').submit();
+									}, 500);
+								});
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>Buscar c&oacute;digo &raquo;</a>
+						</div>
+					</div>
+					<input type="hidden" name="sfh" id="sfh" value="1" />
+				</form>
+			</div>
+
+			<!-- Inicio búsqueda código -->
+			<div class="busqueda_codigo_alt" style="display: none;">
+				<form method="post" id="form-search-header-by-code" action="https://www.metrocuadrado.com/metrocuadrado-results/search/code">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<input type="text" name="propertyId" id="propertyId" placeholder="Buscar por c&oacute;digo" required="required" />
+						</div>
+						<div class="col_4_alt">
+							<button if="btn_submit_search_header_by_code" class="m_btn_alt big_alt">Buscar</button>
+							<script type="text/javascript">
+								$('#btn_submit_search_header_by_code').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),"","Search-by-code","","");
+									
+									setTimeout(function(){ 
+										$('#form-search-header-by-code').submit();
+									}, 500);
+								});					
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>B&uacute;squeda avanzada &raquo;</a>
+						</div>
+					</div>
+				<input type="hidden" name="_csrf" value="a5048e0e-6473-4109-843f-13b456ef5d6c" /></form>
+			</div>
+			<!-- Fin búsqueda código -->
+		</div>
+	</div>
+		</div>
+	</div>
+
+	<div id="login" class="mfp-hide">
+		<div class="m_login">
+			<div class="m_login_bg"></div>
+			<div class="m_login_close" data-login-toggle=""></div>
+
+			<!-- Inicio Login -->
+			<div class="m_login_content login">
+				<div class="m_login_content_title">Ingresa a MetroCuadrado, el mejor portal inmobiliario de Colombia</div>
+				<div class="m_login_content_error" style="display: none;">Se ha producido un error en el servidor, int&eacute;ntelo m&aacute;s tarde</div>
+				<form action="/cas/login?service=http://localhost:38080/metrocuadrado-home/login/cas" data-form-validate="" method="post">
+					<div class="input_box">
+						<label for="j_username">Usuario</label> <input type="text" id="j_username" name="j_username" placeholder="Usuario" required="required" />
+					</div>
+					<div class="input_box">
+						<label for="j_password">Ingresar contraseña</label> <input type="password" id="j_password" name="j_password" placeholder="Clave" required="required" />
+					</div>
+
+					<input type="submit" value="Ingresar" class="m_btn big" />
+
+					<div class="m_login_social" style="display: none;">
+						<div class="col_social">
+							<a href="#" class="m_btn fb">Ingresar con Facebook</a>
+						</div>
+						<div class="col_social">
+							<a href="#" class="m_btn gp">Ingresar con Google</a>
+						</div>
+					</div>
+
+					<div class="m_login_links">
+						<div class="col_link">
+							<a href="/metrocuadrado-header/restablecerContrasena">&iquest;Olvidaste su contraseña?</a>
+						</div>
+						<div class="col_link">
+							<a class="ir_registro" href="#">Reg&iacute;strate</a>
+						</div>
+					</div>
+
+				</form>
+			</div>
+			<!-- Fin Login -->
+
+			<!-- Inicio Registro -->
+			<div class="m_login_content registro">
+				<div class="m_login_content_title">Ingresa a MetroCuadrado, el mejor portal inmobiliario de Colombia</div>
+				<div class="m_login_content_error" style="display: none;">Se ha producido un error en el servidor, inténtelo más tarde</div>
+				<p>Regístrate con una cuenta de correo</p>
+				<form action="#" data-form-validate="">
+					<div class="input_box">
+						<label for="login_user">Ingrese un correo electrónico</label> <input type="email" id="login_user" for="login_user" placeholder="correo@mail.com" required="required" />
+					</div>
+
+					<input type="submit" value="Crear cuenta" class="m_btn big" />
+
+					<p>O ingrese con</p>
+					<div class="m_login_social" style="display: none;">
+						<div class="col_social">
+							<a href="#" class="m_btn fb">Facebook</a>
+						</div>
+						<div class="col_social">
+							<a href="#" class="m_btn gp">Google</a>
+						</div>
+					</div>
+
+					<div class="m_login_links">
+						<a class="ir_login" href="#">Ya estoy registrado</a>
+					</div>
+
+				</form>
+			</div>
+			<!-- Fin Registro -->
+
+
+		</div>
+	</div>
+	<div style="display:none !important;">
+	<iframe style="display:none !important;" src="/metrocuadrado-header/startloginsuccess"></iframe>
+	</div>
+<script type="text/javascript" src="/estatico/metrocuadrado-header-resources/js/getHtmlLogin.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=178738211';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html></div>	
+		</header>
+
+		<div id="breadcrumb" class="wrapper" style="display:block">
+		
+	</div>
+
+		<script type="text/javascript" src="/estatico/metrocuadrado-results/js/sidebar-filters.js"></script>
+
+		<div id="resultListHtmlContainer">
+			<div class="wrapper" data-sticky-content="" style="position: relative;">
+			
+		<input type="hidden" id="totalResults" value="194" />
+
+		<div class="mfp-hide" id="list-guardarBusqueda">
+		<script>
+		/*<![CDATA[*/
+		           var saveSearchMessage = 'Estamos almacenando su b\xFAsqueda';				 
+		 /*]]>*/
+		</script>
+		<div class="m_login">
+			<div class="m_login_bg"></div>
+			<div class="m_login_close" data-login-toggle=""></div>
+
+			<div class="m_login_content resultados_guardar_busqueda">
+
+				<form class="save-search-form" action="#" data-form-validate="" method="get">
+
+					<p>La b&uacute;squeda se guardar&aacute; con el nombre:</p>
+					<p>
+						<span class="save-search-title">194 Apartamento en Venta en Norte, Bogot&aacute; Para estrenar</span>
+					</p>
+
+					<input type="button" value="Guardar B&uacute;squeda" class="save-search-button m_btn big a" id="listsave-search-button" />
+
+				</form>
+			</div>
+		</div>
+		<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+	</div>
+	
+		<div id="layout">
+
+			
+		<p class="numero_titulo mobile">194</p>
+		<h1 class="title mobile">Apartamento en Venta en Norte, Bogot&aacute; Para estrenar</h1>	
+
+			<div id="sidebar">
+
+		<div class="sidebar_filters" id="search_filter">
+
+			<div class="m_search_filter header show_on_mobile show_on_tablet">
+				<div class="btn_light filter_btn ">
+					<a href="#" class="m_btn search-filters" data-search-filter-popup-toggle=""> filtrar
+					</a>
+				</div>
+			</div>
+
+			<div class="m_search_filter main" data-filters="">
+				<div class="m_search_filter_close" data-search-filter-popup-toggle=""></div>
+
+				<div class="search_main">
+					<h2 class="title search-filters">Filtra tu b&uacute;squeda</h2>
+				</div>
+
+				<div>
+
+					<div class="m_search_by word">
+						
+		<div class="form_text_field by_word">
+			<input type="text" placeholder="Filtrar por palabra" data-hidden-field-id="mbasico" name="list-search_word" id="list-search_word" /> <a href="#" class="m_btn inverted " id="list-search-by-word"> ok </a>
+		</div>
+	
+					</div>
+
+					<div class="m_search_by price">
+						<div id="price-range-filter" class="title">Rango de precio
+							en millones</div>
+						<div>
+							
+	
+
+			<div class="form_select">
+				<select class="sidebar-filter price_range" data-hidden-field-id="mvalorventa" id="list-mvalorventa">
+
+					<option value="">Todos los precios</option>
+					<option value="0-40000000" hasResults="true">Hasta 40 millones</option>
+					<option value="40000001-70000000" hasResults="false">40&#39;000.001 a 70&#39;000.000</option>
+					<option value="70000001-100000000" hasResults="false">70&#39;000.001 a 100&#39;000.000</option>
+					<option value="100000001-150000000" hasResults="false">100&#39;000.001 a 150&#39;000.000</option>
+					<option value="150000001-200000000" hasResults="true">150&#39;000.001 a 200&#39;000.000</option>
+					<option value="200000001-250000000" hasResults="true">200&#39;000.001 a 250&#39;000.000</option>
+					<option value="250000001-300000000" hasResults="true">250&#39;000.001 a 300&#39;000.000</option>
+					<option value="300000001-400000000" hasResults="true">300&#39;000.001 a 400&#39;000.000</option>
+					<option value="400000001-500000000" hasResults="true">400&#39;000.001 a 500&#39;000.000</option>
+					<option value="500000001-650000000" hasResults="true">500&#39;000.001 a 650&#39;000.000</option>
+					<option value="650000001-880000000" hasResults="true">650&#39;000.001 a 880&#39;000.000</option>
+					<option value="880000001-1000000000" hasResults="true">880&#39;000.001 a 1.000&#39;000.000</option>
+					<option value="1000000000" hasResults="true">1.000&#39;000.001 o más millones</option>
+				</select>
+			</div>
+			<div class="from_to_price">
+				<div class="form_text_field">
+					<label for="list-price_from">Desde</label> 
+					<input type="text" data-thousands="." data-prefix="$" data-precision="0" name="list-price_from" id="list-price_from" />
+				</div>
+				<div class="form_text_field">
+					<label for="list-price_to">Hasta</label> 
+					<input type="text" data-thousands="." data-prefix="$" data-precision="0" name="list-price_to" id="list-price_to" />
+				</div>
+
+			</div>
+
+			<a href="#" class="m_btn inline inverted price_range" data-hidden-field-id="mvalorventa" id="list-search-by-price-range"> ok </a>
+
+	
+	
+							<div style="clear: both;"></div>
+						</div>
+					</div>
+
+					<div class="m_search_by size">
+						<!-- cabecera -->
+						<div class="title">&Aacute;rea (m&sup2;)</div>
+						<div>
+							
+	
+		<!-- 			Common -->		
+			<div class="form_select">
+				<select class="sidebar-filter area-range" data-hidden-field-id="marea" id="list-marea">
+					<option value="">Todas las &aacute;reas</option>
+					<option value="0-60" hasResults="true">Hasta 60</option>
+					<option value="61-100" hasResults="true">61 a 100</option>
+					<option value="101-200" hasResults="true">101 a 200</option>
+					<option value="201-300" hasResults="true">201 a 300</option>
+					<option value="301-400" hasResults="false">301 a 400</option>
+					<option value="401-500" hasResults="false">401 a 500</option>
+					<option value="501-1000" hasResults="false">501 a 1000</option>
+					<option value="1000" hasResults="false">1001 o más</option>
+
+				</select>
+			</div>
+			
+		<!-- Common			 -->
+		
+	
+	
+						</div>
+					</div>
+
+
+
+					<div class="m_search_by others">
+						<!-- cabecera -->
+						<div>
+							<div>
+		<p class="light">Habitaciones</p>
+		<div class="buttons_select_group">
+			<div class="button">
+				<input type="checkbox" value="1" id="list-mnrocuartos-checkbox-1" class="rooms-filter sidebar-filter mnrocuartos-checkbox-1" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-1" /> <label for="list-mnrocuartos-checkbox-1">1</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="2" id="list-mnrocuartos-checkbox-2" class="rooms-filter sidebar-filter mnrocuartos-checkbox-2" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-2" /> <label for="list-mnrocuartos-checkbox-2">2</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="3" id="list-mnrocuartos-checkbox-3" class="rooms-filter sidebar-filter mnrocuartos-checkbox-3" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-3" /> <label for="list-mnrocuartos-checkbox-3">3</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="4" id="list-mnrocuartos-checkbox-4" class="rooms-filter sidebar-filter mnrocuartos-checkbox-4" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-4" /> <label for="list-mnrocuartos-checkbox-4">4</label>
+			</div>
+			<div class="button plus">
+				<input type="checkbox" value="5" id="list-mnrocuartos-checkbox-plus" class="rooms-filter sidebar-filter mnrocuartos-checkbox-plus" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-plus" /> <label for="list-mnrocuartos-checkbox-plus"></label>
+			</div>
+		</div>
+		<hr />
+	</div>
+
+							<div>
+		<p class="light">Baños</p>
+		<div class="buttons_select_group">
+			<div class="button">
+				<input type="checkbox" value="1" id="list-mnrobanos-checkbox-1" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-1" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-1" /> <label for="list-mnrobanos-checkbox-1">1</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="2" id="list-mnrobanos-checkbox-2" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-2" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-2" /> <label for="list-mnrobanos-checkbox-2">2</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="3" id="list-mnrobanos-checkbox-3" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-3" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-3" /> <label for="list-mnrobanos-checkbox-3">3</label>
+			</div>
+			<div class="button">
+				<input type="checkbox" value="4" id="list-mnrobanos-checkbox-4" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-4" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-4" /> <label for="list-mnrobanos-checkbox-4">4</label>
+			</div>
+			<div class="button plus">
+				<input type="checkbox" value="5" id="list-mnrobanos-checkbox-plus" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-plus" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-plus" /> <label for="list-mnrobanos-checkbox-plus"></label>
+			</div>
+		</div>
+		<hr />
+	</div>
+
+							<div>
+		<div>
+			<p class="light">Garajes</p>
+			<div class="buttons_select_group">
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-1" data-checkbox-class="mnrogarajes-checkbox-1" class="garages-filter sidebar-filter mnrogarajes-checkbox-1" value="1" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-1">1</label>
+				</div>
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-2" data-checkbox-class="mnrogarajes-checkbox-2" class="garages-filter sidebar-filter mnrogarajes-checkbox-2" value="2" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-2">2</label>
+				</div>
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-3" data-checkbox-class="mnrogarajes-checkbox-3" class="garages-filter sidebar-filter mnrogarajes-checkbox-3" value="3" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-3">3</label>
+				</div>
+				<div class="button">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-4" data-checkbox-class="mnrogarajes-checkbox-4" class="garages-filter sidebar-filter mnrogarajes-checkbox-4" value="4" data-hidden-field-id="mnrogarajes" /><label for="list-mnrogarajes-checkbox-4">4</label>
+				</div>
+				<div class="button plus">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-plus" data-checkbox-class="mnrogarajes-checkbox-plus" class="garages-filter sidebar-filter mnrogarajes-checkbox-plus" value="5" data-hidden-field-id="mnrogarajes" /> <label for="list-mnrogarajes-checkbox-plus"></label>
+				</div>
+			</div>
+			<hr />
+		</div>
+	</div>
+
+							<div>
+
+		<p class="light">Antigüedad</p>
+
+		<div class="form_select">
+			<select class="sidebar-filter antiquity-filter" data-hidden-field-id="mtiempoconstruido" id="list-mtiempoconstruido">
+				<option value="">Todas las opciones</option>
+				<option value="sobre-plano" hasResults="false">Sobre Plano</option>
+				<option value="en-construccion" hasResults="false">En Construcción</option>
+				<option value="para-estrenar" hasResults="true">Para Estrenar</option>
+				<option value="remodelado" hasResults="false">Remodelado</option>
+				<option value="Entre 0 y 5 años" hasResults="false">Entre 0 y 5 años</option>
+				<option value="Entre 5 y 10 años" hasResults="false">Entre 5 y 10 años</option>
+				<option value="Entre 10 y 20 años" hasResults="false">Entre 10 y 20 años</option>
+				<option value="Más de 20 años" hasResults="false">Más de 20 años</option>
+			</select>
+		</div>
+
+	</div>
+						</div>
+					</div>
+
+					<div class="m_search_by wonder">
+						<!-- cabecera -->
+						<div class="title">Me gustar&iacute;a que tenga</div>
+						<div>
+							
+				<div class="filter_group">
+					<div class="form_checkbox">
+						<input id="check_01" class="amenity-filter" name="check_01" value="amoblados" type="checkbox" />
+						<label for="check_01" class="form_label form_label_inline">Amoblado</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_02" class="amenity-filter" name="check_02" value="con-zona-para-ninos" type="checkbox" />
+						<label for="check_02" class="form_label form_label_inline">Zona para ni&ntilde;os</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_03" class="amenity-filter" name="check_03" value="con-gimnasio" type="checkbox" />
+						<label for="check_03" class="form_label form_label_inline">Gimnasio</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_04" class="amenity-filter" name="check_04" value="con-cancha-squash" type="checkbox" />
+						<label for="check_04" class="form_label form_label_inline">Cancha(s) de Squash</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_05" class="amenity-filter" name="check_05" value="con-acceso-discapacitados" type="checkbox" />
+						<label for="check_05" class="form_label form_label_inline">Acceso para discapacitados</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_06" class="amenity-filter" name="check_06" value="con-piscina" type="checkbox" />
+						<label for="check_06" class="form_label form_label_inline">Piscina</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_07" class="amenity-filter" name="check_07" value="con-zonas-verdes" type="checkbox" />
+						<label for="check_07" class="form_label form_label_inline">Zonas verdes</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_08" class="amenity-filter" name="check_08" value="con-cancha-tenis" type="checkbox" />
+						<label for="check_08" class="form_label form_label_inline">Cancha(s) de tennis</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_09" class="amenity-filter" name="check_09" value="con-cancha-futbol" type="checkbox" />
+						<label for="check_09" class="form_label form_label_inline">Cancha(s) de f&uacute;tbol</label>
+					</div>
+					 <div class="form_checkbox verified">
+						<input id="check_10" class="amenity-filter" name="check_10" value="verificado" type="checkbox" />
+                		<label for="check_10" class="form_label form_label_inline">Verificado</label>
+                		<div class="verified_tooltip">
+                  		<p>Metrocuadrado valida y verifica que toda la información del inmueble sea acorde con el anuncio publicado.</p>
+                	</div>
+              		</div>
+              		<div class="view_more">
+                		<a>Ver m&aacute;s filtros</a>
+              		</div>
+              		<div class="form_checkbox">
+                		<input id="check_11" class="amenity-filter more_filters" name="check_11" type="checkbox" value="cerca-transporte-publico" />
+                		<label for="check_11" class="form_label form_label_inline">Cerca Transporte P&uacute;blico</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_12" class="amenity-filter more_filters" name="check_12" type="checkbox" value="cerca-centro-comercial" />
+	                	<label for="check_12" class="form_label form_label_inline">Cerca a Centros Comerciales</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_13" class="amenity-filter more_filters" name="check_13" type="checkbox" value="cerca-parque" />
+	                	<label for="check_13" class="form_label form_label_inline">Cerca a Parques</label>
+	              	</div>
+	              	<div class="form_checkbox">
+		                <input id="check_14" class="amenity-filter more_filters" name="check_14" type="checkbox" value="cerca-supermercado" />
+		                <label for="check_14" class="form_label form_label_inline">Cerca a Supermercados</label>
+	              	</div>
+	              	<div class="form_checkbox">
+		                <input id="check_15" class="amenity-filter more_filters" name="check_15" type="checkbox" value="cerca-colegio-universidad" />
+		                <label for="check_15" class="form_label form_label_inline">Cerca a colegios/universidades</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_16" class="amenity-filter more_filters" name="check_16" type="checkbox" value="con-zona-bbq" />
+	                	<label for="check_16" class="form_label form_label_inline">Zona de BBQ</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_17" class="amenity-filter more_filters" name="check_17" type="checkbox" value="ascensor" />
+	                	<label for="check_17" class="form_label form_label_inline">Ascensor</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_18" class="amenity-filter more_filters" name="check_18" type="checkbox" value="con-balcon" />
+	                	<label for="check_18" class="form_label form_label_inline">Con Balc&oacute;n</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_19" class="amenity-filter more_filters" name="check_19" type="checkbox" value="con-vigilancia7x24" />
+	                	<label for="check_19" class="form_label form_label_inline">Con Vigilancia</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_20" class="amenity-filter more_filters" name="check_20" type="checkbox" value="en-conjunto-cerrado" />
+	                	<label for="check_20" class="form_label form_label_inline">En conjunto cerrado</label>
+	              	</div>
+	              	<div class="form_checkbox">
+	                	<input id="check_21" class="amenity-filter more_filters" name="check_21" type="checkbox" value="con-cuarto-servicio" />
+	                	<label for="check_21" class="form_label form_label_inline">Cuarto de servicio</label>
+	              	</div>	           
+	              	<div class="view_less">
+		                <a>Ver menos filtros</a>
+		          	</div>
+				</div>
+				<div class="filter_wrapper">
+					<a href="#" class="m_btn inverted amenity-filter-search-button filter_preferences_button"> aplicar preferencias </a>
+				</div>				
+				<script>
+    				$( document ).ready(function() {        				
+    					//more amenites filters
+    					 $(".m_search_by.wonder .view_more").click(function(){
+    				         $('.m_search_by.wonder .filter_group').addClass('more_filters');
+    				         $('.m_search_by.wonder .view_more').css({ 'display': 'none'});
+    				       });
+    				       $(".m_search_by.wonder .view_less").click(function(){
+    				         $('.m_search_by.wonder .filter_group').removeClass('more_filters');
+    				         $('.m_search_by.wonder .view_more').css({ 'display': 'block'});
+    				     });    					
+    				});    
+    			</script>						
+	
+						</div>
+					</div>
+
+					<div class="boton_guardar_busqueda">
+						<a href="#list-guardarBusqueda" class="m_btn inline save-search" data-login-toggle=""> guardar b&uacute;squeda </a>
+					</div>
+					
+					<button class="m_btn filter_mobile" id="list-search-mobile">FILTRAR</button>
+
+
+				</div>
+
+			</div>
+
+
+			<div style="" class="sidebar_filters_hidden" data-sticky-content-sidebar="">
+				<div style="display: none;" class="m_search_filter sticky hide_for_mobile hide_for_tablet">
+					<div class="sticky_filter">
+						<a href="#search_filter" data-smooth="70" class="title">Filtra
+							tu b&uacute;squeda</a>
+					</div>
+					<div class="save_search hide_for_mobile hide_for_tablet">
+
+						<a href="#list-guardarBusqueda" class="m_btn" data-login-toggle="">guardar
+							b&uacute;squeda </a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+			<div id="main">
+				
+				
+				
+				<div>
+		<!-- Inicio didyoumean -->
+		
+
+		<!-- Inicio mensaje de resultados -->
+		
+		<!-- Fin mensaje de resultados -->
+		<div class="m_rs_list_header list_view">		
+			<div>
+				<div class="btn_lista resultados active" data-result-view-url="/search/list/ajax" data-result-view-type="list" data-result-view-container="resultListHtmlContainer">
+					<a href="#"></a>
+				</div>
+
+				 <!-- --> <div class="btn_map resultados" data-result-view-url="/search/map/ajax" data-result-view-type="map" data-result-view-container="resultMapHtmlContainer">
+					<a href="#"></a>
+				</div><!-- -->
+				
+				<div class="order_by">
+		<div class="form_select">
+			<select class="order-by" id="resultlist-sort-by">
+				<option value="" disabled="disabled" selected="selected">Ordenar por</option>
+				<option value="DESC-mvalorventa">Mayor precio</option>
+				<option value="ASC-mvalorventa">Menor precio</option>
+				<option value="DESC-mfechapublicacion">M&aacute;s reciente</option>
+				<option value="ASC-mfechapublicacion">Menos reciente</option>
+				<option value="DESC-mnrocuartos">M&aacute;s habitaciones</option>
+				<option value="ASC-mnrocuartos">Menos habitaciones</option>
+				<option value="DESC-marea">Mayor &aacute;rea</option>
+				<option value="ASC-marea">Menor &aacute;rea</option>
+			</select>
+		</div>
+	</div>
+				
+			</div>
+		</div>
+	</div>
+
+				<div id="highlighted-properties-list"></div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="4832-C00002-01">
+		
+		<div class="image">
+		
+			
+				
+			<div class="image_tag green">Para Estrenar</div>
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/proyecto/vive-92.co/4832-C00002-01">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/4832-C00002-01/4832-C00002-01_2_p.jpg" data-detail-image="4832-C00002-01_2" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="4832-C00002-01" alt="Venta de Apartamento en CHICO NORTE, Bogotá D.C. con  2 Habitaciones, 3 Baños, Estrato 6, Área 87.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/4832-C00002-01/4832-C00002-01_2_p.jpg" title="Apartamento en Venta en CHICO NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Edificio de 9 pisos de altura, 47 apartamentos, localizado en la esquina de la calle 92 con la NQS. Ventanería  acústica en fachadas sur y occidental (fachada norte y oriental no lo requieren), sistema central de agua caliente, control de iluminación para áreas comunes, circuito cerrado de Televisión, planta eléctrica de suplencia total, parqueaderos sencillo, semidobles y dobles, gimnasio, Sala de reuniones, jardín interior para niños, parqueaderos para visitantes, cerca avenidas principales.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/proyecto/vive-92.co/4832-C00002-01">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$760.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>87.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>3</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="PROJECT" data-favorite-id="415">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Nuevo" data-property-city="Bogotá D.C." data-property-id="4832-C00002-01">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Constructora" />
+			<input type="hidden" name="property-state" id="property-state" value="Nuevo" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Nuevo" data-property-stratum="6" data-property-price="760000000" data-property-price-range="650&#39;000.001 a 880&#39;000.000" data-property-business-type="Venta" data-property-zone-id="1" data-property-offerer="Constructora" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="526023" data-property-enterprise-id="1689" data-property-city-zone-id="1-1" data-property-id="4832-C00002-01" data-property-city-id="1" data-property-project-id="4832-C00002" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="4832-C00002-04">
+		
+		<div class="image">
+		
+			
+				
+			<div class="image_tag green">Para Estrenar</div>
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/proyecto/vive-92.co/4832-C00002-04">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/4832-C00002-04/4832-C00002-04_1_p.jpg" data-detail-image="4832-C00002-04_1" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="4832-C00002-04" alt="Venta de Apartamento en CHICO NORTE, Bogotá D.C. con  2 Habitaciones, 2 Baños, Estrato 6, Área 63.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/4832-C00002-04/4832-C00002-04_1_p.jpg" title="Apartamento en Venta en CHICO NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Edificio de 9 pisos de altura, 47 apartamentos, localizado en la esquina de la calle 92 con la NQS. Ventanería  acústica en fachadas sur y occidental (fachada norte y oriental no lo requieren), sistema central de agua caliente, control de iluminación para áreas comunes, circuito cerrado de Televisión, planta eléctrica de suplencia total, parqueaderos sencillo, semidobles y dobles, gimnasio, Sala de reuniones, jardín interior para niños, parqueaderos para visitantes, cerca avenidas principales.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/proyecto/vive-92.co/4832-C00002-04">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$489.900.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>63.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="PROJECT" data-favorite-id="415">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Nuevo" data-property-city="Bogotá D.C." data-property-id="4832-C00002-04">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Constructora" />
+			<input type="hidden" name="property-state" id="property-state" value="Nuevo" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Nuevo" data-property-stratum="6" data-property-price="489900000" data-property-price-range="400&#39;000.001 a 500&#39;000.000" data-property-business-type="Venta" data-property-zone-id="1" data-property-offerer="Constructora" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="526023" data-property-enterprise-id="1689" data-property-city-zone-id="1-1" data-property-id="4832-C00002-04" data-property-city-id="1" data-property-project-id="4832-C00002" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="4832-C00002-03">
+		
+		<div class="image">
+		
+			
+				
+			<div class="image_tag green">Para Estrenar</div>
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/proyecto/vive-92.co/4832-C00002-03">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/4832-C00002-03/4832-C00002-03_1_p.jpg" data-detail-image="4832-C00002-03_1" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="4832-C00002-03" alt="Venta de Apartamento en CHICO NORTE, Bogotá D.C. con  1 Habitaciones, 2 Baños, Estrato 6, Área 63.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/4832-C00002-03/4832-C00002-03_1_p.jpg" title="Apartamento en Venta en CHICO NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Edificio de 9 pisos de altura, 47 apartamentos, localizado en la esquina de la calle 92 con la NQS. Ventanería  acústica en fachadas sur y occidental (fachada norte y oriental no lo requieren), sistema central de agua caliente, control de iluminación para áreas comunes, circuito cerrado de Televisión, planta eléctrica de suplencia total, parqueaderos sencillo, semidobles y dobles, gimnasio, Sala de reuniones, jardín interior para niños, parqueaderos para visitantes, cerca avenidas principales.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/proyecto/vive-92.co/4832-C00002-03">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$495.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>63.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>1</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="PROJECT" data-favorite-id="415">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Nuevo" data-property-city="Bogotá D.C." data-property-id="4832-C00002-03">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Constructora" />
+			<input type="hidden" name="property-state" id="property-state" value="Nuevo" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Nuevo" data-property-stratum="6" data-property-price="495000000" data-property-price-range="400&#39;000.001 a 500&#39;000.000" data-property-business-type="Venta" data-property-zone-id="1" data-property-offerer="Constructora" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="526023" data-property-enterprise-id="1689" data-property-city-zone-id="1-1" data-property-id="4832-C00002-03" data-property-city-id="1" data-property-project-id="4832-C00002" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="4186-M2031594">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-3-habitaciones-4-banos-2-garajes/4186-M2031594">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/4186-M2031594/4186-M2031594_1_p.jpg" data-detail-image="4186-M2031594_1" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="4186-M2031594" alt="Venta de Apartamento en CHICO NORTE, Bogotá D.C. con  3 Habitaciones, 4 Baños, Estrato 6, Área 197.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/4186-M2031594/4186-M2031594_1_p.jpg" title="Apartamento en venta en CHICO NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Este es un magnífico apartamento para estrenar, ubicado en el exclusivo sector de chicó reservado, lindos y modernos acabados, 3 alcobas con diseño privado, estudio o estar de acabados, exterior con una magnífica luz natural.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-3-habitaciones-4-banos-2-garajes/4186-M2031594">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$2.100.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>197.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>3</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>4</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="4186-M2031594">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="4186-M2031594">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="2100000000" data-property-price-range="1.000&#39;000.001 o más millones" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="495431" data-property-enterprise-id="3826" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="4186-M2031594" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="5545-M2031127">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-2-habitaciones-4-banos-4-garajes/5545-M2031127">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/5545-M2031127/5545-M2031127_7_p.jpg" data-detail-image="5545-M2031127_7" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="5545-M2031127" alt="Venta de Apartamento en CHICO NORTE, Bogotá D.C. con  2 Habitaciones, 4 Baños, Estrato 6, Área 193.0 m2 y 4 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/5545-M2031127/5545-M2031127_7_p.jpg" title="Apartamento en venta en CHICO NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">En el sector más exclusivo y de mas valorización en Bogotá, surge como un icono en el diseño arquitectónico y de interiores este espectacular Pent House triplex en Chico Reservado Kr 8A Calle 96.  Con un inigualable hall de entrada en vidrio de seguridad (Piso 6) Sala Comedor y Cocina Bajando (Piso 5) Alcobas y Estudio en (Piso 7) Un Living Room que puedes adecuar para alcoba principal donde tienes tu terraza privada y una espectacular vista a los cerros orientales de la ciudad.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-2-habitaciones-4-banos-4-garajes/5545-M2031127">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$1.860.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>193.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>4</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>4</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="5545-M2031127">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="5545-M2031127">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="1860000000" data-property-price-range="1.000&#39;000.001 o más millones" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="599012" data-property-enterprise-id="3834" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="5545-M2031127" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="2627-M2028805">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-2-habitaciones-3-banos-2-garajes/2627-M2028805">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/2627-M2028805/2627-M2028805_7_p.jpg" data-detail-image="2627-M2028805_7" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="2627-M2028805" alt="Venta de Apartamento en CHICO NORTE III, Bogotá D.C. con  2 Habitaciones, 3 Baños, Estrato 6, Área 158.12 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/2627-M2028805/2627-M2028805_7_p.jpg" title="Apartamento en venta en CHICO NORTE III, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">espectacular apartamento en chico para estrenar de 124.12 mts mas 34.00 mts de terraza privada cuenta con 2 habitaciones cuenta con dos habitaciones principal con baño y walking closeth segunda habitacion con baño y baño social sala comedor amplia cocina tipo americano y zona de ropas independiente dos parqueaderos en linea y deposito el edificio cuenta con Domótica incluida en zonas sociales. IPadmini regalo para manejo de domotica, personalización de pisos de madera laminados Quick Step (Color</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-2-habitaciones-3-banos-2-garajes/2627-M2028805">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE III Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$1.083.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>158.12 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>3</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="2627-M2028805">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="2627-M2028805">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="1083000000" data-property-price-range="1.000&#39;000.001 o más millones" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="414315" data-property-enterprise-id="2275" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="2627-M2028805" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="2627-M2028860">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-2-habitaciones-3-banos-2-garajes/2627-M2028860">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/2627-M2028860/2627-M2028860_10_p.jpg" data-detail-image="2627-M2028860_10" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="2627-M2028860" alt="Venta de Apartamento en CHICO NORTE III, Bogotá D.C. con  2 Habitaciones, 3 Baños, Estrato 6, Área 118.83 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/2627-M2028860/2627-M2028860_10_p.jpg" title="Apartamento en venta en CHICO NORTE III, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">espectacular apartamento en chico para estrenar de 82.83 mts mas 36.00 mts de terraza privada cuenta con 2 habitaciones cuenta con dos habitaciones principal con baño y walking closeth segunda habitacion con baño y baño social sala comedor amplia cocina tipo americano y zona de ropas independiente dos parqueaderos en linea y deposito el edificio cuenta con Domótica incluida en zonas sociales. IPadmini regalo para manejo de domotica, personalización de pisos de madera laminados Quick Step (Color)</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-2-habitaciones-3-banos-2-garajes/2627-M2028860">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE III Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$697.557.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>118.83 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>3</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="2627-M2028860">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="2627-M2028860">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="697557000" data-property-price-range="650&#39;000.001 a 880&#39;000.000" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="414315" data-property-enterprise-id="2275" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="2627-M2028860" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="2627-M2028831">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-2-habitaciones-3-banos-2-garajes/2627-M2028831">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/2627-M2028831/2627-M2028831_6_p.jpg" data-detail-image="2627-M2028831_6" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="2627-M2028831" alt="Venta de Apartamento en CHICO NORTE III, Bogotá D.C. con  2 Habitaciones, 3 Baños, Estrato 6, Área 158.12 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/2627-M2028831/2627-M2028831_6_p.jpg" title="Apartamento en venta en CHICO NORTE III, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">espectacular apartamento en chico para estrenar de 124.12 mts mas 34.00 mts de terraza privada cuenta con 2 habitaciones cuenta con dos habitaciones principal con baño y walking closeth segunda habitacion con baño y baño social sala comedor amplia cocina tipo americano y zona de ropas independiente dos parqueaderos en linea y deposito el edificio cuenta con Domótica incluida en zonas sociales. IPadmini regalo para manejo de domotica, personalización de pisos de madera laminados Quick Step (Color</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-2-habitaciones-3-banos-2-garajes/2627-M2028831">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE III Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$1.083.408.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>158.12 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>3</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="2627-M2028831">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="2627-M2028831">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="1083408000" data-property-price-range="1.000&#39;000.001 o más millones" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="414315" data-property-enterprise-id="2275" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="2627-M2028831" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="289-M2028129">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-3-habitaciones-4-banos-2-garajes/289-M2028129">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/289-M2028129/289-M2028129_1_p.jpg" data-detail-image="289-M2028129_1" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="289-M2028129" alt="Venta de Apartamento en CHICO NORTE III, Bogotá D.C. con  3 Habitaciones, 4 Baños, Estrato 6, Área 125.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/289-M2028129/289-M2028129_1_p.jpg" title="Apartamento en venta en CHICO NORTE III, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Hermoso apartamento con vista hacia los cerros para estrenar. Iluminación durante todo el día, le da el sol de la mañana, cocina abierta con lava vajillas, zona de lavandería amplia e independiente, 3 habitaciones cada una con baño privado, 2 garajes independientes y deposito. Edifico con piscina, terraza BBQ, juegos para niños, salón lounge insonorizado, gimnasio. </p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-3-habitaciones-4-banos-2-garajes/289-M2028129">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE III Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$950.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>125.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>3</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>4</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="289-M2028129">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="289-M2028129">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Otro" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="950000000" data-property-price-range="880&#39;000.001 a 1.000&#39;000.000" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Otro" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="636090" data-property-enterprise-id="4173" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="289-M2028129" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="456-M2017329">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-rincon-del-norte-3-habitaciones-2-banos-1-garajes/456-M2017329">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/456-M2017329/456-M2017329_18_p.jpg" data-detail-image="456-M2017329_18" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="456-M2017329" alt="Venta de Apartamento en RINCON DEL NORTE, Bogotá D.C. con  3 Habitaciones, 2 Baños, Estrato 3, Área 69.0 m2 y 1 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/456-M2017329/456-M2017329_18_p.jpg" title="Apartamento en venta en RINCON DEL NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Conjunto, estrenar, espectacular vista al occidente de Bogotá,   Lindos acabados, pisos en madera laminada, cocina con mesón en granito, calentador y estufa de gas, horno eléctrico.  Tres alcobas, estar  y dos baños. Alcoba principal con baño privado. 1 garaje sencillo independiente y depósito. Conjunto con parqueos de visitas, parque infantil, terraza comunal con BBK. Salón comunal, oficina de administración  </p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-rincon-del-norte-3-habitaciones-2-banos-1-garajes/456-M2017329">
+				<h2 itemprop="name">Apartamento en Venta, RINCON DEL NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$281.400.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>69.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>3</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>1</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="456-M2017329">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="456-M2017329">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="3" data-property-price="281400000" data-property-price-range="250&#39;000.001 a 300&#39;000.000" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="157005" data-property-enterprise-id="2245" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="456-M2017329" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="205-M2016300">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-los-cedritos-2-habitaciones-3-banos-2-garajes/205-M2016300">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/205-M2016300/205-M2016300_4_p.jpg" data-detail-image="205-M2016300_4" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="205-M2016300" alt="Venta de Apartamento en LOS CEDRITOS, Bogotá D.C. con  2 Habitaciones, 3 Baños, Estrato 4, Área 70.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/205-M2016300/205-M2016300_4_p.jpg" title="Apartamento en venta en LOS CEDRITOS, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Hermoso apartamento para estrenar de 70 m2 cuarto piso esquinero muy iluminado ubicado en Nueva Autopista. Consta de 2 alcobas cada una con baño, baño social, sala-comedor, cocina, 2 garajes y un deposito. El edificio tiene en el ultimo piso una magnifica terraza con gimnasio dotado y BBQ.  Vigilancia 24 horas. </p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-los-cedritos-2-habitaciones-3-banos-2-garajes/205-M2016300">
+				<h2 itemprop="name">Apartamento en Venta, LOS CEDRITOS Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$380.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>70.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>3</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="205-M2016300">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="205-M2016300">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Otro" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="4" data-property-price="380000000" data-property-price-range="300&#39;000.001 a 400&#39;000.000" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Otro" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="627085" data-property-enterprise-id="4089" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="205-M2016300" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="2455-M2016971">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-1-habitaciones-1-banos-1-garajes/2455-M2016971">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/2455-M2016971/2455-M2016971_1_p.jpg" data-detail-image="2455-M2016971_1" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="2455-M2016971" alt="Venta de Apartamento en CHICO NORTE, Bogotá D.C. con  1 Habitaciones, 1 Baños, Estrato 6, Área 43.87 m2 y 1 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/2455-M2016971/2455-M2016971_1_p.jpg" title="Apartamento en venta en CHICO NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">9416 ESTUDIOS es un proyecto de vivienda de 7 pisos, 1 sótano, 35 apartamentos y espacios modulares que le permiten lograr el espacio buscado. Su diseño de alta calidad es una excelente opción para su estilo de vida. Este proyecto es ecológicamente responsable y evidencia el compromiso con el medio ambiente. Ubicado en uno de los más elegantes barrios residenciales, con iglesias, colegios, parques, centros comerciales, excelentes restaurantes y variedad de servicios a distancia peatonal.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-1-habitaciones-1-banos-1-garajes/2455-M2016971">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$431.255.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>43.87 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>1</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>1</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>1</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="2455-M2016971">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="2455-M2016971">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Otro" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="431255000" data-property-price-range="400&#39;000.001 a 500&#39;000.000" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Otro" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="399316" data-property-enterprise-id="2541" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="2455-M2016971" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="5105-M2013786">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-molinos-norte-4-habitaciones-4-banos-3-garajes/5105-M2013786">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/5105-M2013786/5105-M2013786_14_p.jpg" data-detail-image="5105-M2013786_14" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="5105-M2013786" alt="Venta de Apartamento en MOLINOS NORTE, Bogotá D.C. con  4 Habitaciones, 4 Baños, Estrato 6, Área 253.0 m2 y 3 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/5105-M2013786/5105-M2013786_14_p.jpg" title="Apartamento en venta en MOLINOS NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Duplex Penthouse  consta de 3 habitaciones cada una con su baño, cuarto y baño de servicio, baño social, cocina abierta, sala comedor con chimenea natural, estudio y estar de tv y terraza  en el segundo piso. 3 garajes independientes y un deposito. Salon comunal.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-molinos-norte-4-habitaciones-4-banos-3-garajes/5105-M2013786">
+				<h2 itemprop="name">Apartamento en Venta, MOLINOS NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$1.599.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>253.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>4</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>4</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>3</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="5105-M2013786">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="5105-M2013786">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="1599000000" data-property-price-range="1.000&#39;000.001 o más millones" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="553816" data-property-enterprise-id="3662" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="5105-M2013786" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="171-M2012481">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-1-habitaciones-2-banos-2-garajes/171-M2012481">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/171-M2012481/171-M2012481_10_p.jpg" data-detail-image="171-M2012481_10" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="171-M2012481" alt="Venta de Apartamento en CHICO NORTE, Bogotá D.C. con  1 Habitaciones, 2 Baños, Estrato 6, Área 64.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/171-M2012481/171-M2012481_10_p.jpg" title="Apartamento en venta en CHICO NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Excelente apartamento para estrenar, hermosa vista al cerro, modernos acabados, estufa de inducción, balcón,  pisos madera laminada, gimnasio y terraza comunal.</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-1-habitaciones-2-banos-2-garajes/171-M2012481">
+				<h2 itemprop="name">Apartamento en Venta, CHICO NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$530.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>64.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>1</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="171-M2012481">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="171-M2012481">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="530000000" data-property-price-range="500&#39;000.001 a 650&#39;000.000" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="2076" data-property-enterprise-id="3718" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="171-M2012481" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="2731-M2011203">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-molinos-norte-2-habitaciones-2-banos-2-garajes/2731-M2011203">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/2731-M2011203/2731-M2011203_1_p.jpg" data-detail-image="2731-M2011203_1" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="2731-M2011203" alt="Venta de Apartamento en MOLINOS NORTE, Bogotá D.C. con  2 Habitaciones, 2 Baños, Estrato 6, Área 77.0 m2 y 2 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/2731-M2011203/2731-M2011203_1_p.jpg" title="Apartamento en venta en MOLINOS NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Apartamento en Santa Barbara.  2 Habitaciones. 2 baños completos. Excelentes acabados. la habitación del   área social esta separada por una puerta corrediza que permite   independencia o gran espacio abierto, cocina abierta, Area social con   balcón, chimenea a gas, amplia altura de techos, 2 garajes en linea -   deposito,  salones sociales y 2 terrazas con BBQ en edificio. Excelente ubicacion, Unicentro,   VALOR $ 530.000.0000 negociables.  Admin $ 390.000 aprox. CT</p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-molinos-norte-2-habitaciones-2-banos-2-garajes/2731-M2011203">
+				<h2 itemprop="name">Apartamento en Venta, MOLINOS NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$530.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>77.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>2</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>2</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>2</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="2731-M2011203">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="2731-M2011203">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="530000000" data-property-price-range="500&#39;000.001 a 650&#39;000.000" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="420663" data-property-enterprise-id="2442" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="2731-M2011203" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+				<div class="m_rs_list_item  ">
+
+					<div itemscope="" itemtype="http://schema.org/Offer">
+
+		<div class="detail_wrap" id="317-M2008675">
+		
+		<div class="image">
+		
+			
+				
+			
+
+			<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-molinos-norte-3-habitaciones-4-banos-3-garajes/317-M2008675">
+					<div class="image_filter"></div>
+					<img class="detail_image lazyResults" data-detail-type="results" itemprop="image" data-src="http://static.metrocuadrado.com/inmuebles/317-M2008675/317-M2008675_13_p.jpg" data-detail-image="317-M2008675_13" src="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" data-property-id="317-M2008675" alt="Venta de Apartamento en MOLINOS NORTE, Bogotá D.C. con  3 Habitaciones, 4 Baños, Estrato 6, Área 273.0 m2 y 3 Garages" data-default-image="http://static.metrocuadrado.com/inmuebles/317-M2008675/317-M2008675_13_p.jpg" title="Apartamento en venta en MOLINOS NORTE, Bogotá D.C." data-detail-unavailable-image-url="/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg" />
+			</a>
+			
+		</div>
+
+		<div class="m_rs_list_item_details">
+			<div class="desc">
+			<!-- MicroEtiquetado -->
+				<p class="title">MÁS DETALLES</p>
+				<p itemprop="description">Pent-house dúplex para estrenar, consta de 3 habitaciones, 4 baños, cuarto y baño de servicio. Sala comedor con chimenea a control, cocina abierta. Excelentes acabados. 3 garajes y un depósito. Terraza de 20 m2 adicionales. </p>
+			</div>
+			<div class="close_item">
+				<button title="Close (Esc)" type="button" data-rs-switcher="">×</button>
+			</div>
+		</div>
+
+		<div class="m_rs_list_item_main">
+			<div class="description_content">
+				<div class="content">
+		<div class="header">
+				<a itemprop="url" class="data-details-id" target="_blank" href="http://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-molinos-norte-3-habitaciones-4-banos-3-garajes/317-M2008675">
+				<h2 itemprop="name">Apartamento en Venta, MOLINOS NORTE Bogotá D.C..</h2></a>
+		</div>
+	</div>
+				<body>
+
+	<div class="price_desc">
+
+		
+		<p class="price">
+			
+			<span class="item_title">Precio de Venta</span>
+			 
+			<span itemprop="price">$1.600.000.000</span>
+			<meta itemprop="priceCurrency" content="COP" />
+		</p>
+
+
+		<div class="desc_rs">
+
+			<div class="m2">
+				<p>
+					<span class="item_title">&Aacute;rea construida:</span>
+					<span>273.0 m2</span>
+				</p>
+			</div>
+
+			<div class="rooms">
+				<p>
+					<span class="item_title">Hab:</span>
+					<span>3</span>
+					<span class="item_title_mobile">Hab.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms">
+				<p>
+					<span class="item_title">Ba&ntilde;os:</span>			
+					<span>4</span>
+					<span class="item_title_mobile">Ba&ntilde;.</span>
+				</p>
+			</div>
+
+			<div class="bathrooms garages">
+				<p>
+					Garajes:<span>3</span>
+				</p>
+			</div>
+
+			
+
+
+		</div>
+
+	</div>
+
+</body>
+			</div>
+			<div class="tools">
+	
+		<div>
+	
+
+		
+		
+		<a class="bookmark a" data-favorite-type="USED" data-favorite-id="317-M2008675">favorito</a>
+		
+	</div>
+				
+		<!-- <a href="#list-hide" class="hide" data-list-options-hide>ocultar</a> -->
+		<a href="#" class="more_info" data-rs-switcher=""><p>m&aacute;s detalles</p></a> 
+		<a rel="nofollow" href="#list-contact" class="show_tel" data-list-options-contact="" data-omniture-event="showPhone" data-property-state="Usado" data-property-city="Bogotá D.C." data-property-id="317-M2008675">Quiero que me contacten</a>
+			<div class="more_info mobile" data-rs-switcher=""></div>
+			
+
+			<input type="hidden" name="offerer" id="offerer" value="Inmobiliaria" />
+			<input type="hidden" name="property-state" id="property-state" value="Usado" />
+			
+			<input type="hidden" name="data-stats" id="data-stats" data-property-state="Usado" data-property-stratum="6" data-property-price="1600000000" data-property-price-range="1.000&#39;000.001 o más millones" data-property-business-type="venta" data-property-zone-id="1" data-property-offerer="Inmobiliaria" data-property-has-photo="true" data-property-type-id="1" data-property-visitor-id="78713" data-property-enterprise-id="2296" data-property-business-type-id="1" data-property-city-zone-id="1-1" data-property-id="317-M2008675" data-property-city-id="1" />
+			 
+			
+
+	</div>
+		</div>
+		
+		<hr />
+		</div>
+
+	</div>
+
+				</div>
+				
+				
+	<script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>

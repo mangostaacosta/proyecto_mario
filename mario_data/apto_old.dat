@@ -1,0 +1,1822 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+	
+
+
+<!-- Smart -->
+	
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c>u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(p,function(e,n){t[e]||(t[e]=n)});var n="https"===s.split(":")[0]||t.sslForHttp;l.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),c=t(1),u=window,f=u.document;t(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],12:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},["G9z0Bl"]);</script><script src="http://cdn1.smartadserver.com/diff/js/smartadserver.js" type="text/javascript"></script>
+<!-- Fin de Smart -->
+
+
+	
+	<link rel="alternate" media="only screen and (max-width:640px)" href="http://m.metrocuadrado.com/apartamentos/venta/bogota/san-patricio/2415-21712/"/>
+	
+<!-- 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<!-- 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /> -->
+	
+<!-- begin Convert Experiments code Solicitado por Smart para pruebas-->
+	<script type="text/javascript">
+	var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(decodeURIComponent("%3Cscript src='" + _conv_host + "/js/10014329-10013792.js'type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<!-- end Convert Experiments code -->	
+	
+	<title itemprop="headline">Venta de Apartamento en  Bogotá D.C. - 21712</title>
+	<meta name="description" content="Apartamento en  Venta Bogotá D.C.,2 habitaciones, 2 ba&ntilde;os, estrato 6, al mejor precio, vea las fotos. 21712">
+	<meta name="keywords" content="2415-21712,Apartamento,Venta,Bogotá D.C."/>
+	
+
+	
+	<!-- Facebook -->
+	<meta property="og:type" content="product" />
+	<meta property="og:url" content="http://www.metrocuadrado.com/venta/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%c3%b1os-1-garajes-estrato-6-area-73-mts-$340.000.000-id-2415-21712"/>
+	<meta property="og:title" content="Venta de Apartamento en  Bogotá D.C." />
+	<meta property="og:description"	content="Apartamento en Venta en , Bogotá D.C., 2 habitaciones, 2 baños, 1 garajes" />
+	<meta property="og:site_name" content="www.metrocuadrado.com" />
+	<meta property="og:price:amount" content="0" />
+	<meta property="og:price:currency" content="COP" />
+	
+	<meta property="fb:admins" content="636643224" />
+	<meta property="fb:app_id" content="111781445554922" />
+	
+	
+	  <meta property="og:image" content="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_1_l.jpg"/>
+	
+	<meta name="google-site-verification" content="UpQUCQVL6WUNqhsefYuUHt0XOi55cWQ17GNjdjzZBe8" />
+	<meta name="msvalidate.01" content="C31E65F61A63B1BA280912B913DAD887" />
+	<meta name="y_key" content="91c1615ec91d8f9a" />
+	
+	<!-- 	Twitter cards	 -->
+	<meta name="twitter:card" content="product">
+	<meta name="twitter:site" content="@metrocuadrado">
+	<meta name="twitter:creator" content="@metrocuadrado">
+	<meta name="twitter:title" content="Venta de Apartamento en  – Bogotá D.C.">
+	<meta name="twitter:description" content="Apartamento en Venta en , Bogotá D.C., 2 habitaciones, 2 baños, 1 garajes">
+	
+	
+	  <meta name="twitter:image" content="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_1_l.jpg"/>
+	
+	<meta name="twitter:label1" content="Precio">
+	<meta name="twitter:data1" content="$340.000.000">
+	<meta name="twitter:label2" content="Ubicación">
+	<meta name="twitter:data2" content="San Patricio Bogotá D.C.">
+		
+	
+	<!--[if lt IE 9]>
+		<script type="text/javascript">
+		   document.createElement("nav");
+		</script>
+		<![endif]-->
+	<!-- fin Facebook -->
+	<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+	<script src="/js/jquery.min.js" type="text/javascript"></script>
+	
+		
+	
+<!-- 	<link href="/web/css/detalle/estilosCreditoya.css" rel="stylesheet" type="text/css" media="screen" /> -->
+<!-- 	<link href="/web/css/inmueblesvistos/detallesRelacionados.css" rel="stylesheet" type="text/css" media="screen" /> -->
+	
+		<link href="/web/css/detalle/fixed-bar.css" rel="stylesheet" type="text/css" media="screen" />
+	
+	
+	<!--  Librerias JQUERY -->
+    
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/web/js/lib/modernizr-min.js" type="text/javascript" ></script>
+	<script src="/web/js/lib/jquery.uniform.min.js" type="text/javascript"></script>
+	<script src="/web/js/lib/jquery.thickbox.min.js" type="text/javascript"></script>
+	<script src="/web/js/lib/jquery.chosen.min.js" type="text/javascript"></script>
+	<script src="/web/js/lib/jquery.easing.1.3.min.js" type="text/javascript"></script>
+	<script src="/web/js/lib/jquery.timers-1.2.min.js" type="text/javascript"></script>
+	<script src="/web/js/lib/jquery.galleryview-3.0.min.js" type="text/javascript"></script>
+	<script src="/web/js/cookiesutil.js" type="text/javascript"></script>
+	<script src="/web/js/lib/jquery.overlaps.js" type="text/javascript"></script>
+	
+	<!--  Fin Librerias JQUERY -->
+	
+	<!-- librerias pruebas AB boton ver telefono -->
+<!-- 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"> -->
+<!--     <link rel="stylesheet" href="http://www.metrocuadrado.com/css/bootstrap.min.css"> -->
+<!--     <link rel="stylesheet" href="http://www.metrocuadrado.com/css/bootstrap.metrocuadrado.css"> -->
+<!--     <script type="text/javascript" src="http://www.metrocuadrado.com/js/jquery.min.js"></script> -->
+	
+	<!-- Para el autocomplete del buscador -->
+	<script src="/js/jcomplete/jquery.ui.core.js" type="text/javascript" language="javascript" ></script>
+	<script src="/web/js/autocomplete/jquery-ui.min.js" type="text/javascript"></script>
+	
+	
+	<!--  Librerias El Tiempo -->
+	<script src="/web/js/s_code.js" type="text/javascript"></script>
+	<script src="/web/js/eventosOmniture.js" type="text/javascript"></script>
+	<!--  Fin Librerias El Tiempo -->
+	
+	<!--  Librerias Metrocuadrado -->
+	<script src="/web/js/detalle.js" type="text/javascript"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&channel=eltiempo&region=co"></script>
+    <script src="/web/js/streetView.js" type="text/javascript"></script>
+    <script src="/web/js/Namespace.js" type="text/javascript"></script>
+    <script src="/web/js/underscore-min.js" type="text/javascript"></script>
+    <script src="/web/js/client.min.js" type="text/javascript"></script>
+      
+	<!--  Fin Librerias Metrocuadrado -->
+	
+	<!--  Twitter button -->
+	<script>
+		!function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
+					.test(d.location) ? 'http' : 'https';
+			if (!d.getElementById(id)) {
+				js = d.createElement(s);
+				js.id = id;
+				js.src = p + '://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js, fjs);
+			}
+		}(document, 'script', 'twitter-wjs');
+	</script>
+	<!-- Facebook button -->
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id))
+				return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=111781445554922";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script type="text/javascript">
+		
+			
+			$(window).load(function(){
+				inicializarGaleria();
+			});
+			$( window ).load(function() {
+				enviarEventoOmnitureCargaDetalle('2415-21712');
+				actualizarPosicionContactarAnunciante();
+				actualizarFormularioContactarAnunciante();
+				inicializarBotonesRedesSociales();
+				$("#henviarMailContactoVerTelefonoFuente").val("false");
+				$("#henviarMailContacto").val("false");
+				$("#henviarEstadisticaVerTelefonoFuente").val("false");
+				$("#hejecutarOnClickVerTelefono").val("false");
+				$("#formTelefono").trigger("click");
+				$("#formContacto").trigger("click");
+				inicializarVerTelefono();
+				inicializarFormularioContactarAnunciante();
+				inicializarVolverArriba();
+				inicializarBarraFija();				
+				desactivarBotonesContacto();
+				$("#henviarEstadisticaVerTelefonoFuente").val("true");
+				$("#henviarMailContactoVerTelefonoFuente").val("true");
+				$("#henviarMailContacto").val("true");
+				$("#hejecutarOnClickVerTelefono").val("true");
+				inicializarScrollContactarAnunciante();
+				$("#btn_street").click(
+					function(){
+						cargarStreetView('streetView');
+					}
+				);				
+	
+			});
+			
+			function inicializarScrollContactarAnunciante(){
+				$(document).scroll(function(){
+					actualizarPosicionContactarAnunciante();				
+				});	
+			}
+			
+			
+			function inicializarVerTelefono(){
+				$("#formTelefono").click(
+					function(){
+						if($("#hejecutarOnClickVerTelefono").val()=='true'){
+							cambiarValorItem(1,5);
+							mostrarInformacionContacto();
+							crearCookiesContactoDetalle(5);
+							
+							if(enviarEventoOmniture("henviarEventoOmnitureVerTelefono")){
+								enviarEventoOmnitureVerTelefono('2415-21712','Bogotá D.C.','Ver teléfono','Tradicional');
+							}
+							
+							if($("#henviarEstadisticaVerTelefonoFuente").val()=='true'){								
+								enviarEstadisticaVerTelefono('2415-21712','393989','1','6','1','1','340000000');
+							}
+							if($("#henviarMailContactoVerTelefonoFuente").val()=='true'){
+								enviarMailContactoVerTelefonoFuente('/web/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%C3%B1os-1-garajes-estrato-6-area-73-mts-%24340.000.000-id-2415-21712',5,'tradicional');
+							}	
+						}
+						
+					}
+				);
+			}
+				
+	</script>
+
+	
+	<!-- SMART GENERIC -->
+    
+    <script type="text/javascript">
+	    sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+	    function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+	     if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+	     document.write('<scr'+'ipt src="http://ads.eltiempo.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+	    }
+    </script>
+    
+    <!-- END SMART GENERIC -->
+    
+    <link href="/web/css/inmueblesvistos/detallesRelacionadosConstructores.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/web/css/detalle/fixed-bar.css" rel="stylesheet" type="text/css" media="screen" />
+		 
+</head>
+       
+<body itemscope itemtype=http://schema.org/WebPage>
+
+	<meta itemprop="isFamilyFriendly" content="true"/>
+	
+
+	
+		<!----------------------------------------------------------------------------------->
+		<!--Barra Fija Efectividad Detalle : Despues de hacer scroll 300px aprece-->
+		<!----------------------------------------------------------------------------------->
+		
+
+
+
+<!----------------------------------------------------------------------------------->
+<!--Barra Fija Efectividad Detalle : Despues de hacer scroll 300px aprece-->
+<!----------------------------------------------------------------------------------->
+
+<script>
+	
+
+</script>
+
+<div class="cont-fixed-bar">
+    	<div class="bf-container">
+        	<div class="bf-spec">
+        		
+        				<img src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_1_l.jpg" alt="">
+				
+
+		        <span>Apartamento en Venta <span> Santa Bárbara, Bogotá D.C.</span></span>
+		        <h3>
+		        	
+		        		$340.000.000
+		        	
+					  
+		        
+        	  	
+		        </h3>
+            	</div>
+            	<div class="bf-contact">
+            		<p>
+                		<a id="contactarVendedorBarraFija" class="btn btn-info thickbox" href="#TB_inline?height=410&amp;width=260&amp;inlineId=home">
+                	    <i class="fa fa-envelope-o fa-inverse fa-lg"></i> Contactar al anunciante</a>
+                    		<a class="btn btn-success" onclick="if(enviarEventoOmniture('henviarEventoOmnitureVerTelefonoBF')){enviarEventoOmnitureVerTelefono('2415-21712','Bogotá D.C.','Ver teléfono','Barra fija');}enviarMailContactoVerTelefonoFuente('/web/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%C3%B1os-1-garajes-estrato-6-area-73-mts-%24340.000.000-id-2415-21712',5,'barra fija');" href="javascript:;" title="" data-toggle="popover" data-placement="bottom" data-html="true" 
+                    		data-original-title="La Casa Mas Barata-La Casa Mas Barata - Principal" 
+                    		data-content="
+                    		
+                    			<b>Tel:</b> 4612040-3133543627 <br/>
+                    		
+                    		
+                   		    
+						      <b>Dir:</b>
+						      Calle 155 con 9
+   							">
+   							
+                    		<i class="fa fa-phone fa-inverse fa-lg"></i> Ver tel&eacute;fono</a>
+                	</p>
+            	</div>
+        </div>
+    </div>
+    
+	
+
+	 <!-- SMART Insertion   -->
+    
+    <script type="text/javascript">
+	    sas_pageid='25081/402369';	// Página : prueba_SMART/test_grg
+	    sas_formatid=8941;		    // Formato : Expandible Derecha Banderole  0x0
+	    sas_target='';			    // Segmentación
+	    SmartAdServer(sas_pageid,sas_formatid,sas_target);
+    </script>
+    <noscript>
+		<a href="http://ads.eltiempo.com/call/pubjumpi/25081/402369/8941/M/[timestamp]/?" target="_blank">
+		<img src="http://ads.eltiempo.com/call/pubi/25081/402369/8941/M/[timestamp]/?" border="0" alt="" /></a>
+	</noscript>
+    
+	<!-- END SMART Insertion  -->
+	
+
+	<!-- Google Tag Manager -->
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTMXDZ" height="0" width="0" style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
+
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+		var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+		j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WTMXDZ');
+	</script>
+	<!-- End Google Tag Manager -->
+	
+	
+		<div>
+			
+
+
+
+<link href="/web/css/bootstrap.css" rel="stylesheet" media="screen">
+
+<link href="http://www.metrocuadrado.com/css/grid.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/web/css/stylesHeader.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://www.metrocuadrado.com/js/thickbox/thickbox.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if gte IE 9]><style type="text/css">.gradient{filter:none;}</style><![endif]-->
+
+<!--  Librerias El Tiempo -->
+<script src="/web/js/s_code.js" type="text/javascript"></script>
+<script type="text/javascript" src="/web/js/eventosOmniture.js"></script>
+
+<!--[if lt IE 9]><script src="/web/js/lib/html5.js" type="text/javascript"></script><![endif]-->
+<!--  Fin Librerias El Tiempo -->
+
+<!--  Librerias Metrocuadrado -->
+<script src="/web/js/metrocuadrado.js" type="text/javascript"></script>
+<script src="/web/js/buscadorNuevo.js" type="text/javascript"></script>
+<!--  Fin Librerias Metrocuadrado -->
+
+<!-- Librerias Boostrap -->
+<script src="/web/js/lib/bootstrap.js"></script>
+
+<div class="container_12 clearfix">
+       
+       <header id="hd_header">
+            
+        
+    
+        <!-- Inicio redes sociales y login -->
+        <div id="hd_contLoginSocial" class="clearfix">
+            
+            <!-- Inicio Redes sociales -->
+            <div class="hd_apiSocial">
+                <a href="http://www.facebook.com/metrocuadradocom" target="_blank" rel="nofollow" title="Facebook"><img class="icoFacebook" src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Facebook" width="1" height="1" /></a>
+                <a href="https://twitter.com/metrocuadrado" target="_blank" rel="nofollow" title="Twitter"><img class="icoTwitter" src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Twitter" width="1" height="1" /></a>
+                <a href="https://plus.google.com/u/0/112174026277288480186" rel="publisher" target="_blank" title="Google+"><img class="icoGooglePlus" src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Google+" width="1" height="1" /></a>
+                <a href="http://www.youtube.com/user/METROCUADRADOcom" target="_blank" rel="nofollow" title="YouTube"><img class="icoYouTube" src="http://www.metrocuadrado.com/images/img_trans.gif" alt="YouTube" width="1" height="1" /></a>
+                <a href="http://pinterest.com/mtcuadra/" target="_blank" rel="nofollow" title="Pinterest"><img class="icoPinterest" src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Pinterest" width="1" height="1" /></a>
+            </div>
+            <!-- Fin Redes sociales -->
+            
+            <!-- Inicio Escribanos y ayuda -->
+            <div class="hd_writeUs">
+                <a href="http://www.metrocuadrado.com/contactom2/contactenos.html?keepThis=true&TB_iframe=true&height=560&width=354" class="thickbox hd_linkEscribanos">Escr&iacute;banos</a>
+            </div>
+            <div class="hd_needHelp">
+                &iquest;Necesita ayuda? <strong><a href="tel:018000115252">01 8000 115 252</a></strong>
+            </div>
+            <!-- Fin Escribanos y ayuda -->
+           <div style="float: right">
+                <ul class="hd_dropdown hd_dropdown_horizontal">
+                    <li class="hd_leadSec bckAB_li">
+                             <a href="/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=ofertaNueva/online.pjr.html" title="Publique su inmueble" itemprop="significantLinks">Publique su Inmueble</a>
+                      </li>
+                  </ul>
+              </div>
+             <div class="hd_logIn" id="hd_logInAB">
+                <nav role="hd_login" class="hd_menuIngreso">
+                    <ul class="hd_loginM2">
+    
+                        <!-- Registrarse-->
+                        <li class="hd_cntLinksUser hd_ingresar"><a href="javascript:void(0);" class="hd_linkIngreso" id="hd_linkLogin">Ingresar</a>
+                              <div id="hd_member">
+                                <form name="laFormaA" method=get onsubmit="return validarForma(this)" action="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.usuario.AutenticarParaEntidades">
+                                <input type="hidden" value="S" name="desdeHome">
+                                
+                                    <label class="clearfix">Usuario</label>
+                                      <input type="text" placeholder="Ej. luis.l@correo.com" size="20" class="hd_wd_texto_login" name="PJR_REMOTE_USER" id="hd_lgnUser" />
+                                      
+                                      <label class="clearfix">Clave<div class="clearfix"></div> </label>
+                                      <a class="hd_claveIngreso" href="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.usuario.OlvidoSuClave">&iquest;Olvid&oacute; su clave?</a>
+                                      <input type="password" value="" size="20" class="hd_wd_texto_login" name="PJR_PASSWORD" id="hd_lgnPass" />
+                                      
+                                      <input name="button5" type="submit" class="hd_btnLogin gradient" id="button5" value="Entrar" />
+                                </form>
+                                
+                                <div class="clearfix"></div>
+                                
+                                <b>&raquo; &iquest;A&uacute;n no est&aacute; registrado? <a href="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.usuario.MostrarRegistro">Reg&iacute;strese</a></b>
+                                <div class="hd_cntFacebook">
+                                      <iframe src="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=registroOpengraph.html" scrolling="no" frameborder="0" style="height:40px;width:207px;margin-left:-12px;"allowTransparency="true"></iframe>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+                <!-- fin login -->
+        </div>
+        <!-- Fin redes sociales y login -->
+    
+        <div class="grid_12">
+            <div class="hd_nombUsuaLogueado" style="visibility:hidden;"><p>&nbsp;</p></div>
+        </div>
+<!--         <div class="grid_3"> -->
+<!--             <h1><a title="Casas, Apartamentos, oficinas en venta y arriendo en Colombia" href="http://www.metrocuadrado.com">Casas, Apartamentos, oficinas en venta y arriendo en Colombia</a></h1> -->
+<!--         </div> -->
+    
+        <div class="logo_resul">
+            <a title="Casas, Apartamentos, oficinas en venta y arriendo en Colombia" href="http://www.metrocuadrado.com"></a>
+        </div>    
+        
+        <!-- Inicio buscador por filtros -->
+        <div class="grid_9     " id="buscadorAvanzado" style="display: none;">
+        <form class="hd_fastBox clearfix fastAvanzada" id="hmid_fastAv" method="POST" onsubmit="return buscarPorFiltros('header');">
+				<!-- Categoria ubicacion -->
+				<div class="form-group" style="width: 180px">
+					<select class="selectpicker span2" title="Tipo negocio"
+						name="idTipoNegocio" id="tipoNegocioVivienda" onchange="mostrarEstadoInmueble(this.value)">
+						<option value="2" >Arriendo</option>
+						<option value="1_-1">Compra Nuevo y Usado</option>
+						<option value="1_0">Compra Nuevo</option>
+						<option value="1_1">Compra Usado</option>
+						<option value="-1" id='categoria'>Vivienda</option>
+                    </select> 
+				</div>
+				<div class="form-group" style="width: 180px">
+					<select class="selectpicker span2" title="Tipo de inmueble" 
+						name="idTipoInmueble"  id="idTipoInmueble" onchange="filtrarTipoInmueble(this)">
+                    <option selected="selected" value="-1">Tipo de inmueble</option>
+                    <optgroup label="Vivenda" id="1" >
+                        <option value="2">Casas</option>
+                        <option value="1">Apartamentos</option>
+                        <option value="3">Oficinas</option>
+                        <option value="8">Bodega</option>
+                        <option value="5">Consultorio</option>
+                        <option value="6">Local</option>
+							<option value="4">Lote</option>
+							<option value="7">Finca</option>
+                        <option value="10">Edificio de oficinas</option>
+                        <option value="9">Edificio de apartamentos</option>
+                    </optgroup>
+                    <optgroup label="Turismo y descanso" id="2">
+                        <option value="2">Casa</option>
+                        <option value="1">Apartamento</option>
+                        <option value="7">Fincas</option>
+                        <option value="12">Hotel</option>
+                    </optgroup>  
+                </select>
+				</div>
+				<div class="form-group" style="margin: 0px;width: 175px;">
+					<input id="search" type="text" class="form-control cciudad" placeholder="Ciudad, Zona o Sector" onfocus="this.value=''; $('#hiddenUbicacion').val('');">
+					<input type="hidden" name="ubicacion" id="hiddenUbicacion" value="">
+				</div>
+				<div style="float: right; width: 100px; margin: 0px;" class="form-group">
+					<input id="hmid_buscarCr" class="gradient" type="submit" onclick="s_objectID='btn_buscarInternoCr';" value="Buscar" />								
+				</div>
+				<div class="hd_buscAvanzada clearfix">
+					<p><a href="#" class="showPalabra" onclick="cambiarMetodoBusqueda();" title="B&uacute;squeda por c&oacute;digo">B&uacute;squeda por c&oacute;digo</a></p>
+				</div>
+                
+			</form>
+			<script src="/web/js/autocomplete-locations.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			$("#search").css("background","url('http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/images/ui-anim_basic_16x16.gif') no-repeat right center !important");
+			$(document).ready(function() {
+                
+				$("#categoria").hide();
+				$("#categoria").css({"visibility": "hidden"});
+				$("#categoria").attr('disabled','disabled').siblings().removeAttr('disabled');
+				restaurarValoresBuscadorDesdeCookies("search","hiddenUbicacion","tipoNegocioVivienda","idTipoInmueble")
+				initAutocompleteUbicaciones("search","hiddenUbicacion");
+                
+			});
+                
+                
+			$.widget("custom.catcomplete",$.ui.autocomplete,{
+				_create : function() {
+					this._super();
+					this.widget().menu("option","items","> :not(.ui-autocomplete-category)");
+				},
+				_renderMenu : function(ul,items) {
+					var categorias = ["Barrio","Sector","Zona","Ciudad","Departamento"];
+					var that = this, currentCategory = "";
+					$.each(items,function(index,item) {
+						var li;
+						if (item.category != currentCategory) {
+							ul.append("<li class='ui-autocomplete-category'>"+ categorias[item.category] + "</li>");
+							currentCategory = item.category;
+						}
+						li = that._renderItemData(ul,item);
+						if (item.category) {
+							li.attr("aria-label",item.category+" : "+ item.label);
+						}
+					});
+				},
+				_renderItem : function(ul, item) {
+					var itemCreado = $("<li>").attr("data-value",item.value);
+					if(item.desc != ""){
+						itemCreado = itemCreado.append("<a>"+ item.label + " <span class='descItemAutoComplete'>("+ item.desc +")</span></a>").appendTo(ul);	
+					}else{
+						itemCreado = itemCreado.append("<a>"+ item.label + "</a>").appendTo(ul);
+					}
+					return itemCreado;
+				}
+			});
+			</script>
+			
+        </div>
+        <!-- Fin buscador por filtros -->
+    
+        <!-- Inicio buscador por palabra -->
+        <div class="grid_9 fastPalabra" id="buscadorPalabra">
+        
+            <script>
+                $(document).ready(function (){
+                    $(".dropdown-menu li a").click(function(){
+                        $("#dropdownEstado").html($(this).html());
+                    });    
+                });
+            </script>
+            
+            <form class="hd_fastBox clearfix" id="hmid_fast" action="" method="POST" onsubmit="return buscarPorPalabra('header');">                
+                <input name="query" id="hmid_cajabuscar" class="hm_buscPalabra" type="text" autocomplete="on" placeholder="Caracteristicas de inmueble, codigos de inmueble" />
+                <input id="hmid_buscarPl" class="gradient" type="submit" value="Buscar"  onclick="s_objectID='btn_buscarInternoPl';" name="btn_buscarInternoPl"/>           
+                
+                <div class="hd_buscAvanzada clearfix">
+                    <p><a href="javascript:;" class="showAvanzada" onclick="cambiarMetodoBusqueda();">B&uacute;squeda avanzada</a></p>
+                    <div class="bubble">
+                        <p>Si prefiere puede volver a la versi&oacute;n anterior</p>
+                        <span class="border">&nbsp;</span>
+                        <span>&nbsp;</span>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="clear"></div>
+        <!-- Fin buscador por palabra -->
+        
+        <!-- Inicio menu navegación -->
+        <nav id="hd_contMenu" role="hd_navMenu">
+            <ul id="hd_nav" class="hd_dropdown hd_dropdown_horizontal">
+                <li><a href="http://www.metrocuadrado.com/">Inicio</a></li>
+                <li class="hd_navDir hd_secBuscar" id="NavBuscar">
+                    <a href="/servlet/co.com.pragma.m2.servlet.demanda.MostrarHome">Buscar</a>
+                    <ul>
+                        <li class="hd_navFirst"><a href="/servlet/co.com.m2.servlet.demanda.MostrarInmobiliaria?idTipoServicio=0&idCiudad=1&company=&letraInicial=A&letraFinal=Z">Buscar por inmobiliaria</a></li>
+                        <li><a href="/web/buscar-por-mapa-inmuebles-en-colombia/">Buscar por mapa</a></li>
+                        <li><a href="/web/buscar-por-mapa-inmuebles-en-colombia/">Buscar por inmuebles nuevos</a></li>  
+                        <li><a href="/servlet/co.com.m2.servlet.demanda.MostrarConstructores">Buscar por constructores</a></li>                
+                        <li><a href="/servlet/co.com.pragma.m2.servlet.demanda.MostrarDaciones?idTipoServicio=15&idCiudad=1&company=&letraInicial=A&letraFinal=Z">Buscar por daciones de pago</a></li>
+                        <li class="hd_navLast"><a href="/web/buscar/atributos?esRevista=S">Buscar por revista metrocuadrado</a></li>
+                    </ul>
+                </li>
+                <li class="" id="NavPublicar"><a href="/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=ofertaNueva/online.pjr.html">Publicar</a></li>
+                <li class="hd_navDir" id="NavDecoracion">
+                    <a href="/noticias/herramientas">Herramientas</a>
+                    <ul>
+                        <li class="hd_navFirst"><a href="/noticias/herramientas/guias">Gu&iacute;as</a></li>                        
+                        <li><a href="/servlet/co.com.m2.servlet.cch.MostrarHome">Calculadora de cr&eacute;dito</a></li>
+                        <li><a href="/servlet/co.com.m2.calculadoras.HomeCalculadoras">Calculadora de seguros</a></li>
+                        <li><a href="/valorizacion/paso1">Calculadora de valorizaci&oacute;n</a></li>
+                        <li><a href="/web/herramientas/calculadora/leasing">Calculadora de Leasing</a></li>                        
+                        <li class="hd_navLast"><a href="/noticias/herramientas/precios-m2">Precios M2</a></li>
+                    </ul>
+                </li>
+                <li class="hd_navDir" id="NavTurismo">
+                    <a href="/noticias/tendencias/">Noticias y tendencias</a>
+                    <ul>
+                          <li class="hd_navFirst"><a href="/noticias/tendencias/actualidad">Actualidad</a></li>
+                        <li><a href="/noticias/tendencias/casas-de-famosos">Casas de famosos</a></li>
+                        <li><a href="/noticias/noticias-y-tendencias/oikos-construyendo-futuro">Oikos Construyendo Futuro</a></li>
+                        <li><a href="/noticias/tendencias/decora-tu-vida">Decora tu vida</a></li>
+                        <!--  
+                        <li><a href="/noticias/tendencias/hazlo-tu-mismo">Hazlo t&uacute; mismo</a></li>
+                        -->
+                        <li><a href="/noticias/tendencias/ideas-para-viajar">Ideas para viajar</a></li>
+                        <li><a href="/noticias/tendencias/multimedia">Multimedia</a></li>
+                        <li class="hd_navLast"><a href="/noticias/tendencias/revistas">Revistas</a></li>
+                    </ul>
+                </li>             
+                <li class="hd_navDir" id="NavGuias">
+                    <a href="/multiusuario/hometurismo.do">Turismo</a>
+                    <ul>
+                        <li class="hd_navFirst"><a href="/servlet/co.com.m2.servlet.demanda.BuscarInmueblesSolr?seArrienda=S&clearParameters=S&idTipoInmueble=1&idcategoriainmueble=2#!seArrienda=S&clearParameters=S&idTipoInmueble=1&idcategoriainmueble=2">Apartamentos</a></li>
+                            <li class="hd_navFirst"><a href="/servlet/co.com.m2.servlet.demanda.BuscarInmueblesSolr?seArrienda=S&clearParameters=S&idTipoInmueble=7&idcategoriainmueble=2#!seArrienda=S&clearParameters=S&idTipoInmueble=7&idcategoriainmueble=2">Fincas y casa campestres</a></li>
+                            <li class="hd_navLast"><a href="/servlet/co.com.m2.servlet.demanda.BuscarInmueblesSolr?seArrienda=S&clearParameters=S&idTipoInmueble=12&idcategoriainmueble=2#!seArrienda=S&clearParameters=S&idTipoInmueble=12&idcategoriainmueble=2">Hoteles</a></li>
+          
+                       </ul>
+                </li>
+                    
+            </ul>
+        </nav>
+        <!-- Fin menu navegación -->
+    </header>
+</div>
+		</div>
+		
+		<meta content="true" itemprop="mainContentOfPage" content="true"/>
+	
+		
+		<script>
+				s.pageName = "metrocuadrado: buscar: detalle inmueble";
+				s.channel  = "metrocuadrado: buscar";
+				s.eVar17   = "2415-21712";
+				s.events   = "event15";									
+		</script>	
+		<div id="limiteHeader" style="width:100%;height:10px" ></div>
+		<input id="idInmuebleH1" type="hidden" value="2415-21712" />
+
+	<div style="position: absolute;right: -9px;width: 160x;/* border: 3px solid #73AD21; */     padding: 10px;top: 476px;height: 600;">
+  
+  
+				<script type="text/javascript" language="JavaScript">
+					sas_formatid = 9643; // Formato : Expandible Derecha Banderole  0x0
+					if (typeof SmartAdServer == "function") {
+						SmartAdServerAjax(sas_pageid, sas_formatid, sas_target);
+					}
+				</script>
+				
+				
+  
+  	</div>		
+
+		
+			<div class="doscontainer">
+				<div itemscope itemtype="http://schema.org/Product" class="container2" >
+					
+
+
+
+<!----------------------------------------------------------------------------------->
+<!--Alojamiento galeria del inmueble/Alojamiento TOTAFOTOS; MAPAUBICACION; VERVIDEO-->
+<!----------------------------------------------------------------------------------->
+<div class="alpha grid_6 omega">
+  <ul id="det_galeriaDetalle">
+  	
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_1_l.jpg" title="Apartamento en Bogotá D.C. - 1" alt="Apartamento en Bogotá D.C. $340.000.000 - 1"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_2_l.jpg" title="Apartamento en Bogotá D.C. null - 2" alt="Apartamento en Bogotá D.C. null $340.000.000 - 2"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_3_l.jpg" title="Apartamento en Bogotá D.C. null con 2 habitaciones - 3" alt="Apartamento en Bogotá D.C. null con 2 habitaciones $340.000.000 - 3"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_4_l.jpg" title="Apartamento en Bogotá D.C. null con 2 habitaciones, 2 banos - 4" alt="Apartamento en Bogotá D.C. null con 2 habitaciones, 2 banos $340.000.000 - 4"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_5_l.jpg" title="Apartamento en Bogotá D.C. null con 2 habitaciones, 2 banos, 1 garajes - 5" alt="Apartamento en Bogotá D.C. null con 2 habitaciones, 2 banos, 1 garajes $340.000.000 - 5"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_6_l.jpg" title="Apartamento en null - 6" alt="Apartamento en null $340.000.000 - 6"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_7_l.jpg" title="Apartamento en null con 2 habitaciones - 7" alt="Apartamento en null con 2 habitaciones $340.000.000 - 7"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_8_l.jpg" title="Apartamento en null con 2 habitaciones, 2 banos - 8" alt="Apartamento en null con 2 habitaciones, 2 banos $340.000.000 - 8"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_9_l.jpg" title="Apartamento en null con 2 habitaciones, 2 banos, 1 garajes - 9" alt="Apartamento en null con 2 habitaciones, 2 banos, 1 garajes $340.000.000 - 9"/></li>
+      
+    
+      <li><img itemprop="image" height="370px" width="660px" src="http://metrocuadrado.blob.core.windows.net/inmuebles/2415-21712/2415-21712_10_l.jpg" title="Apartamento en Bogotá D.C. - 10" alt="Apartamento en Bogotá D.C. $340.000.000 - 10"/></li>
+      
+    
+    
+    
+  </ul>
+</div>
+
+
+					<div style="clear:both;"></div>
+					
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+
+
+<div  class="row proyecto_name_venta">
+	<div>
+		<h1 itemprop="name">Apartamento en Venta San Patricio, Bogotá D.C.</h1>
+		<div class="code">Cód web: 2415-21712</div>
+		<div style="clear: both;"></div>
+		<ul>
+				
+					<li>			
+						<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+							
+								<h3>Valor venta:</h3>
+								<p>
+									<b itemprop="price">
+										$340.000.000
+									</b>
+								</p>
+							
+												
+						</div>
+					</li>						
+				
+			
+				
+					<li>
+						<h3>Área:</h3>
+						<p>							
+							73 mts<sup>2</sup>						
+						</p>
+					</li>
+				
+				
+				
+					
+						<li>
+							<h3>Habitaciones:</h3>
+							<p>
+								2													
+							</p>
+						</li>
+					
+					
+						<li>
+							<h3>Baños:</h3>
+							<p>										
+								2
+							</p>
+						</li>
+					
+				
+				
+				
+				
+				
+				
+				
+					<li>
+						<h3>Cuota Crédito Hipotecario desde:</h3>
+						<p>
+							$2.132.795
+							<a href="/servlet/co.com.m2.servlet.cch.MostrarHome" target="_blank">Calcular Crédito</a>
+						</p>
+					</li>					
+				
+					
+		</ul>
+	</div>
+</div>
+
+
+					<div class="infoinmueble">
+						<div id="info_nombre">
+							
+
+
+
+
+
+
+
+
+ 
+
+		<h2>Descripción</h2>
+		<hr>
+		<p itemprop="description">Ofrecemos para venta hermoso apartamento en chico navarra de 73 m2, ubicado en primer piso de edificio esquinero. 
+Cuenta con 2 alcobas, 2 baños, sala comedor con chimenea, cocina con gas,  parqueadero cubierto. Ubicación estratégica a media cuadra de la av  y a media cuadra de la calle . Para mayor información diana artunduaga www.lacasamasbarata.com. Cod.</p>
+	    <h2>Información general del inmueble</h2>
+        <hr>
+      	<ul>
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Tipo Inmueble</b></h3></li>
+		        	<li>
+			        	<h4>Apartamento</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Tipo Negocio</b></h3></li>
+		        	<li>
+			        	<h4>Venta</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Valor Venta</b></h3></li>
+		        	<li>
+			        	<h4>$340.000.000</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Valor Administración</b></h3></li>
+		        	<li>
+			        	<h4>$360.000</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Estrato</b></h3></li>
+		        	<li>
+			        	<h4>6</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Área</b></h3></li>
+		        	<li>
+			        	<h4>73 mts<sup>2</sup></h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Área Construida</b></h3></li>
+		        	<li>
+			        	<h4>73 mts<sup>2</sup></h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Habitaciones</b></h3></li>
+		        	<li>
+			        	<h4>2</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Baños</b></h3></li>
+		        	<li>
+			        	<h4>2</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      		
+      			
+	      			<div class="clearboth_d"></div>        
+		        	<li><h3><b>Garajes</b></h3></li>
+		        	<li>
+			        	<h4>1</h4>&nbsp;
+			        	
+		        	</li>      				
+      			      			
+      			        
+      	</ul>  
+
+
+							
+
+
+
+
+
+
+
+	<h2>Generalidades</h2>
+	<hr>
+	<div class="clearboth_d"></div>
+	<ul>
+		
+			
+				<li><h3><b>Tiempo de construido:</b></h3></li>
+				<li><h4>Más de 20 años</h4></li>
+						
+		
+			
+				<li><h3><b>Número de piso:</b></h3></li>
+				<li><h4>1</h4></li>
+						
+		
+			
+				<li><h3><b>Tipo comedor:</b></h3></li>
+				<li><h4>Sala-comedor</h4></li>
+						
+		
+			
+				<li><h3><b>Tipo instalación de gas:</b></h3></li>
+				<li><h4>Ninguna</h4></li>
+						
+		
+			
+				<li><h3><b>Vigilancia:</b></h3></li>
+				<li><h4>24hrs</h4></li>
+						
+		    
+	</ul> 
+
+
+
+
+						</div>
+					</div>				
+				</div>
+				<div class="container3">
+					
+
+
+
+
+
+
+<input type="hidden" id="henviarMailContacto" value="false"/>
+<input type="hidden" id="henviarMailContactoVerTelefonoFuente" value="false"/>
+<input type="hidden" id="hejecutarOnClickVerTelefono" value="false"/>
+<input type="hidden" id="henviarEstadisticaVerTelefonoFuente" value="false"/>
+
+
+<div class="contactoinmu fixed" id="contactarAnunciante">
+	<div class="panel1">
+		<div role="tabpanel">
+			<ul class="nav nav-tabs" role="tablist">
+				<li role="presentation" class="w_contacto active"><a
+					href="#home" id="formContacto" aria-controls="home" role="tab"><br>Contacte
+						al anunciante</a></li>
+				<li role="presentation" class="w_contacto2 phone">
+				<a 	href="#profile" id="formTelefono" aria-controls="profile" role="tab">
+					<span class="glyphicon glyphicon-earphone"></span><br>Ver teléfono</a>
+				</li>
+			</ul>
+		</div>
+		<!-- Tab panes -->
+		<div style="clear: both;"></div>
+		<div style="display: block;" class="tab-content contactenosinmu">
+			<div role="tabpanel" class="tab-pane fade" id="home">
+				<form action="" class="formContacto">
+					<div class="clearboth_d2"></div>
+					<div class="clearboth_d2"></div>
+					
+					<div id="alerta_contacto_1_5" class="alerta_contacto" style="display:none">Su mensaje est&aacute; siendo enviado!</div>
+					<div id="alerta_contacto_2_5" class="alerta_contacto" style="display:none">Su mensaje se envi&oacute; con &eacute;xito!</div>
+					<div id="alerta_contacto_3_5" class="alerta_contactonegativo" style="display:none">Su mensaje no pudo ser enviado!</div>
+	
+					<input id="txt_asunto_anunciante_5" type="hidden" value="7" />
+					<input id="txt_asunto_5" type="hidden" value="1" />
+	
+					<input id="txt_ciudad_5" type="hidden" value="Bogotá D.C." /> 
+					 
+
+					<label>Nombre:</label>
+					<div>
+						<label class="placeHolder" for="txt_nombre_5"></label>
+						<input id="txt_nombre_5" name="txt_nombre_5" class="testBox" type="text">
+					</div>
+					<label>Teléfono:</label>
+					<div>
+						<label class="placeHolder" for="txt_telefono_5"></label>
+						<input id="txt_telefono_5" name="txt_telefono_5" class="testBox" type="phone">
+					</div>
+					<label>E-mail:</label>
+					<div>
+						<label class="placeHolder" for="txt_email_5"></label>
+						<input	id="txt_email_5" name="txt_email_5" class="testBox" type="email">
+					</div>
+					<label>Comentarios:</label>
+					<div>
+						<label class="placeHolder  textarea  active"
+							for="txt_comentarios_5"></label>
+						<textarea id="txt_comentarios_5" name="txt_comentarios_5">Estoy interesado en Apartamento en Venta San Patricio, Bogotá D.C.</textarea>
+					</div>
+
+
+					<div>
+						<label class="placeHolder  active" for="envioHipotecaria"></label>
+						<input id="envioHipotecaria" name="envioHipotecaria" value="N" placeholder="" type="hidden">
+					</div>
+					<div class="nomar">
+						<div>
+							<label class="placeHolder  active" for="checkContacto"></label>
+							<input id="chk_aviso_5" placeholder="" checked="checked" type="checkbox">
+						</div>
+						<div class="poli_det">
+							Acepto <a href="javascript:;"
+								onclick="MM_openBrWindow('http://www.metrocuadrado.com/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=includesPlantillas/terminos_condiciones.html','','scrollbars=yes,width=380,height=450')">Políticas
+								y Términos - Aviso de Privacidad</a> y enviar mis datos al
+							anunciante
+						</div>
+					</div>
+					<div>
+						<label class="placeHolder  active" for="enviarContacto"></label>
+						<input id="btn_contactar_5" class="btn btn-default w_boton"
+							placeholder="" role="button" value="Contactar al anunciante"
+							type="button" onclick="enviarEventoOmnitureVerTelefono('2415-21712','Bogotá D.C.','Contactar al anunciante','Tradicional');enviarEstadisticaContactarPorEmail('2415-21712','detalle');enviarMailContacto('/web/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%C3%B1os-1-garajes-estrato-6-area-73-mts-%24340.000.000-id-2415-21712',5,'tradicional')">
+					</div>
+				</form>
+			</div>
+			<div role="tabpanel" class="tab-pane fade active in" id="profile">
+				<div class="llamar_detalle">
+					<ul>
+						
+							<p style="text-align: left;">Teléfonos:</p>
+							<li><span>• </span><b>4612040-3133543627</b></li>
+						
+						
+						
+						
+						<p>
+							<span>Anunciante:</span><br> 
+							La Casa Mas Barata-La Casa Mas Barata - Principal<br>
+							
+								Calle 155 con 9<br>
+														
+						</p>
+						
+						
+						
+						
+					</ul>
+					
+					<div class="clearboth_d2 "></div>
+					<div id="callmeback">
+						<form action="" class="formDatos">
+							<p>Si lo prefiere pueden ponerse en contacto con usted al teléfono que nos indique</p>
+							<div style="display: none" class="alerta_contacto" id="alerta_contacto_1_9">Su mensaje está siendo enviado!</div>
+							<div style="display: none" class="alerta_contacto" id="alerta_contacto_2_9">Su mensaje se envió con éxito!</div>
+							<div style="display: none" class="alerta_contactonegativo" id="alerta_contacto_3_9">Su mensaje no pudo ser enviado!</div>
+							<div class="clearboth_d2"></div>
+							<input id="txt_ciudad_9" type="hidden" value="Bogotá D.C." /> 
+							<input id="txt_asunto_anunciante_9" type="hidden" value="9" />
+							<input id="txt_asunto_9" type="hidden" value="9" />
+							<input id="txt_email_9" type="hidden" value="webmaster@metrocuadrado.com"/>
+							<input id="txt_comentarios_9" type="hidden" value="-"/>
+							<label>Nombre</label>
+							<div>
+								<label class="placeHolder" for="txt_nombre_9"></label>
+								<input id="txt_nombre_9" name="txt_nombre_9" class="testBox" type="text">
+							</div>
+							<label>Teléfono</label>
+							<div>
+								<label class="placeHolder" for="txt_telefono_9"></label>
+								<input id="txt_telefono_9" name="txt_telefono_9" class="testBox" type="text">
+							</div>
+							<div class="nomar">
+								<label class="placeHolder  active" for="chk_aviso_9"></label>
+								<input id="chk_aviso_9" placeholder="" checked="checked" type="checkbox">
+								<div>
+									Acepto <a href="javascript:;"
+										onclick="MM_openBrWindow('http://www.metrocuadrado.com/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=includesPlantillas/terminos_condiciones.html','','scrollbars=yes,width=380,height=450')">Políticas
+										y Términos</a> - <a href="javascript:;"
+										onclick="MM_openBrWindow('http://www.metrocuadrado.com/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=includesPlantillas/terminos_condiciones.html','','scrollbars=yes,width=380,height=450')">Aviso
+										de Privacidad</a> y enviar mis datos al anunciante
+								</div>
+							</div>
+							<div class="clearboth_d2"></div>
+							<div>
+								<label class="placeHolder  active" for="enviarDatos"></label><input
+									id="btn_contactar_9" class="btn btn-default w_boton" role="button"
+									value="Enviar mis datos"
+									onclick="enviarEventoOmnitureVerTelefono('2415-21712','Bogotá D.C.','Ver teléfono','Tradicional');enviarEstadisticaContactarPorTelefono('2415-21712');enviarMailContacto('/web/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%C3%B1os-1-garajes-estrato-6-area-73-mts-%24340.000.000-id-2415-21712',9,'tradicional')"
+									placeholder="" type="button">
+							</div>
+							<div class="clearboth_d"></div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+		
+		
+		
+		
+		
+		
+		
+		<div style="display: block;" class="panel2">
+			<div class="logo_inmobiliaria">
+				<span class="enlacespan" id="logoConstructoraContacto"">
+					<a href="javascript:verMicrositePlus('villateleal');enviarEventoOmnitureClickLogoInmobiliaria('La Casa Mas Barata');enviarEventoClickLogoInmobiliaria('/web/detalle/estadistica/logoinmobiliaria/393989');"  itemprop="url">
+						<img
+						style="display: inline;"
+						src="http://www.metrocuadrado.com/multiusuario/logoempresa.do?id=144454"
+						class="lazyLoadGeneral"
+						alt="Logo Constructora" title="Logo de la Constructora" height="60"
+						width="120"/>
+					</a>
+				</span> 
+				<a
+					href="/web/buscar/atributos?idEmpresa=&idVisitor=393989" target="_blank"> Ver más inmuebles de la inmobiliaria</a>
+			</div>
+		</div>
+				
+	
+	
+	<div style="display: block;" class="panel3">
+		<div class="logo_compartir">
+			<h4>Comparte este inmueble</h4>
+			<ul>
+				<li>
+					<span id="compartirFacebook" data-url="http://www.facebook.com/share.php?u=http://www.metrocuadrado.com/venta/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%c3%b1os-1-garajes-estrato-6-area-73-mts-$340.000.000-id-2415-21712&t=metrocuadro" class="enlacespan"> 
+						<img class="" src="/web/img/detalleconstructores/face.jpg" alt="facebook" title="icono facebook" height="27" width="28">
+					</span>
+				</li>
+				<li>
+					<span id="compartirTwitter" data-url="http://twitter.com/share?url=http://www.metrocuadrado.com/venta/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%c3%b1os-1-garajes-estrato-6-area-73-mts-$340.000.000-id-2415-21712&text=metrocuadro&via=Metrocuadrado" class="enlacespan"> 
+						<img class="" src="/web/img/detalleconstructores/twitter.jpg" alt="twitter" title="icono twitter" height="27" width="29">
+					</span>
+				</li>
+				<li><a
+					href="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.agentePersonal.MostrarEnviarInmueble?idInmueble=2415-21712&keepThis=true&TB_iframe=true&height=410&width=346"
+					class="thickbox"> <img class=""
+						src="/web/img/detalleconstructores/email.jpg"
+						alt="email" title="icono email" height="28" width="29">
+				</a></li> |
+				<li><a
+					href="/web/imprimir/detalle/2415-21712"
+					target="_blank" onclick="imprimirOmniture();"> <img class=""
+						src="/web/img/detalleconstructores/print.jpg"
+						alt="imprimir" title="icono imprimir" height="28" width="29">
+				</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="clearboth_d2"></div>
+<div style="display: none" id="respuestaContacto"></div>
+<div style="display: none" id="respuestaDatos"></div>
+<input id="textoterminos"
+	value="Seleccione la casilla de verificación de Políticas y términos Aviso de privacidad para contactar al la constructora"
+	type="hidden">
+				</div>
+				<div class="container4">
+					
+
+
+
+<style>
+.gm-style > div:nth-child(10){
+ 			display:none;
+}
+</style>
+
+<input type="hidden" id="latitud" value="4.69462924">
+<input type="hidden" id="longitud" value="-74.05145885">
+				
+<div id="mapa_det" class=" span9">
+	<ul id="mapatab" class="nav nav-tabs">
+
+		<li id="li-mapa" class="active">
+			<h2>
+				<a href="#mapa" data-toggle="tab" id="btn_map" class="tabMapaConstructora" data-name="Mapa de Ubicacion">Mapa de ubicación</a>
+			</h2>
+		</li>
+		<li id="li-streetView">
+			<h2>
+				<a href="#street" onclick="enviarEventoOmnitureAbrirStreetView();" data-toggle="tab" id="btn_street" class="tabMapaConstructora" data-name="Street View">Street View</a>
+			</h2>
+		</li>
+	</ul>
+	<div class="tab-content">
+		<div class="tab-pane active" id="mapa">
+			<div id="mapaMetrocuadrado"	style="width: 650px; height: 518px; position: relative; background-color: rgb(229, 227, 223); overflow: hidden;" ondragstart="enviarEventoOmnitureVerMapa();$('#linkMapaEstatico').click();">
+				<a id="linkMapaEstatico" target="_blank" title="Mapa de ubicaci&oacute;n" class="thickbox" onclick="javascript:$('#li-mapa').addClass('active');contarEventoVerMapa();" href="/web/verMapa/2415-21712?keepThis=true&TB_iframe=true&height=535&width=745">
+					<img onerror="$('#mapa_det').remove();"  src="http://m2-imgs.s3-website-us-east-1.amazonaws.com/inmuebles/mapaubicacion/2016/0123/mapa_2415-21712.jpg" height="510" width="650">
+				</a>
+			</div>
+		</div>
+		<div class="tab-pane" id="street">
+			<div id="streetView" style="width:650px; height:510px" onclick="$('#li-streetView').addClass('active');"></div>
+		</div>
+
+	</div>
+	
+</div>
+<div class="clearboth_d"></div>
+
+				</div>
+				<div>
+					<script type="text/javascript" language="JavaScript">
+						sas_formatid = 9620;
+						if (typeof SmartAdServerAjax == "function") {
+							SmartAdServerAjax(sas_pageid, sas_formatid, sas_target);
+						}
+					</script>
+	
+
+					
+				</div>
+				<div id="container6">
+					
+
+
+
+
+
+
+
+<div class="container6a span7  ">
+	<h2>Recomendaciones para comprar un inmueble</h2>
+
+	<div class="nota1">
+		<a href="http://www.metrocuadrado.com/noticias/guia-de-compra/el-verdadero-costo-de-tu-nuevo-hogar-691" rel="nofollow" target="_blank"> 
+			<img src="/web/img/notas/1736848_xl.jpg" alt="El verdadero costo de tu nuevo hogar" title="El verdadero costo de tu nuevo hogar" height="125" width="279">
+		</a>
+		<h3>
+			<a href="http://www.metrocuadrado.com/noticias/guia-de-compra/el-verdadero-costo-de-tu-nuevo-hogar-691" target="_blank">El verdadero costo de tu nuevo hogar</a>
+		</h3>
+		<p>
+			<a href="http://www.metrocuadrado.com/noticias/guia-de-compra/el-verdadero-costo-de-tu-nuevo-hogar-691" rel="nofollow" target="_blank">Además del dinero para la cuota inicial y del crédito hipotecario, necesitarás un ahorro extra para autenticaciones y certificados, entre otros.</a>
+		</p>
+	</div>
+
+
+	<div class="nota2">
+		<a href="http://www.metrocuadrado.com/noticias/guia-de-compra/el-abece-de-la-promesa-de-compraventa-314" rel="nofollow" target="_blank"> 
+			<img src="/web/img/notas/3945874_xl.jpg" alt="El abecé de la promesa de compraventa" title="El abecé de la promesa de compraventa" height="125" width="279">
+		</a>
+		<h3>
+			<a href="http://www.metrocuadrado.com/noticias/guia-de-compra/el-abece-de-la-promesa-de-compraventa-314" target="_blank">El abecé de la promesa de compraventa</a>
+		</h3>
+		<p>
+			<a href="http://www.metrocuadrado.com/noticias/guia-de-compra/el-abece-de-la-promesa-de-compraventa-314" rel="nofollow" target="_blank">Con este documento se le garantiza al comprador la adquisición del inmueble y se fijan reglas para que el vendedor no lo ofrezca a un tercero.</a>
+		</p>
+	</div>
+
+	<div class="clearboth_d"></div>
+</div>
+<div class="container6b col-lg-4 col-md-4 ">
+	<h2>Calcule su crédito</h2>
+	<a href="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.cch.MostrarHome" target="_blank"> 
+		<img src="/web/img/detalleconstructores/calcula.jpg" class="lazyLoadGeneral" data-original="/web/img/detalleconstructores/calcula.jpg" alt="Calcular crédito" title="Calculadora de crédito" height="300" width="240">
+	</a>
+	<div class="clearboth_d"></div>
+</div>
+<div class="clearboth_d"></div>
+							
+		
+				</div>
+				
+
+
+
+
+<!---------------------------------->			
+<!--ALOJAMIENTO PAUTA/HERRAMIENTAS-->
+<!---------------------------------->
+<!-- Credito Ya -->
+<div class="alpha grid_6 omega">
+    <div class="moduloCreditoya">
+      <div>
+	<script type='text/javascript' language='JavaScript'>  
+	  if( typeof SmartAdServerAjax == 'function')
+	  {
+	    SmartAdServerAjax( sas_pageid, sas_formatid, sas_target);
+	  } 
+	</script>
+	
+	<script type="text/javascript">
+		sas_pageid='25081/402369';   // Página : Metrocuadrado/detalle_usados
+		sas_formatid=23831;          // Formato : Modulo_DetalleM2 460x100
+		sas_target='';               // Segmentación
+		SmartAdServer(sas_pageid,sas_formatid,sas_target);
+	</script>
+	
+	<noscript>
+		<a href="http://ads.eltiempo.com/call/pubjumpi/25081/402369/23831/S/[timestamp]/?" target="_blank">
+		<img src="http://ads.eltiempo.com/call/pubi/25081/402369/23831/S/[timestamp]/?" border="0" alt="" /></a>
+	</noscript>
+	
+      </div>
+    </div>
+  </div>
+
+				<div class="clearboth_d"></div>		
+				
+				<div class="clearboth_d"></div>
+				<div id="prefooter_de">
+					
+
+
+		<!-- Inicio Busquedas predefinidas -->
+		<section class="grid_12 hm_seoLinks">
+   	    <h2>Inmuebles en venta y arriendo en Colombia</h2>
+            <div class="hm_seLinksGroup">
+                <article class="alpha grid_3">
+                    <h3>Apartamentos en venta</h3>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Apartamentos Nuevos" href="http://www.metrocuadrado.com/apartamentos/nuevos/">Apartamentos Nuevos</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Apartamentos Nuevos en Venta" href="http://www.metrocuadrado.com/apartamentos/nuevos/venta/">Apartamentos Nuevos en Venta</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Apartamentos Nuevos en Bogot&aacute;" href="http://www.metrocuadrado.com/apartamentos/nuevos/venta/bogota/">Apartamentos Nuevos en Bogot&aacute;</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Apartamentos Nuevos en Venta en Bogot&aacute;" href="http://www.metrocuadrado.com/apartamentos/nuevos/venta/bogota/">Apartamentos Nuevos en Venta en Bogot&aacute;</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Apartamentos Nuevos en Colombia" href="http://www.metrocuadrado.com/apartamentos/nuevos/">Apartamentos Nuevos en Colombia</a></h4>
+                </article><!-- begin usabilla live embed code --> <script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/5176f98a5a43.js"); /*]]>{/literal}*/</script> <!-- end usabilla live embed code -->
+                <article class="grid_3">
+                    <h3>Casas en venta</h3>
+                   	    <h4>&raquo; <a itemprop="significantLinks" title="Casas Nuevas" href="http://www.metrocuadrado.com/casas/nuevas/">Casas Nuevas</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Casas Nuevas en Venta" href="http://www.metrocuadrado.com/casas/nuevas/venta/">Casas Nuevas en Venta</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Casas Nuevas en Bogot&aacute;" href="http://www.metrocuadrado.com/casas/nuevas/venta/bogota/">Casas Nuevas en Bogot&aacute;</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Casas Nuevas en Venta en Bogot&aacute;" href="http://www.metrocuadrado.com/casas/nuevas/venta/bogota/">Casas Nuevas en Venta en Bogot&aacute;</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Casas Nuevas en Colombia" href="http://www.metrocuadrado.com/casas/nuevas/">Casas Nuevas en Colombia</a></h4>
+                </article>
+                <article class="grid_3">
+                    <h3>Otros inmuebles en venta o arriendo</h3>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Oficinas Nuevas" href="http://www.metrocuadrado.com/oficinas/nuevas/">Oficinas Nuevas</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Oficinas Nuevas en Venta" href="http://www.metrocuadrado.com/oficinas/nuevas/venta/">Oficinas Nuevas en Venta</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Oficinas Nuevas en Bogot&aacute;" href="http://www.metrocuadrado.com/oficinas/nuevas/venta/bogota/">Oficinas Nuevas en Bogot&aacute;</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Oficinas Nuevas en Venta en Bogot&aacute;" href="http://www.metrocuadrado.com/oficinas/nuevas/venta/bogota/">Oficinas Nuevas en Venta en Bogot&aacute;</a></h4>
+                        <h4>&raquo; <a itemprop="significantLinks" title="Oficinas Nuevas en Colombia" href="http://www.metrocuadrado.com/oficinas/nuevas/">Oficinas Nuevas en Colombia</a></h4>
+                </article>
+                <div class="clearfix"></div>
+            </div>
+        </section>
+
+					<div class="clearboth_d"></div>					
+				</div>			
+			</div>
+		
+		
+		
+		
+		
+		
+		
+		<div title="volver arriba"> <a style="display: none;" href="#" class="scroll-top">Ir Arriba</a> </div>
+		<div>
+			
+
+
+
+<link href="http://www.metrocuadrado.com/css/stylesFooter.css" rel="stylesheet" type="text/css"
+	media="all" />
+<link href="http://www.metrocuadrado.com/css/grid960.css" rel="stylesheet" type="text/css"
+	media="all" />
+<!-- FOOTER UNIFICADO-->
+<footer class="container_12">
+	<div id="lineapata">
+		<div id="lineapatatxt">
+			<img src="http://www.metrocuadrado.com/images/img_trans.gif" alt="arrow" width="1" height="1"
+				class="flechapata" /><a rel="nofollow"
+				href="http://www.metrocuadrado.com/contactom2/form_pqr.html?keepThis=true&TB_iframe=true&height=600&width=354"
+				class="thickbox">Quejas y reclamos</a><img
+				src="http://www.metrocuadrado.com/images/img_trans.gif" alt="arrow" width="1" height="1"
+				class="flechapata" /><a rel="nofollow"
+				href="http://www.metrocuadrado.com/contactom2/contactenos.html?keepThis=true&TB_iframe=true&height=560&width=354"
+				class="thickbox">Cont&aacute;ctenos</a><img
+				src="http://www.metrocuadrado.com/images/img_trans.gif" alt="arrow" width="1" height="1"
+				class="flechapata" /><a rel="nofollow"
+				href="http://www.metrocuadrado.com/ayudas/ayuda.html?keepThis=true&TB_iframe=true&height=361&width=490"
+				class="thickbox">Ayuda</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	<div class="footerseo_contenedor">
+		<div class="footerseo_colizq">
+			<div class="footerseo_logom2">
+				<a href="/"><img src="http://www.metrocuadrado.com/imgComun/resultados/logom2_footer.gif"
+					alt="Metrocuadrado" width="123" height="45" border="0" /></a>
+			</div>
+			<h4>Oficinas Metrocuadrado</h4>
+			<p>
+				Avenida Calle 26 No. 68B &#8211; 70.<br /> Casa Editorial El
+				Tiempo, Bogot&aacute;, Colombia.<br /> <span
+					class="footerseo_grissuave"><strong>
+						Tel&eacute;fono	servicio al cliente en Bogot&aacute;</strong>
+						<br /> (571) 425 17 34
+						<br /> <b>Fuera de Bogot&aacute;:</b> 01 8000 115 252
+						<br /> FAX: (571) 294 0159 Opci&oacute;n: 7 Ext. 5919
+						<br /> <b>Tel.</b> Cali: (57) 313 478 77 31
+						<br /> <b>Tel.</b> Medell&iacute;n: (574) 250 7988 <br /> <b>L&iacute;nea nacional:</b> 01 8000 115 252
+						<br /> <b>Horario Servicio al cliente</b>
+						<br /> Lunes a Viernes 7:00 am a 6:00 pm <br />S&aacute;bados 8:00 am a 12:00 pm						
+			</p>
+		</div>
+		<div class="footerseo_colder">
+			<div class="footerseo_secciones">
+				<h2>Metrocuadrado</h2>
+				<ul>
+					<li><span>&raquo;</span> <a
+						href="http://www.metrocuadrado.com/servlet/co.com.pragma.m2.servlet.demanda.MostrarHome">Buscar
+							inmuebles</a></li>
+					<li><span>&raquo;</span> <a rel="nofollow"
+						href="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=ofertaNueva/online.pjr.html">Publicar
+							inmuebles</a></li>
+					<li><span>&raquo;</span> <a rel="nofollow"
+						href="http://www.metrocuadrado.com/decoracion/content/home-decoracion">Decoraci&oacute;n</a><br /></li>
+					<li><span>&raquo;</span> <a rel="nofollow"
+						href="http://www.metrocuadrado.com/multiusuario/hometurismo.do">Tur&iacute;smo</a></li>
+					<li><span>&raquo;</span> <a rel="nofollow"
+						href="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=herramientas_practicas/herramientas.pjr.html">Calculadoras</a></li>
+					<li><span>&raquo;</span> <a rel="nofollow"
+						href="http://www.metrocuadrado.com/decoracion/content/gu%C3%AD-y-noticias">Gu&iacute;as
+							y noticias</a></li>
+<!-- 					<li><span>&raquo;</span> <a rel="nofollow" -->
+<!-- 						href="http://www.metrocuadrado.com/servlet/co.com.m2.servlet.Base?PJR_TEMPLATE_NAME=includesPlantillas/mapa_sitio.html">Mapa -->
+<!-- 							del sitio</a></li> -->
+				</ul>
+			</div>
+			<div class="footerseo_social">
+				<h2>S&iacute;guenos en:</h2>
+				<a href="http://www.facebook.com/metrocuadradocom" target="_blank"
+					rel="nofollow" title="Facebook"><img class="icoFacebook"
+					src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Facebook" width="1" height="1" /></a>
+					
+				<a href="https://twitter.com/@metrocuadrado" target="_blank"
+					rel="nofollow" title="Twitter"><img class="icoTwitter"
+					src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Twitter" width="1" height="1" /></a>
+					
+				<a href="https://plus.google.com/u/0/112174026277288480186" rel="nofollow"
+					target="_blank" rel="publisher" title="Google+"><img
+					class="icoGooglePlus" src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Google+"
+					width="1" height="1" /></a> 
+					
+				<a href="http://www.youtube.com/user/METROCUADRADOcom" target="_blank"
+					rel="nofollow" title="YouTube"><img class="icoYouTube"
+					src="http://www.metrocuadrado.com/images/img_trans.gif" alt="YouTube" width="1" height="1" /></a>
+					
+				<a href="http://pinterest.com/mtcuadra/" target="_blank"
+					rel="nofollow" title="Pinterest"><img class="icoPinterest"
+					src="http://www.metrocuadrado.com/images/img_trans.gif" alt="Pinterest" width="1" height="1" /></a>
+			</div>
+			<div class="hm_robotsLinks clearfix">
+				<h3>Casas y Apartamentos en Venta o Arriendo en Colombia</h3>
+				<div class="hm_robotsLinksGroup clearfix">
+					<div class="alpha grid_3 hm_article">
+						<ul>
+							<li id="xseoLinks" style="display: block;">&raquo; <a rel="nofollow"
+								href="javascript:;">Busquedas Populares [+]</a></li>
+							<li id="xseoLinks2" style="display: none;">&raquo; <a
+								href="javascript:;">Busquedas Populares [-]</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo"
+								title="Apartamento Arriendo">Apartamentos en Arriendo</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-bogota"
+								title="Apartamentos en Arriendo Bogota">Apartamentos en Arriendo Bogota</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-medellin"
+								title="Arriendo Apartamentos Medellin">Arriendo Apartamentos Medellin</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-cali"
+								title="Arriendo Apartamentos Cali">Arriendo Apartamentos Cali</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-barranquilla"
+								title="Arriendo Apartamentos Barranquilla">Arriendo Apartamentos Barranquilla</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-bucaramanga"
+								title="Arriendo Apartamentos Bucaramanga">Arriendo Apartamentos Bucaramanga</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-santa-marta"
+								title="Arriendo Apartamentos Santa Matha">Arriendo Apartamentos Santa Matha</a></li>
+						</ul>
+					</div>
+					<div class="grid_3 hm_article">
+						<ul>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta"
+								title="Apartamentos en Venta">Apartamentos en Venta</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-bogota"
+								title="Venta Apartamentos Bogota">Venta Apartamentos Bogota</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-medellin"
+								title="Venta Apartamentos Medellin">Venta Apartamentos Medellin</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-cali"
+								title="Venta Apartamentos Cali">Venta Apartamentos Cali</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-barranquilla"
+								title="Venta Apartamentos Barranquilla">Venta Apartamentos Barranquilla</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-bucaramanga"
+								title="Venta Apartamentos Bucaramanga">Venta Apartamentos Bucaramanga</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-santa-marta"
+								title="Venta Apartamentos Santa Martha">Venta Apartamentos Santa Martha</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-cartagena-de-indias"
+								title="Venta Apartamentoss Cartagena">Venta Apartamentoss Cartagena</a></li>
+						</ul>
+					</div>
+					<div class="grid_3 hm_article">
+						<ul>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta"
+								title="Casas en venta">Casas en venta</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-bogota"
+								title="Arriendo Casas Bogota">Venta Casas Bogota</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-medellin"
+								title="Venta Casas Medellin">Venta Casas Medellin</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-cali"
+								title="Venta Casas Cali">Venta Casas Cali</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-barranquilla"
+								title="Venta Casas Barranquilla">Venta Casas Barranquilla</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-bucaramanga"
+								title="Venta Casas Bucaramanga">Venta Casas Bucaramanga</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-santa-marta"
+								title="Venta Casas Santa Marta">Venta Casas Santa Marta</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-cartagena-de-indias"
+								title="Venta Casas Cartagena">Venta Casas Cartagena</a></li>	
+						</ul>
+					</div>
+					<div class="grid_3 hm_article omega">
+						<ul>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo"
+								title="Casas en Arriendo">Casas en Arriendo</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-bogota"
+								title="Venta Apartamento Medellin">Arriendo Casas Bogota</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-medellin"
+								title="Arriendo Apartamento Cali">Arriendo Casas Medellin</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-cali"
+								title="Arriendo Casas Cali">Arriendo Casas Cali</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-barranquilla"
+								title="Venta Apartamento Bucaramanga">Arriendo Casas Barranquilla</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-bucaramanga"
+								title="Arriendo Casas Bucaramanga">Arriendo Casas Bucaramanga</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-santa-marta"
+								title="Arriendo Casas Santa Marta">Arriendo Casas Santa Marta</a></li>
+							<li>&raquo; <a rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-cartagena-de-indias"
+								title="Arriendo Casas Cartagena">Arriendo Casas Cartagena</a></li>
+						</ul>
+					</div>
+					<div class="clear"></div>
+				</div>
+
+				<!--Ocultos -->
+
+				<div class="hm_robotsLinksGroup clearfix" id="busPopulares"
+					style="display: none;"">
+					<div class="alpha grid_3 hm_article">
+						<ul>
+
+							<li>&raquo; <a title="Alquiler Fincas"  rel="nofollow" 
+								href="http://www.metrocuadrado.com/fincas/arriendo">Alquiler Fincas</a></li>
+							<li>&raquo; <a title="Venta Fincas"  rel="nofollow" 
+								href="http://www.metrocuadrado.com/fincas/venta">Venta Fincas</a></li>
+							<li>&raquo; <a title="Fincas en Venta o Alquiler"  rel="nofollow" 
+								href="http://www.metrocuadrado.com/fincas/venta-arriendo">Fincas en Venta o Alquiler</a></li>
+							<li>&raquo; <a title="Casas en Venta o Arriendo"  rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-arriendo">Casas en Venta o Arriendo</a></li>
+							<li>&raquo; <a title="Oficinas en Arriendo Bogota"  rel="nofollow" 
+								href="http://www.metrocuadrado.com/oficinas/arriendo-bogota">Oficinas en Arriendo Bogota</a></li>
+							<li>&raquo; <a title="Oficinas en Venta Bogota"  rel="nofollow" 
+								href="http://www.metrocuadrado.com/oficinas/venta/bogota">Oficinas en Venta Bogota</a></li>
+							<li>&raquo; <a title="Oficinas en Venta o Arriendo"  rel="nofollow" 
+								href="http://www.metrocuadrado.com/oficinas/venta-arriendo">Oficinas en Venta o Arriendo</a></li>
+						</ul>
+					</div>
+					<div class="grid_3 hm_article">
+						<ul>
+							<li>&raquo; <a title="Apartamentos en Venta o Arriendo" rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-arriendo">Apartamentos en Venta o Arriendo</a></li>
+							<li>&raquo; <a title="Apartamentos en Venta Norte" rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-bogota-norte">Apartamentos en Venta Norte</a></li>
+							<li>&raquo; <a title="Apartamentos en Venta Chapinero" rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-bogota-chapinero">Apartamentos en Venta Chapinero</a></li>
+							<li>&raquo; <a title="Apartamentos en Venta Chico" rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/venta-bogota-norte-chico">Apartamentos en Venta Chico</a></li>
+							<li>&raquo; <a title="Apartamentos en arriendo Norte" rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-bogota-norte">Apartamentos en arriendo Norte</a></li>
+							<li>&raquo; <a title="arriendo apartamentos bogota" rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-bogota-chapinero">Apartamentos en arriendo Chapinero</a></li>
+							<li>&raquo; <a title="Apartamentos en arriendo Chico" rel="nofollow" 
+								href="http://www.metrocuadrado.com/apartamentos/arriendo-bogota-norte-chico">Apartamentos en arriendo Chico</a></li>	
+						</ul>
+					</div>
+					<div class="grid_3 hm_article">
+						<ul>
+							<li>&raquo; <a title="Bodegas en Arriendo Bogota" rel="nofollow" 
+								href="http://www.metrocuadrado.com/bodegas/arriendo-bogota">Bodegas en Arriendo Bogota</a></li>
+							<li>&raquo; <a title="Bodegas en Venta Bogota" rel="nofollow" 
+								href="http://www.metrocuadrado.com/bodegas/venta-bogota">Bodegas en Venta Bogota</a></li>
+							<li>&raquo; <a title="venta de casas en bogota" rel="nofollow" 
+								href="http://www.metrocuadrado.com/bodegas/venta-arriendo">Bodegas en Venta o Arriendo</a></li>
+							<li>&raquo; <a title="Locales en Arriendo Bogota" rel="nofollow" 
+								href="http://www.metrocuadrado.com/locales/arriendo-bogota">Locales en Arriendo Bogota</a></li>
+							<li>&raquo; <a title="Locales en Venta Bogota" rel="nofollow" 
+								href="http://www.metrocuadrado.com/locales/venta-bogota">Locales en Venta Bogota</a></li>
+							<li>&raquo; <a title="Bodegas en Venta o Arriendo" rel="nofollow" 
+								href="http://www.metrocuadrado.com/locales/venta-arriendo">Bodegas en Venta o Arriendo</a></li>
+						</ul>
+					</div>
+					<div class="grid_3 hm_article omega">
+						<ul>
+							<li>&raquo; <a title="Casas en Venta Norte" rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-bogota-norte">Casas en Venta Norte</a></li>
+							<li>&raquo; <a title="Casas en Venta Chapinero" rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-bogota-chapinero">Casas en Venta Chapinero</a></li>
+							<li>&raquo; <a title="Casas en Venta Chico" rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/venta-bogota-norte-chico">Casas en Venta Chico</a></li>
+							<li>&raquo; <a title="Casas en arriendo Norte" rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-bogota-norte">Casas en arriendo Norte</a></li>
+							<li>&raquo; <a title="Casas en arriendo Chapinero" rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-bogota-chapinero">Casas en arriendo Chapinero</a></li>
+							<li>&raquo; <a title="Casas en arriendo Chico" rel="nofollow" 
+								href="http://www.metrocuadrado.com/casas/arriendo-bogota-norte-chico">Casas en arriendo Chico</a></li>
+						</ul>
+					</div>
+					<div class="clear"></div>
+				</div>
+
+				<!-- Fin Ocultos -->
+
+
+			</div>
+		</div>
+		<div class="clear"></div>		
+		<div class="footerseo_copy">
+			<div class="footerseo_logoceet">
+				<img class="logoet" src="/images/img_trans.gif" alt="El Tiempo"
+					width="1" height="1" border="0" />
+				<h4>
+					<a href="javascript:;" rel="nofollow" 
+						onclick="$('#boxPortalesSoc').slideToggle();$(this).toggleClass('toggleTriangle');$('html, body').animate({scrollTop: '10100px'}, 500);return false;"
+						class="toggleTriangle">Nuestra red de portales</a>
+				</h4>
+			</div>
+			<div id="copyright"></div>
+			
+			<a href="http://www.sic.gov.co/" target="_blank" rel="nofollow"><img
+				src="http://www.metrocuadrado.com/images/img_trans.gif"
+				class="logosic" width="1" height="1" border="0" alt="SIC" /></a>
+		</div>
+		<div class="clear"></div>
+	</div>
+  </br>
+	<div id="boxPortalesSoc"
+		class="footerseo_portales alpha grid_12 omega clearfix">
+		<div class="alpha grid_4">
+			<ul>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://www.abcdelbebe.com/etapa/bebe" target="_blank">Beb&eacute;s
+						y Ni&ntilde;os</a> <span class="footerseo_urls">&raquo;
+						abcdelbebe.com</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://www.citytv.com.co/programa/metrocuadrado_tv"
+					target="_blank">Videos de Casas</a> <span class="footerseo_urls">&raquo;
+						citytv.com.co</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a
+					href="http://www.clasificar.com/servlet/co.com.motor.servlet.home.MostrarHome"
+					target="_blank">Motos y Carros Nuevos</a> <span
+					class="footerseo_urls"> &raquo; carroya.com</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a  rel="nofollow" 
+					href="http://diarioadn.co/actualidad"  target="_blank">Actualidad
+						en Colombia</a> <span class="footerseo_urls"> &raquo;
+						diarioadn.co</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://www.e-hunters.com/"target="_blank">Selecci&oacute;n
+						de Ejecutivos</a> <span class="footerseo_urls">&raquo;
+						e-hunters.com</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://www.elempleo.com/colombia/Homes/HomeNotLoggedIn.aspx"
+					target="_blank">Empleos Profesionales</a> <span
+					class="footerseo_urls"> &raquo; elempleo.com</span></li>
+			</ul>
+		</div>
+		<div class="grid_4">
+			<ul>
+				<li><span class="footerseo_bullet">&raquo;</span> <a
+					href="http://www.eltiempo.com/mundo/" target="_blank">Noticias
+						del Mundo</a> <span class="footerseo_urls">&raquo; eltiempo.com</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://media24digital.co/" target="_blank">Tarifas Pauta
+						Digital</a> <span class="footerseo_urls">&raquo;
+						media24digital.co</span></li>
+<!-- 				<li><span class="footerseo_bullet">&raquo;</span> <a -->
+<!-- 					href="http://www.quebuenacompra.com/" target="_blank">Descuentos -->
+<!-- 						en Spa</a> <span class="footerseo_urls">&raquo; -->
+<!-- 						quebuenacompra.com</span></li> -->
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://www.canaleltiempo.tv/" target="_blank">Canal de
+						Noticias ET</a> <span class="footerseo_urls">&raquo;
+						canaleltiempo.tv</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://www.enter.co/temas/hardware/" target="_blank">&Uacute;ltimo
+						en Hardware</a> <span class="footerseo_urls">&raquo;
+						enter.com.co</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow" 
+					href="http://www.futbolred.com/" target="_blank">F&uacute;tbol
+						Profesional</a> <span class="footerseo_urls">&raquo;
+						futbolred.com</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a 
+					href="http://www.guiaacademica.com/educacion/personas/pages/instituciones.aspx"
+					target="_blank">Carreras Profesionales en Colombia</a> <span
+					class="footerseo_urls">&raquo; guiaacademica.com</span></li>
+
+			</ul>
+		</div>
+		<div class="grid_4 omega">
+			<ul>
+				<li><span class="footerseo_bullet">&raquo;</span> <a
+					href="http://noticias.elempleo.com/colombia/tendencias_laborales"
+					target="_blank">Tendencias Laborales</a> <span
+					class="footerseo_urls">&raquo; elempleo.com</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow"
+					href="http://www.motor.com.co/"  target="_blank">Carros Nuevos</a> <span
+					class="footerseo_urls">&raquo; motor.com.co</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a  rel="nofollow"
+					href="http://www.portafolio.co/temas/infraestructura"
+					target="_blank">Construcci&oacute;n en Colombia</a> <span
+					class="footerseo_urls">&raquo; portafolio.co</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a  rel="nofollow"
+					href="http://www.revistadonjuan.com/"  target="_blank">Contenido
+						Premium</a> <span class="footerseo_urls">&raquo;
+						revistadonjuan.com</span></li>
+				<li><span class="footerseo_bullet">&raquo;</span> <a rel="nofollow"
+					href="http://www.alomujeres.com/" target="_blank">Tips de Moda
+						y Estilo</a> <span class="footerseo_urls">&raquo;
+						alomujeres.com</span></li>
+			</ul>
+		</div>
+	</div>
+	<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	</div>
+</footer>
+
+<div id="impOmniture"></div>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<script type="text/javascript" src="http://www.metrocuadrado.com/js/scriptFooterVarios.js"></script>
+
+<!-- Inicia Crazy Egg -->
+<script type="text/javascript">
+	setTimeout(function() {
+		var a = document.createElement("script");
+		var b = document.getElementsByTagName("script")[0];
+		a.src = document.location.protocol
+				+ "//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1361.js?"
+				+ Math.floor(new Date().getTime() / 3600000);
+		a.async = true;
+		a.type = "text/javascript";
+		b.parentNode.insertBefore(a, b)
+	}, 1);
+</script>
+<!-- Finaliza Crazy Egg -->
+<noscript>
+	<div style="display: inline;">
+		<img height="1" width="1" style="border-style: none;" alt=""
+			src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1014593900/?value=0&amp;guid=ON&amp;script=0" />
+	</div>
+</noscript>
+
+<!-- FOOTER UNIFICADO-->
+
+
+		</div>
+		
+
+	
+	<!-- begin usabilla live embed code --> <script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/5176f98a5a43.js"); /*]]>{/literal}*/</script> <!-- end usabilla live embed code -->
+
+	<link href="/web/css/detalle/usados_emergency.css" rel="stylesheet"/>
+	<input id="requestUrl" type="hidden" value="/web/apartamento-en-bogota-san-patricio-con-2-habitaciones-2-ba%C3%B1os-1-garajes-estrato-6-area-73-mts-%24340.000.000-id-2415-21712"/>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"6356634","applicationTime":397,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"65a5f3086e","transactionName":"MwcHNhMEVhVSUUYPCwpNNhITDFYBcF1cEhYLDgkHE0pDD11fRwMGCAcxCxEKRUtWXB8dDQoPEAcDCV0lWkdWBwAZTwYND0hDD11fRwMGCAchBxIGSg9DUVsJChlPDAZMHlEIXkdXBAgBKwEfQU1\/I2cb","agent":"","errorBeacon":"bam.nr-data.net"}</script></body>			
+</html>

@@ -1,0 +1,2047 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta charset="UTF-8" />
+<!-- Always force latest IE rendering engine or request Chrome Frame -->
+
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+
+<!-- Usando bootstrap-3.3.5 -->
+<title>
+	
+		Proyecto CENIT DE LA CABRERA, Apartamentos nuevos en La cabrera, Bogotá D.C. - Id 001</title>
+<link rel="shortcut icon" href="/estatico/favicon.ico" />
+<meta name="_csrf" content="ceacc85d-4715-4006-84e8-432526605b9f" />
+<meta name="_csrf_header" content="X-CSRF-TOKEN" />
+<!-- Bootstrap -->
+<meta name="viewport"
+	content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+
+<link href="/estatico/metrocuadrado-detail/css/stylesheets.css" rel="stylesheet"
+	type="text/css" />
+<link href="/estatico/metrocuadrado-detail/css/detalles.css" rel="stylesheet"
+	type="text/css" />
+<link href="/estatico/metrocuadrado-detail/css/flexslider.css" rel="stylesheet"
+	type="text/css" />
+<!-- estilos despublicados	     -->
+<link href="/estatico/metrocuadrado-detail/css/bootstrap-buttons.min.css"
+	rel="stylesheet" type="text/css" />
+<link href="/estatico/metrocuadrado-detail/css/bootstrap-select.min.css"
+	rel="stylesheet" type="text/css" />
+<link href="/estatico/metrocuadrado-detail/css/despublicado_styles.css"
+	rel="stylesheet" type="text/css" />
+<link href="/estatico/metrocuadrado-detail/css/jquery.qtip.min.css" rel="stylesheet"
+	type="text/css" />
+<!-- fin estilos despublicados  -->
+
+<link
+	href='//fonts.googleapis.com/css?family=Oswald:400,700,300|Raleway:400,500,600,700,300,100'
+	rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/estatico/metrocuadrado-detail/css/mapas.css" />
+
+
+<!--[if lt IE 9]>
+    <script src="/estatico/metrocuadrado-detail/js/html5shiv.js" type="text/javascript"></script>
+    <![endif]-->
+
+<!--[if lte IE 9]>
+    <link href="/estatico/metrocuadrado-detail/css/stylesheets.ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+<script src="/estatico/metrocuadrado-detail/js/jsFilesDetailHeader1.min.js?id=1"
+	type="text/javascript"></script>
+
+<link
+	href="/estatico/metrocuadrado-results/css/locations-autocomplete.css"
+	rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+	
+		var locationAutocompleteContentUrl = '/estatico/locations.js';
+		var metrocuadradoResultsUrlContext = '/';
+	
+	</script>
+
+
+<!-- fin scripts despublicados	     -->
+
+<script type="text/javascript">
+		var s_account='eltiempometrocuadradoprod';
+	</script>
+<script type="text/javascript"
+	src="/estatico/metrocuadrado-detail/js/jsFilesDetailHeader2.min.js?id=1"></script>
+<script src="/estatico/metrocuadrado-detail/js/jquery.sticky-kit.min.js"
+	type="text/javascript"></script>
+
+
+
+<!--defaultCompanyPhoto  -->
+	<!--areaFrom to areaTo -->
+	<!--minimunRooms to maximunRooms -->
+	<!-- descripcion para las redes sociales -->
+	
+	<!--FIN descripcion para las redes sociales -->
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script><script src="/estatico/metrocuadrado-detail/js/jsFilesDetailProject.min.js?id=001"></script>
+
+<style type="text/css">
+#verCarrusel{
+		z-indez:1;
+	}
+	#visualizarVideo{
+	
+		z-indez:9999;
+	}
+	
+</style>
+<meta name="description" content="¡Apartamentos nuevos en Venta! en el proyecto CENIT DE LA CABRERA
+	en La cabrera, Bogotá D.C.. Desde 44.34 m2 hasta 244.93 m2,de 1 a 4 habitaciones, estrato 6 - id 001">
+
+<!-- metas de redes sociales -->
+<meta property="og:title" content="Apartamentos - Proyecto CENIT DE LA CABRERA"/>
+<meta property="og:type" content="product"/>
+<meta property="og:url" content="https://www.metrocuadrado.com/proyecto/cenit-de-la-cabrera/3457-C00001"/> 
+<meta property="og:description" content="¡Apartamentos nuevos en Venta! Desde 44.34 m2 hasta 244.93 m2, de 1 a 4 habitaciones estrato 6 - Proyecto CENIT DE LA CABRERA" />
+<meta property="og:site_name" content="metrocuadrado.com"/>
+<meta property="og:image" content="https://metrocuadrado.blob.core.windows.net/inmuebles/298/298_22_h.jpg"/> 
+<meta property="fb:admins" content="397b49fd789b1192e82ab9418905c8dd" />
+<meta property="fb:app_id" content="1910522245897156"/>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@metrocuadrado">
+<meta name="twitter:creator" content="@metrocuadrado">
+<meta name="twitter:title" content="Apartamentos - Proyecto CENIT DE LA CABRERA">
+<meta name="twitter:description" content="¡Apartamentos nuevos en Venta! Desde 44.34 m2 hasta 244.93 m2, de 1 a 4 habitaciones estrato 6 - Proyecto CENIT DE LA CABRERA" >
+<meta name="twitter:image" content="https://metrocuadrado.blob.core.windows.net/inmuebles/298/298_22_h.jpg">
+
+<meta content="true" itemprop="mainContentOfPage"/>
+<script>
+s.pageName = "metrocuadrado: buscar: detalle inmueble: nuevos";
+s.channel = "metrocuadrado: buscar ";
+s.eVar17 = '3457-C00001-20';
+s.eVar52 = "Nuevo";
+s.eVar57 = 'Bogotá D.C.';
+s.events = "event15";
+</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+
+
+<script type="text/javascript"
+	src="/detail/mapa/js/util/google.geocoding.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WTMXDZ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Tag CrazyEgg -->
+<script type="text/javascript">
+		setTimeout(function() {			
+			var a = document.createElement("script");
+			var b = document.getElementsByTagName("script")[0];
+			a.src = document.location.protocol
+					+"//script.crazyegg.com/pages/scripts/0017/1361.js";
+			a.async = true;
+			a.type = "text/javascript";
+			b.parentNode.insertBefore(a, b)
+		}, 1);
+	</script>
+<!-- End Tag CrazyEgg -->
+
+
+<!-- Tag Criteo -->
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js"
+	async="async"></script>
+<script>
+	var date = new Date(); //current date to create the cookie
+	var expires; //expire date of the cookie
+	var value; //cookie's value
+	var url =  window.location.href.substring(1);
+	var valor = url.search("utm_source=criteo")
+	
+	date.setTime(date.getTime()+(30*24*60*60*1000));
+	expires = date.toUTCString();
+	value = valor!=-1?"criteo":"other";
+	document.cookie = "__utmz=" + value + "; expires=" + expires + "; path=/";
+</script>
+
+<script type="text/javascript">
+$( document ).ready(function() {
+	if (document.getElementById("propertyIdHidden") != null && document.getElementById("propertyIdHidden").value !== undefined) {
+		var idIinmueble = document.getElementById("propertyIdHidden").value;
+		
+		window.criteo_q = window.criteo_q || [];
+		var typeVar = identiDispositivo();		 	
+		
+		window.criteo_q.push(
+		    { event: "setAccount", account: 25719 },		    
+		    { event: "setSiteType", type: typeVar},
+		    { event: "viewItem", item: idIinmueble}
+		);
+
+		function identiDispositivo(){
+			
+			var dispositivo = navigator.userAgent;
+			
+			if (dispositivo.match(/Iphone/i)|| dispositivo.match(/Ipod/i)|| dispositivo.match(/Android/i)|| dispositivo.match(/J2ME/i)|| dispositivo.match(/BlackBerry/i)|| dispositivo.match(/iPhone|iPod/i)|| dispositivo.match(/Opera Mini/i)|| dispositivo.match(/IEMobile/i)|| dispositivo.match(/Mobile/i)|| dispositivo.match(/Windows Phone/i)|| dispositivo.match(/windows mobile/i)|| dispositivo.match(/windows ce/i)|| dispositivo.match(/webOS/i)|| dispositivo.match(/palm/i)|| dispositivo.match(/bada/i)|| dispositivo.match(/series60/i)|| dispositivo.match(/nokia/i)|| dispositivo.match(/symbian/i)|| dispositivo.match(/HTC/i)){
+				return "m";	
+			}
+			else if(dispositivo.match(/iPad/i)){
+				return "t";
+			}else{
+				return "d";
+			}
+		}
+	}
+	});
+</script>
+<!-- END Tag Criteo -->
+
+
+<!-- begin Convert Experiences code -->
+<script type="text/javascript"
+	src="//cdn-3.convertexperiments.com/js/10022306-10021159.js"></script>
+<!-- end Convert Experiences code -->
+
+<script
+		src="//assets.adobedtm.com/41d3b477534338831f14b02d7af1cd359b73904f/satelliteLib-8aeb63a9ee18c0379a15a0fcb080dcbc94c88dd8.js"></script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" data-sticky_parent>
+
+	<div id="page" class="m2_detail">
+		<header id="header">
+<script type="text/javascript" src="/estatico/metrocuadrado-header-resources/js/omnitureEventsMethodsServerInclude.js"></script>
+
+<style>
+.usuario_opciones ul li a {
+	padding: 15px 0px 15px 40px;
+}
+
+.usuario_opciones ul li {
+	padding: 10px 0;
+}
+
+.usuario_opciones .m_header_combo {
+	padding: 0px 0px;
+}
+</style>
+<input type="hidden" id="urlcas" value="https://www.metrocuadrado.com/cas" />
+<input type="hidden" id="facebookApplicationId" lang="en" value="163952777486318" />
+
+<div class="m_header_alt">
+		
+		<div class="bg_sup_alt">
+			
+		</div>
+		
+		<div class="bg_main_alt">
+			<div class="m_header_main_alt">
+				<div class="m_header_main_wrap_alt">
+					<div id="logo_alt">
+						<a href="https://www.metrocuadrado.com/"> <img alt="Metrocuadrado" src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+						</a>
+					</div>
+					<ul id="menu_level_0_alt">
+						<li class="item_alt hide_for_mobile_alt btn_menusearch"><span class="active">Buscar inmuebles
+							<div class="icon_desplegar"><img src="/estatico/metrocuadrado-header-resources/images/icons/png/select_arrow.png" /></div>
+							</span></li>
+						<li class="item_alt has_sublevel_al noticias">
+						<span><span onmouseover="sendOmnitureEventMegaMenu('Noticias y Tendencias')">Noticias	y Tendencias</span>
+								<div class="icon_desplegar"><img src="/estatico/metrocuadrado-header-resources/images/icons/png/select_arrow.png" /></div>
+								</span>
+							<div class="level_1_alt menu_noticias">
+
+								<div class="m_header_combo_alt">
+									<em class="close_alt"> Cerrar <span></span></em>
+
+									<div class="m_header_combo_wrap_alt">
+										<div class="col_1_alt">
+											<div class="title_alt">Noticias y Tendencias</div>
+											<ul class="m_list_alt dark_alt">
+												<li><a href="https://www.metrocuadrado.com/noticias/">Noticias</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/economia/">Econom&iacute;a</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/decoracion/">Decoraci&oacute;n</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/arquitectura/">Arquitectura</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/entretenimiento/">Entretenimiento</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/actualidad/">Actualidad</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/noticias-y-tendencias/oikos-construyendo-futuro/">Oikos construyendo futuro</a></li>
+											</ul>
+										</div>
+										<div class="col_3_alt">
+											<div class="title_alt">Lo último en Metrocuadrado</div>
+											<ul>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/te-explicamos-como-retirar-las-cesantias-para-comprar-vivienda-3303">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/75441033_l.jpg?itok=hwGlwUl1" /> <span>Cómo retirar las cesantías para comprar vivienda</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/preparate-empieza-el-cobro-de-valorizacion-en-bogota-3588">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/81841782_m_4.jpg?itok=lU3JrG_Z" /> <span>Prepárate, empieza el cobro de valorización en Bogotá</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/el-megaproyecto-que-cambiara-el-norte-de-bogota-3587">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/lagos_de_torca_planeacion.jpg?itok=D-13RsAe" /> <span>El megaproyecto que cambiará el norte de Bogotá</span>
+												</a></li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="col_inf_alt">
+
+										<a href="https://www.metrocuadrado.com/noticias/tendencias/" class="m_btn_alt inline_alt inverted_alt"> Sobre noticias
+											y tendencias </a>
+
+
+									</div>
+								</div>
+							</div></li>
+						<li class="item_alt has_sublevel_alt herramientas"><span><span onmouseover="sendOmnitureEventMegaMenu('Herramientas')">Herramientas</span>
+							<div class="icon_desplegar"><img src="/estatico/metrocuadrado-header-resources/images/icons/png/select_arrow.png" /></div>
+							</span>
+							<div class="level_1_alt menu_herramientas">
+
+								<div class="m_header_combo_alt hide_for_mobile_alt hide_for_tablet_alt">
+									<em class="close_alt"> Cerrar <span></span></em>
+
+									<div class="m_header_combo_wrap_alt">
+										<div class="col_1_alt">
+										<div class="fondo_grs">
+											<div class="title_alt">Calculadoras</div>
+											<ul class="m_list_alt dark_alt">
+
+												<li><a href="https://www.metrocuadrado.com/calculadora-credito-hipotecario-vivienda/">Calculadora
+														de cr&eacute;dito </a></li>
+												<li><a href="https://www.metrocuadrado.com/calculadora-poliza-seguro-arrendamiento/">Calculadora de
+														seguros </a></li>
+												
+
+												
+
+												
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/precios-m2">Precios
+														m2</a></li>
+
+											</ul>
+											</div>
+											<div class="tu_inmueble">
+												<div class="title_alt second">Tu Inmueble</div>
+										      <ul class="m_list_alt dark_alt">
+										        <li><a href="https://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">Solicita tu inmueble</a></li>
+										        <li><a href="https://www.metrocuadrado.com/publicar-inmuebles/consignment/firststep">Consigna tu inmueble</a></li>
+									      </ul>
+									      </div>
+										</div>
+										<div class="col_2_alt">
+											<div class="title_alt">Gu&iacute;as</div>
+											<ul class="m_list_alt dark_alt">
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-arriendo">Gu&iacute;a
+														de arriendo</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-propiedad-horizontal">Gu&iacute;a
+														de propiedad horizontal</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-venta">Gu&iacute;a
+														de compra y venta</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-credito">Gu&iacute;a
+														de cr&eacute;dito</a></li>
+<!-- 												<li><a href="https://www.metrocuadrado.com/noticias/asesor-metrocuadrado">Asesor</a> -->
+<!-- 												</li> -->
+												<li><a href="https://www.metrocuadrado.com/directorio-inmobiliarias/">Directorio</a>
+												</li>
+											</ul>
+										</div>
+										<div class="col_3_alt">
+											<div class="title_alt">Guías </div>
+											<ul>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/guia-de-propiedad-horizontal/una-herramienta-para-administrar-propiedad-horizontal-3590">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/32225451_m.jpg?itok=cue8u6vz" /> <span>Una herramienta para administrar propiedad horizontal</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/programa-semillero-de-propietarios-te-explicamos-como-funciona-3580">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/67349000_m.jpg?itok=R3LtuSZQ" /> <span>Así funciona el programa Semillero de Propietarios</span>
+												</a></li>
+												<li><a class="m_image_link_small_alt" href="https://www.metrocuadrado.com/noticias/actualidad/asi-se-ha-valorizado-cedritos-en-este-2018-3534">
+														<img class="lazy" alt="" data-original="https://www.metrocuadrado.com/noticias/sites/default/files/styles/300x140/public/field/image/cedritos.jpg?itok=rznx64dd" /> <span>La valorización de Cedritos en este 2018</span>
+												</a></li>
+											</ul>
+										</div>
+										
+									</div>
+
+									<div class="col_inf_alt">
+
+										<a href="https://www.metrocuadrado.com/noticias/herramientas" class="m_btn_alt inline_alt inverted_alt "> Sobre
+											herramientas </a>
+
+
+									</div>
+								</div>
+							</div></li>
+					<!-- <li class="loginBody"></li>			 -->
+					<li class="item_alt has_sublevel_alt usuario_opciones_alt loginBody">
+							<a rel="nofollow" class="link ir_login_superior" href="/metrocuadrado-header/rlogin?service=https://www.metrocuadrado.com/proyecto/cenit-de-la-cabrera/3457-C00001"> Ingresar </a>
+					</li>
+					</ul>
+					<div id="menu_side_alt">
+						<a id="publishAPropertyLiHref" rel="nofollow" class="m_btn_alt inline_alt publishAPropertyLink" onclick="sendOmnitureEventPublishProperty();" href="https://www.metrocuadrado.com/publicar-inmuebles/"> Publica tu inmueble </a>
+						<input type="hidden" id="urlconstructores" value="https://www.metrocuadrado.com/constructores/" />
+						<input type="hidden" id="urlinmobiliarias" value="https://www.metrocuadrado.com/inmobiliarias/" />	
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Inicio Buscador -->
+		<div class="contentDesktopSearch">
+			
+			<div class="bg_inf_alt  bg_inf_search" style="display: none">
+				<div class="m_header_content_alt">
+		<div class="m_header_search_alt">
+			<div class="busqueda_avanzada_alt" style="display: block;">
+				<form action="https://www.metrocuadrado.com/metrocuadrado-results/search/non-ajax" id="form-search-header" method="post">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<div class="form_select"> 
+								<select id="mobile-mtiponegocio" data-hidden-field-id="mtiponegocio">
+										<option value="venta-nuevo">Compra Nuevo</option>
+										<option value="venta-usado">Compra Usado</option>
+										<option value="venta">Compra Nuevo y Usado</option>
+										<option value="arriendo">Arriendo</option>
+								</select>
+							</div>
+						</div>
+						<div class="col_2_alt">
+
+							<div id="fondo-selector-multiple-mobile" class="fondo-selector-multiple-mobile"></div>
+
+
+							<div class="campo-selector-multiple">
+								<div class="campo-selector-multiple-seleccionados">Tipo de
+									inmueble</div>
+
+								<div id="btn-selector-multiple" class="btn-selector-multiple" align="center">
+									<img src="/estatico/metrocuadrado-header-resources/images/icons/svg/fake_select.svg" />
+								</div>
+
+								<div id="selector-multiple" class="selector-multiple">
+
+									<img id="btn-selector-multiple-cerrar" class="btn-selector-multiple-cerrar" src="/estatico/metrocuadrado-header-resources/images/icons/svg/close.svg" />
+
+									<div class="inmueble-check">
+										<input id="check_01" class="property-type-list" propertytype="casa" name="check_01" value="casas" type="checkbox" /> <label for="check_01" class="form_label form_label_inline">Casas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_02" class="property-type-list" propertytype="apartamento" name="check_02" value="apartamentos" type="checkbox" /> <label for="check_02" class="form_label form_label_inline">Apartamentos</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_03" class="property-type-list" propertytype="oficina" name="check_03" value="oficinas" type="checkbox" /> <label for="check_03" class="form_label form_label_inline">Oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_04" class="property-type-list" propertytype="bodega" name="check_04" value="bodegas" type="checkbox" /> <label for="check_04" class="form_label form_label_inline">Bodegas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_05" class="property-type-list" propertytype="consultorio" name="check_05" value="consultorios" type="checkbox" /> <label for="check_05" class="form_label form_label_inline">Consultorios</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_06" class="property-type-list" propertytype="local" name="check_06" value="locales" type="checkbox" /> <label for="check_06" class="form_label form_label_inline">Locales</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_07" class="property-type-list" propertytype="lote" name="check_07" value="lotes" type="checkbox" /> <label for="check_07" class="form_label form_label_inline">Lotes</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_08" class="property-type-list" propertytype="finca" name="check_08" value="fincas" type="checkbox" /> <label for="check_08" class="form_label form_label_inline">Fincas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_09" class="property-type-list" propertytype="edificio-de-oficinas" name="check_09" value="edificios-oficinas" type="checkbox" />
+										<label for="check_09" class="form_label form_label_inline">Edificio
+											de oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_10" class="property-type-list" propertytype="edificio-de-apartamentos" name="check_10" value="edificios-apartamentos" type="checkbox" /> <label for="check_10" class="form_label form_label_inline">Edificio de
+											apartamentos</label>
+									</div>
+									<a id="btn-selector-multiple-mobile-aceptar" class="m_btn btn-selector-multiple-mobile-aceptar">Aceptar</a>
+
+								</div>
+							</div>
+						</div>
+						<div class="col_3_alt">
+							<input type="text" name="city" id="mobile-location" class="search-by-location" placeholder="Ciudad, Zona o Barrio" />
+						</div>
+						<div class="col_4_alt">
+
+							<button id="btn_submit_search_header" class="search-button m_btn_alt big_alt header-structured-search">Buscar</button>
+
+							<script type="text/javascript">
+				
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>Buscar c&oacute;digo &raquo;</a>
+						</div>
+					</div>
+					<input type="hidden" name="sfh" id="sfh" value="1" />
+				</form>
+			</div>
+
+			<!-- Inicio búsqueda código -->
+			<div class="busqueda_codigo_alt" style="display: none;">
+				<form method="post" id="form-search-header-by-code" action="https://www.metrocuadrado.com/metrocuadrado-results/search/code">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<input type="text" name="propertyId" id="propertyId" placeholder="Buscar por c&oacute;digo" required="required" />
+						</div>
+						<div class="col_4_alt">
+							<button if="btn_submit_search_header_by_code" class="m_btn_alt big_alt">Buscar</button>
+							<script type="text/javascript">
+								$('#btn_submit_search_header_by_code').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),"","Search-by-code","","");
+									
+									setTimeout(function(){ 
+										$('#form-search-header-by-code').submit();
+									}, 500);
+								});
+								
+							    (function(h,o,t,j,a,r){
+							        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+							        h._hjSettings={hjid:966913,hjsv:6};
+							        a=o.getElementsByTagName('head')[0];
+							        r=o.createElement('script');r.async=1;
+							        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+							        a.appendChild(r);
+							    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>B&uacute;squeda avanzada &raquo;</a>
+						</div>
+					</div>
+				<input type="hidden" name="_csrf" value="c7c7e3f7-34ad-4188-b69c-eb68d053141f" /></form>
+			</div>
+			<!-- Fin búsqueda código -->
+		</div>
+	</div>
+			</div>
+		</div>
+		
+		<script type="text/javascript" src="/estatico/metrocuadrado-header-resources/js/libs/jquery.lazyload.min.js"></script>
+		
+	</div>
+<div id="mobile_header_alt">
+		<div class="m_header_mobile_alt">
+			<div class="m_header_mobile_bar_alt">
+				<div class="m_header_mobile_bar_logo_alt">
+					<a href="https://www.metrocuadrado.com/"> <img alt="Metrocuadrado" src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+					</a>
+				</div>
+				<div class="m_header_mobile_bar_search_alt">Buscar</div>				
+				<div class="m_header_mobile_bar_menu_alt open"></div>
+			</div>
+
+			<div class="m_header_mobile_menu_alt menu_moviles" style="display: none;">
+				<div id="menu_side_alt">
+					<a id="publishAPropertyLiHref" rel="nofollow" class="m_btn_alt inline_alt publishAPropertyLink" href="https://www.metrocuadrado.com/publicar-inmuebles/"> Publica tu inmueble </a>
+					<input type="hidden" id="urlconstructores" value="https://www.metrocuadrado.com/constructores/" />
+					<input type="hidden" id="urlinmobiliarias" value="https://www.metrocuadrado.com/inmobiliarias/" />
+				</div>
+
+				<ul id="menu_level_0_alt">
+
+					<li class="item_alt has_sublevel_alt"><span onmouseover="sendOmnitureEventMegaMenu('Noticias y Tendencias')">Noticias
+							y Tendencias</span>
+						<div class="level_1_alt menu_noticias">
+
+							<div class="m_header_combo_mobile_alt show_on_mobile show_on_tablet">
+								<ul>
+									<li><a href="https://www.metrocuadrado.com/noticias/">Noticias</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/economia/">Econom&iacute;a</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/decoracion/">Decoraci&oacute;n</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/arquitectura/">Arquitectura</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/entretenimiento/">Entretenimiento</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/actualidad/">Actualidad</a></li>
+									<li><a href="https://www.metrocuadrado.com/noticias/noticias-y-tendencias/oikos-construyendo-futuro/">Oikos construyendo futuro</a></li>
+								</ul>
+							</div>
+
+						</div></li>
+					<li class="item_alt has_sublevel_alt herramientas"><span onmouseover="sendOmnitureEventMegaMenu('Herramientas')">Herramientas</span>
+						<div class="level_1_alt menu_herramientas">
+
+							<div class="m_header_combo_mobile_alt show_on_mobile show_on_tablet">
+								<ul>
+									<li class="has_sublevel_2_alt"><span>Calculadoras</span>
+										<div class="level_2_alt">
+											<p class="level_2_alt_link">Calculadoras</p>
+											<ul>
+												<li><a href="https://www.metrocuadrado.com/calculadora-credito-hipotecario-vivienda/">Calculadora
+														de cr&eacute;dito </a></li>
+												<li><a href="https://www.metrocuadrado.com/calculadora-poliza-seguro-arrendamiento/">Calculadora de
+														seguros </a></li>
+												
+
+												
+
+												
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/precios-m2">Precios
+														m2</a></li>
+
+											</ul>
+										</div></li>
+										<li class="has_sublevel_2_alt">
+								          <span>Tu inmueble</span>
+								          <div class="level_2_alt">
+								            <p class="level_2_alt_link">Tu inmueble</p>
+								            <ul>
+								              <li>
+								              	<a href="https://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">Solicita tu inmueble</a>
+								              </li>
+								              <li>
+								              	<a href="https://www.metrocuadrado.com/publicar-inmuebles/consignment/firststep">Consigna tu inmueble</a>
+								              </li>
+								            </ul>
+								          </div>
+								        </li>
+									<li class="has_sublevel_2_alt dos"><span>Gu&iacute;as</span>
+										<div class="level_2_alt dos">
+											<p class="level_2_alt_link">Gu&iacute;as</p>
+											<ul>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-arriendo">Gu&iacute;a
+														de arriendo</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-propiedad-horizontal">Gu&iacute;a
+														de propiedad horizontal</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-venta">Gu&iacute;a
+														de compra y venta</a></li>
+												<li><a href="https://www.metrocuadrado.com/noticias/herramientas/guia-de-credito">Gu&iacute;a
+														de cr&eacute;dito</a></li>
+<!-- 												<li><a href="https://www.metrocuadrado.com/noticias/asesor-metrocuadrado">Asesor</a> -->
+<!-- 												</li> -->
+												<li><a href="https://www.metrocuadrado.com/directorio-inmobiliarias/">Directorio</a>
+												</li>
+											</ul>
+										</div></li>
+
+								</ul>
+							</div>
+
+
+						</div></li>
+						<li class="loginBody"></li>
+				</ul>
+
+				<div class="m_header_sup_alt">
+					<ul>
+						<li><a href="/metrocuadrado-header/contactenos">Cont&aacute;ctenos </a></li>
+						<li style="display: none"><a href="/metrocuadrado-header/ayuda">&iquest;Necesitas
+								ayuda? </a></li>
+						<li class="phone" style="display: none"><a href="tel:01 80000 115 252">01 80000 115 252</a></li>
+						
+					</ul>
+				</div>
+			</div>
+
+			<div class="m_header_mobile_menu" data-mobile-menu-placeholder=""></div>
+		</div>
+	</div>
+<div class="mobile_header_search_alt" style="display: none">
+		<div class="mobile_header_search_head_alt">
+			<div class="mobile_header_search_logo_alt">
+				<img src="/estatico/metrocuadrado-header-resources/images/logo_metrocuadrado@2x.png" />
+			</div>
+			<div class="mobile_header_search_close_alt"></div>
+		</div>
+		<div class="mobile_header_search_title_alt">Encuentra casa y
+			apartamentos en venta o arriendo:</div>
+		<div class="">
+			<div class="m_header_content_alt">
+		<div class="m_header_search_alt">
+			<div class="busqueda_avanzada_alt" style="display: block;">
+				<form action="https://www.metrocuadrado.com/metrocuadrado-results/search/non-ajax" id="form-search-header" method="post">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<div class="form_select"> 
+								<select id="mobile-mtiponegocio" data-hidden-field-id="mtiponegocio">
+										<option value="venta-nuevo">Compra Nuevo</option>
+										<option value="venta-usado">Compra Usado</option>
+										<option value="venta">Compra Nuevo y Usado</option>
+										<option value="arriendo">Arriendo</option>
+								</select>
+							</div>
+						</div>
+						<div class="col_2_alt">
+
+							<div id="fondo-selector-multiple-mobile" class="fondo-selector-multiple-mobile"></div>
+
+
+							<div class="campo-selector-multiple">
+								<div class="campo-selector-multiple-seleccionados">Tipo de
+									inmueble</div>
+
+								<div id="btn-selector-multiple" class="btn-selector-multiple" align="center">
+									<img src="/estatico/metrocuadrado-header-resources/images/icons/svg/fake_select.svg" />
+								</div>
+
+								<div id="selector-multiple" class="selector-multiple">
+
+									<img id="btn-selector-multiple-cerrar" class="btn-selector-multiple-cerrar" src="/estatico/metrocuadrado-header-resources/images/icons/svg/close.svg" />
+
+									<div class="inmueble-check">
+										<input id="check_01" class="property-type-list" propertytype="casa" name="check_01" value="casas" type="checkbox" /> <label for="check_01" class="form_label form_label_inline">Casas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_02" class="property-type-list" propertytype="apartamento" name="check_02" value="apartamentos" type="checkbox" /> <label for="check_02" class="form_label form_label_inline">Apartamentos</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_03" class="property-type-list" propertytype="oficina" name="check_03" value="oficinas" type="checkbox" /> <label for="check_03" class="form_label form_label_inline">Oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_04" class="property-type-list" propertytype="bodega" name="check_04" value="bodegas" type="checkbox" /> <label for="check_04" class="form_label form_label_inline">Bodegas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_05" class="property-type-list" propertytype="consultorio" name="check_05" value="consultorios" type="checkbox" /> <label for="check_05" class="form_label form_label_inline">Consultorios</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_06" class="property-type-list" propertytype="local" name="check_06" value="locales" type="checkbox" /> <label for="check_06" class="form_label form_label_inline">Locales</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_07" class="property-type-list" propertytype="lote" name="check_07" value="lotes" type="checkbox" /> <label for="check_07" class="form_label form_label_inline">Lotes</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_08" class="property-type-list" propertytype="finca" name="check_08" value="fincas" type="checkbox" /> <label for="check_08" class="form_label form_label_inline">Fincas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_09" class="property-type-list" propertytype="edificio-de-oficinas" name="check_09" value="edificios-oficinas" type="checkbox" />
+										<label for="check_09" class="form_label form_label_inline">Edificio
+											de oficinas</label>
+									</div>
+									<div class="inmueble-check">
+										<input id="check_10" class="property-type-list" propertytype="edificio-de-apartamentos" name="check_10" value="edificios-apartamentos" type="checkbox" /> <label for="check_10" class="form_label form_label_inline">Edificio de
+											apartamentos</label>
+									</div>
+									<a id="btn-selector-multiple-mobile-aceptar" class="m_btn btn-selector-multiple-mobile-aceptar">Aceptar</a>
+
+								</div>
+							</div>
+						</div>
+						<div class="col_3_alt">
+							<input type="text" name="city" id="mobile-location" class="search-by-location" placeholder="Ciudad, Zona o Barrio" />
+						</div>
+						<div class="col_4_alt">
+
+							<button id="btn_submit_search_header" class="search-button m_btn_alt big_alt header-structured-search">Buscar</button>
+
+							<script type="text/javascript">
+				
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>Buscar c&oacute;digo &raquo;</a>
+						</div>
+					</div>
+					<input type="hidden" name="sfh" id="sfh" value="1" />
+				</form>
+			</div>
+
+			<!-- Inicio búsqueda código -->
+			<div class="busqueda_codigo_alt" style="display: none;">
+				<form method="post" id="form-search-header-by-code" action="https://www.metrocuadrado.com/metrocuadrado-results/search/code">
+					<div class="m_header_search_content_alt">
+						<div class="col_1_alt">
+							<input type="text" name="propertyId" id="propertyId" placeholder="Buscar por c&oacute;digo" required="required" />
+						</div>
+						<div class="col_4_alt">
+							<button if="btn_submit_search_header_by_code" class="m_btn_alt big_alt">Buscar</button>
+							<script type="text/javascript">
+								$('#btn_submit_search_header_by_code').click(function(e){						
+									e.preventDefault();
+									
+									sendOmnitureEventSearch($('#search-origin').val(),"","Search-by-code","","");
+									
+									setTimeout(function(){ 
+										$('#form-search-header-by-code').submit();
+									}, 500);
+								});
+								
+							    (function(h,o,t,j,a,r){
+							        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+							        h._hjSettings={hjid:966913,hjsv:6};
+							        a=o.getElementsByTagName('head')[0];
+							        r=o.createElement('script');r.async=1;
+							        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+							        a.appendChild(r);
+							    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+							</script>
+						</div>
+						<div class="enlace_alt">
+							<a>B&uacute;squeda avanzada &raquo;</a>
+						</div>
+					</div>
+				<input type="hidden" name="_csrf" value="c7c7e3f7-34ad-4188-b69c-eb68d053141f" /></form>
+			</div>
+			<!-- Fin búsqueda código -->
+		</div>
+	</div>
+		</div>
+	</div>
+
+<div id="login" class="mfp-hide">
+    <div class="m_login">
+        <div class="m_login_bg"></div>
+        <div class="m_login_close" data-login-toggle=""></div>
+
+        <!-- Inicio Login -->
+        <div class="m_login_content login">
+            <div class="m_login_content_title">Ingresa a MetroCuadrado, el mejor portal inmobiliario de Colombia</div>
+            <div class="m_login_content_error" style="display: none;">Se ha producido un error en el servidor, int&eacute;ntelo
+                m&aacute;s tarde
+            </div>
+            <form action="/cas/login?service=https://localhost:38080/metrocuadrado-home/login/cas" data-form-validate="" method="post">
+                <div class="input_box">
+                    <label for="j_username">Usuario</label>
+                    <input type="text" id="j_username" name="j_username" placeholder="Usuario" required="required" />
+                </div>
+                <div class="input_box">
+                    <label for="j_password">Ingresar contraseña</label>
+                    <input type="password" id="j_password" name="j_password" placeholder="Clave" required="required" />
+                </div>
+
+                <input type="submit" value="Ingresar" class="m_btn big" />
+
+                <div class="m_login_social" style="display: none;">
+                    <div class="col_social">
+                        <a href="#" class="m_btn fb">Ingresar con Facebook</a>
+                    </div>
+                    <div class="col_social">
+                        <a href="#" class="m_btn gp">Ingresar con Google</a>
+                    </div>
+                </div>
+
+                <div class="m_login_links">
+                    <div class="col_link">
+                        <a href="/metrocuadrado-header/restablecerContrasena">&iquest;Olvidaste su contraseña?</a>
+                    </div>
+                    <div class="col_link">
+                        <a class="ir_registro" href="#">Reg&iacute;strate</a>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+        <!-- Fin Login -->
+
+        <!-- Inicio Registro -->
+        <div class="m_login_content registro">
+            <div class="m_login_content_title">Ingresa a MetroCuadrado, el mejor portal inmobiliario de Colombia</div>
+            <div class="m_login_content_error" style="display: none;">Se ha producido un error en el servidor, inténtelo
+                más tarde
+            </div>
+            <p>Regístrate con una cuenta de correo</p>
+            <form action="#" data-form-validate="">
+                <div class="input_box">
+                    <label for="login_user">Ingrese un correo electrónico</label>
+                    <input type="email" id="login_user" for="login_user" placeholder="correo@mail.com" required="required" />
+                </div>
+                <input type="submit" value="Crear cuenta" class="m_btn big" />
+                <p>O ingrese con</p>
+                <div class="m_login_social" style="display: none;">
+                    <div class="col_social">
+                        <a href="#" class="m_btn fb">Facebook</a>
+                    </div>
+                    <div class="col_social">
+                        <a href="#" class="m_btn gp">Google</a>
+                    </div>
+                </div>
+
+                <div class="m_login_links">
+                    <a class="ir_login" href="#">Ya estoy registrado</a>
+                </div>
+
+            </form>
+        </div>
+        <!-- Fin Registro -->
+    </div>
+</div>
+
+<script type="text/javascript" src="/estatico/metrocuadrado-header-resources/js/getHtmlLogin.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+			$(".item.has_sublevel.noticias").mouseover(function(){
+		        $('.item.has_sublevel.noticias').removeClass('item has_sublevel').addClass('item has_sublevel is_active');
+	        });
+	        $(".item.has_sublevel.herramientas").mouseover(function(){
+	    	    $('.item.has_sublevel.herramientas').removeClass('item has_sublevel').addClass('item has_sublevel is_active');
+	        });
+	          
+	        $(".item.has_sublevel.usuario_opciones").mouseover(function(){
+		    	$('.item.has_sublevel.usuario_opciones').removeClass('item has_sublevel').addClass('item has_sublevel is_active');
+		    });
+	          
+	        $(".item.has_sublevel").mouseleave(function(){
+	        	$('.item.has_sublevel').removeClass('item has_sublevel is_active').addClass('item has_sublevel');
+	        });			
+				initLocationAutocomplete();
+				initStructuredSearch();
+				initFilterValuesFromCookies();
+				initHeader();
+	});
+	$(window).load(initM2Events);
+	</script>	
+  	</header><!-- OMNITURE -->
+
+
+		<script src="/estatico/metrocuadrado-detail/js/jsFilesDetailHeader3.min.js"></script>
+		
+
+<input type="hidden" value="https://www.metrocuadrado.com/proyecto/cenit-de-la-cabrera/3457-C00001" id="requestURI"/>
+<input type="hidden" value="/detail/newsletter/subscribe.do" id="subscriptionNewsletterURI"/>
+ <input type="hidden" id="search-origin" value="header-detail"/>
+
+<input type="hidden" id="loadDemand" value="true"/>
+<div class="new">
+
+<link rel="canonical" href="https://www.metrocuadrado.com/proyecto/cenit-de-la-cabrera/3457-C00001" />
+<div class="wrapper">
+		<div class="m_breadcrumb">
+			<div class="items">
+				<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://www.metrocuadrado.com/"  itemprop="url"> <span itemprop="title">Inicio</span>
+				</a> /
+				</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" >
+					<a href="https://www.metrocuadrado.com/apartamentos/" itemprop="url" > <span itemprop="title">Apartamentos</span>
+				</a> /				
+				</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a class="linkMPurlTipoNegocio" href="https://www.metrocuadrado.com/apartamentos/venta/" itemprop="url"> <span itemprop="title">Venta</span>
+				</a> /
+				</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a class="linkUrlTipoNegocioEstado" href="https://www.metrocuadrado.com/apartamentos/venta/nuevos" itemprop="url"> <span itemprop="title">Nuevos</span>
+				</a> /
+				</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://www.metrocuadrado.com/apartamentos/venta/bogota/nuevos" itemprop="url"> <span itemprop="title">Bogotá D.C.</span>
+				</a> /
+				</span> <span >
+					<a> <span >Apartamentos nuevos
+							en Venta
+							en La cabrera,
+							Bogotá D.C.</span>
+				</a>
+				</span>
+			</div>
+			<div class="back_link">
+				
+				<a class="return-to-results" href="#" id="volverResultados">volver a los resultados</a>
+			</div>
+
+		</div>
+	</div>
+<input type="hidden" id="city" value="Bogotá D.C."/>
+	<input type="hidden" id="cityname" value="Bogotá D.C."/>
+	<input type="hidden" id="hdnCityName" value="Bogotá D.C."/>	
+	<input type="hidden" id="projectIdHidden" value="298">
+	<input type="hidden" id="propertyTypeIdHidden" value="3457-C00001-20">
+	<input type="hidden" id="projectCodeHidden" value="3457-C00001">
+	<input type="hidden" id="visitorIdHidden" value=""/>
+	<input type="hidden" id="companyIdHidden" value="1306"/>
+	<input type="hidden" id="isInFavorites" value=""/>
+	<input type="hidden" id="isInReported" value="false"/>
+	<input type="hidden" id="emailBLUrl" value="/detail/proyecto/ajax/validatemailbl.do"/>
+	<input type="hidden" id="blockContact" value="false" />
+	<input type="hidden" id="urlGetProjectPhones" value="/detail/proyecto/ajax/getProjectPhonesGalleryView/" />
+	<input type="hidden" id="namepropertyId" value="3457-C00001-20"/>
+	<input type="hidden" id="namepropertyProyect" value="CENIT DE LA CABRERA"/>
+	
+<hr class="separator" />
+<div class="m_new_splash">
+	  <div class="m_new_splash_box" >
+		<img class="serviceImg" name="projectNameImage"  
+					alt="Apartamentos nuevos en La cabrera, CENIT DE LA CABRERA"
+					title="Apartamentos en Bogotá D.C., CENIT DE LA CABRERA"
+					src="https://metrocuadrado.blob.core.windows.net/inmuebles/298/298_22_h.jpg" data-error="/estatico/metrocuadrado-detail/images/default_images/foto_no_disponible_1600x1200.jpg"/>
+			<div class="wrapper">
+			<div class="gallery_preview " id="verCarrusel">
+				<div class="m_gallery_preview_caption">
+					<div class="images" id="visualizarFoto" data-val="17">17</div>
+					<div class="videos" id="visualizarVideo">1</div>
+					</div>
+			</div>
+			<div data-morph="splash_header" data-morph-devices="mobile">
+				<div class="m_splash_promo">
+					<div class="m_splash_promo_category">Proyecto</div>
+					<div class="m_splash_promo_title">
+						<h1 itemprop="headline">CENIT DE LA CABRERA</h1>
+					</div>
+					<p>
+						Apartamentos nuevos en Venta Bogotá D.C.La cabrera $708.780.000</p>
+					<a id="seeProperties" class="m_btn inline inverted ">Ver Inmuebles </a> 
+					<a id="seeUbication" class="m_btn inline inverted ubicacion "> Ver Ubicaci&oacute;n </a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="splash_promo_mobile"></div>
+	<div class="principalGallery"></div>
+</div>
+<div class="wrapper" id="informacion_del_proyecto" name="informacion_del_proyecto">
+	<div id="layout">
+		<div id="main">
+			<div class="m_property_info">
+				<div class="m_property_info_table new">
+	<dl class="price all_width_mobile">
+			<dt>
+				<h3>Valor venta</h3>
+			</dt>
+			<dd class="important">
+			    $708.780.000</dd>
+			<a href="javascript:void(0);">Estoy interesado</a>
+		</dl>
+	<dl>
+			<dt>
+				<h3>&Aacute;rea construida</h3>
+			</dt>
+			<dd>
+				de 70.55 m<sup>2</sup>
+			</dd>
+		</dl>
+	<dl>
+			<dt>
+				<h3>Habitaciones</h3>
+			</dt> 		
+			<dd>2</dd>
+				</dl>
+	<dl>
+			<dt>
+				<h3>Ba&ntilde;os</h3>
+			</dt>			
+			<dd>3</dd>
+				</dl>
+	<dl>
+			<dt>
+				<h3>Parqueaderos</h3>
+			</dt>			
+			<dd>2</dd>
+				</dl>
+	</div><!-- Módulo de Información del proyecto -->
+				<div class="m_property_info_desc">
+	<div class="m_property_info_desc_title">
+		<h2>Conoce lo m&aacute;s destacado de este proyecto</h2>
+	</div>
+	<p id="pDescription">Exclusivo proyecto con propicia ubicación de alta valorización, excelente diseño y visuales inigualables. 60 apartamentos en 11 pisos con las mejores especificaciones (ventanería termoacústica en habitaciones). Lobby de doble altura, Salón social, Lockers para las empleadas del servicio doméstico con baño, Business center, Oficina de administración, Gimnasio, Bicicletero y una amplia Terraza Comunal en medio de una vista excepcional.. </p>
+</div>					
+<div class="detail_tools_social_container">
+    <!-- Inicio Herramientas -->
+    <div class="detail_tools_container">
+      <div class="m_tools">
+        <div>
+          <div class="bookmark ">
+          	<a href="#" id="favorito" class="favorito" data-url-redirect="/detail/proyecto/admin/addfavorite/cenit-de-la-cabrera/298/3457-C00001-20.do">favorito</a>
+          </div>
+        </div>
+        <div>
+          <div class="hide">
+            <a href="#list-hide" data-list-options-hide="">reportar</a>
+          </div>
+          <!-- Inicio Botón Reportar Bloqueado -->
+          <div class="hide boton_bloqueado">
+            <a>reportar</a>
+          </div>
+          <!-- Fin Botón Reportar Bloqueado -->
+        </div>
+      </div>
+    </div>
+    <!-- Fin Herramientas -->
+
+    <!-- Inicio redes sociales -->
+    <div class="detail_social_container">
+      <div class="m_social">
+        <div>
+          <p>Compartir</p>
+          <ul>
+            <li>
+            	<a onclick="detailOmniture.compartirFacebook(); window.open('http://www.facebook.com/share.php?u=https://www.metrocuadrado.com/proyecto/cenit-de-la-cabrera/3457-C00001&t=metrocuarado','_blank');" 
+            		href="javascript:void(0);" class="share_fb" >facebook</a>
+           	</li>
+            <li>
+            	<a onclick="detailOmniture.compartirTwitter(); window.open('http://twitter.com/share?url=https://www.metrocuadrado.com/proyecto/cenit-de-la-cabrera/3457-C00001&text=metrocuarado&via=Metrocuarado','_blank');"
+            		href="javascript:void(0);" class="share_tw">tweeter</a>
+            </li>
+            <li>
+            	<a data-urlproperty="/detail/share/load/lightbox/shareproperty" 
+            		data-urlproject="/detail/share/load/lightbox/shareproject"
+            		href="javascript:void(0);" class="share_email">email</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Fin redes sociales -->
+</div>
+		
+<div class="m_m_collapsable_wrapper desplazar" data-m-collapse="visible">
+	<h3  class="m_m_collapsable_wrapper_title show_on_mobile" data-m-collapse-link>
+		Información del proyecto
+	</h3>
+	<div class="m_m_collapsable_wrapper_content" data-m-collapse-content >
+		<div class="m_property_info_details">
+			<div class="m_property_info_details_title">
+				<h2>Datos principales del proyecto</h2>
+			</div>
+			<dl>
+					<dt>
+						<h3>C&oacute;digo web:</h3>
+					</dt>
+					<dd>
+						<h4>
+							3457-C00001</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Nombre com&uacute;n del barrio</h3>
+					</dt>
+					<dd>
+						<h4>
+						LA CABRERA</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Nombre del barrio catastral</h3>
+					</dt>
+					<dd>
+						<h4>
+						LA CABRERA</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Estrato</h3>
+					</dt>
+					<dd>
+						<h4>
+						6</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Valor Desde/Hasta</h3>
+					</dt>
+					<dd>
+						<h4>
+						Desde $477.000.000 hasta $3.182.998.000</h4>
+					</dd>
+				</dl>			
+			<dl>
+					<dt>
+						<h3>&Aacute;rea construida Desde/Hasta</h3>
+					</dt>
+					<dd>
+						<h4>Desde 48.04 hasta 261.72</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>&Aacute;rea privada Desde/Hasta</h3>
+					</dt>
+					<dd>
+						<h4>Desde 44.34 hasta 244.93</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Tiempo de construido</h3>
+					</dt>
+					<dd>
+						<h4>
+						Para Estrenar</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>
+						Etapa de construcci&oacute;n/Tiempo de construido
+						</h3>
+					</dt>
+					<dd>
+						<h4>
+						Para entrega</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Moneda</h3>
+					</dt>
+					<dd>
+						<h4>Peso colombiano</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Vigilancia</h3>
+					</dt>
+					<dd>
+						<h4>24hrs</h4>
+					</dd>
+				</dl>
+			<dl>
+					<dt>
+						<h3>Parqueadero de visitantes</h3>
+					</dt>
+					<dd>
+						<h4>Si</h4>
+						</dd>
+				</dl>
+			</div>
+		<div class="m_property_info_details services">
+			<div class="m_property_info_details_title">
+				<h2>&Aacute;reas comunes y recreaci&oacute;n</h2>
+			</div>
+			<ul>
+				<li><h3>Acceso para discapacitados</h3></li>
+						<li><h3>Ascensor</h3></li>
+						<li><h3>Cerca Centros Comerciales</h3></li>
+						<li><h3>Cerca Colegios / Universidades</h3></li>
+						<li><h3>Cerca Parques</h3></li>
+						<li><h3>Cerca Supermercados</h3></li>
+						<li><h3>Cerca Transporte Público</h3></li>
+						<li><h3>Circuito cerrado de TV</h3></li>
+						<li><h3>Citófonos</h3></li>
+						<li><h3>Gimnasio</h3></li>
+						<li><h3>Salón  comunal</h3></li>
+						<li><h3>Sobre vía principal</h3></li>
+						<li><h3>Sobre vía secundaria</h3></li>
+						<li><h3>Zona de BBQ</h3></li>
+						<li><h3>Zona para niños</h3></li>
+						<li><h3>Zonas verdes</h3></li>
+						</ul>
+		</div>
+	</div>
+</div><!-- Módulo Calculadora de Credito -->
+				<!-- Inicio formulario Calculadora -->
+<!-- <div class="detail_form"> -->
+<!--   <div   class="m_m_collapsable_wrapper desplazar" data-m-collapse="visible"> -->
+<!--     <h3  class="m_m_collapsable_wrapper_title show_on_mobile" data-m-collapse-link>Calcula cuánto te prestan</h3> -->
+<!--     <div class="m_m_collapsable_wrapper_content" data-m-collapse-content > -->
+<!--       <p>Calcula cuánto te prestan</p> -->
+<!--       <form id="formCalcularPrestamo" action="#" > -->
+<!--         <div class="form-group" data-message="Este campo es obligatorio"> -->
+<!-- 	        <div class="campo form-control-wrapper" > -->
+<!-- 	          <input type="text" id="TxtIngresos" data-comparar="1000000" data-max="11" maxlength="11" onkeypress="return validarNUM(event)" onkeyup="formatCurrencyFieldText(this);" class="validarMayorQue required validarOculto validateMaxLength" placeholder="Ingresos mensuales"> -->
+<!-- 			  <div class="errorReq"></div> -->
+<!-- 	        </div> -->
+<!--         </div> -->
+<!--         <div class="form-group" data-message="Este campo es obligatorio"> -->
+<!--           <div class="campo form-control-wrapper form_select" > -->
+<!--             <select id="selectPeriodo"> -->
+<!--             </select> -->
+<!--             <div class="errorReq error"></div> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--         <div class="boton"> -->
+<!--           <input type="button" id="bntCalcularPrestamo" class="m_btn" value="Calcular"> -->
+<!--         </div> -->
+<!--       </form> -->
+<!--       <div class="clear"></div> -->
+<!--     </div>   -->
+<!--   </div> -->
+<!-- </div> -->
+
+<!-- Inicio formulario Calculadora -->
+<div class="calculadora">
+<div class="m_property_info_details_title"><h2>Calcula cuánto te prestan</h2><span class="linea"></span></div>
+
+<div class="detail_form ancho">
+<div class="logo"><img src="/estatico/metrocuadrado-detail/images/banco-de-bogota-logo.jpg">
+</div>
+  <div   class="m_m_collapsable_wrapper cal_desplazar" data-m-collapse="visible">
+    <h3  class="m_m_collapsable_wrapper_title show_on_mobile" data-m-collapse-link>Calcula cuánto te prestan</h3>
+    <div class="m_m_collapsable_wrapper_content" data-m-collapse-content >
+      
+      <form id="formCalcularPrestamo" action="#" data-form-validate="" novalidate="novalidate">
+        <div class="campos">
+        <div class="form-group campo" data-message="Este campo es obligatorio">
+			<input type="text" id="TxtIngresos" data-comparar="1000000" data-max="11" maxlength="11" onkeypress="return validarNUM(event)" onkeyup="formatCurrencyFieldText(this);" class="validarMayorQue required validarOculto validateMaxLength" placeholder="Ingresos mensuales">
+			<div class="errorReq"></div>				
+        </div>
+        <div class="campo">
+          <div class="form-group form_select" data-message="Este campo es obligatorio"><!-- Agregar la clase "error" a este div para las validaciones del select -->
+            <select id="selectPeriodo">
+            </select>
+            <p class="error" for="">Este campo es obligatorio.</p>
+          </div>
+        </div>
+      </div>
+        <div class="boton">
+          <input id="bntCalcularPrestamo" type="button" class="m_btn" value="Consultar">
+        </div>
+      </form>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+</div>
+<!-- Fin formulario Calculadora -->
+
+<!-- Fin formulario Calculadora --><div class="cargando" id="propertyTypeContainer" 
+							data-url="/detail/proyecto/ajax/propertytype/3457-C00001"></div>
+					</div>
+		</div> 	
+		
+		<!-- Inicio caja contacto escritorio -->
+<div id="sidebar" class="contacto_escritorio">
+	<div data-trigger-detail-menu></div>
+	<div class="email_phone_sticky" data-sticky_column="0">
+		<div class="close_modal_contact">
+			<div class="button">CERRAR</div>
+		</div>
+		<div class="email_phone_hiden">
+			<a href="#" class="m_btn " data-sticky-open-contact> Contactar y Ver
+				Teléfono </a>
+		</div>
+		<div class="m_email_phone_tabs">
+			<div class="gray_space"></div>
+			<div class="header">
+				<p>Contacta a la Constructora</p>
+			</div>
+			<div class="email open">
+				
+				<form id="contactForm" class="formMainContact" action="javascript:void(0)"
+					data-form-action="/detail/proyecto/contactmain/ajax/send.do"
+					style="display: block;">
+					
+					<input type="hidden" class="breadcrumbRelated" id="breadcrumbRelated" name="breadcrumbRelated" value=""/>
+					<input type="hidden"
+						name="projectId" value="298" />
+					<input type="hidden" name="visitorId" value="" /> <input
+						type="hidden" value="1249,290"
+						name="interestingProjectIds" />
+					<input type="hidden" name="companyId" value="1306" /> <input
+						type="hidden" name="contactType" value="Caja de contacto" /> <input
+						type="hidden" name="requestURI" value="" /> <input type="hidden"
+						name="cookieBlockContact"
+						value="false" /> <input
+						type="hidden" name="gRecaptchaResponse"> <input type="hidden"
+						name="tokenFormContactMain" value="" />
+					<input type="hidden" name="contactPoint" value="1" />
+						<input type="hidden" name="projectCode" value="3457-C00001" />
+						<input class="contact_propertyTypeId" type="hidden" name="propertyTypeId"
+							value="3457-C00001-20" />
+					<input type="hidden" name="city" value="1" />
+					<!-- Inicio contacto por email -->
+					<div id="contactDiv">
+						<p class="title">Comentarios</p>
+						<textarea placeholder="Estoy interesado en CENIT DE LA CABRERA en Venta en Bogotá D.C." maxlength="500" id="comment"
+							name="question" data-toggle-tab-on
+							required>Estoy interesado en CENIT DE LA CABRERA en Venta en Bogotá D.C.</textarea>
+						<div class="email_extended">
+							<div class=" campo form-group" data-message="Ingrese su nombre">
+								<div class="form-control-wrapper form-control-wrapper-full">
+									<input type="text" id="contact_name_email" name="name" maxlength="90"
+										placeholder="Nombre" data-max="90"
+										onkeypress="return validarNombre(event)"
+										value=""
+										class="form-control required validateMaxLength validateMinLength" />
+									<div class="errorReq error"></div>
+								</div>
+							</div>
+							<div class="campo form-group" data-message="Ingrese su tel&eacutefono">
+								<div class="form-control-wrapper form-control-wrapper-full">
+									<input type="tel" id="contact_phone_email" maxlength="20" minlength="7"
+										data-min="7" data-max="20" onkeypress="return validarNUM(event)"
+										name="phone"
+										class="form-control telefono_campo validateMaxLength 
+											validateMinLength validateDigitRepeated required"
+										placeholder="Teléfono" value="" />
+									<div class="errorReq error"></div>
+								</div>
+							</div>
+							<div class="campo form-group" data-message="Ingrese su correo">
+								<div class="form-control-wrapper form-control-wrapper-full">
+									<input type="email" id="contact_email_email" name="email"
+										placeholder="Email" maxlength="90" data-max="90"
+										class="form-control contentMail validateMaxLength validateMinLength required"
+										value="" />
+									<div class="errorReq error"></div>
+								</div>
+							</div>
+						</div>
+						<div class="email_extended">
+							<div class="form_checkbox m_acceptance_box">
+								<input id="newsletter" name="newsletter" type="checkbox" value="true"
+									required checked="checked"/>
+								<p class="label">
+									Acepto <a href="/metrocuadrado-header/terminoscondiciones" target="_blank">pol&iacute;ticas y t&eacute;rminos</a> - 
+									<a href="/metrocuadrado-header/avisoprivacidad" target="_blank">
+									Aviso de privacidad</a> y enviar mis datos al anunciante.
+								</p>
+							</div>
+						</div>
+						<div id='recaptcha' class="g-recaptcha"
+          					data-sitekey="6LfYbS8UAAAAABhCMbOXtggcRIDoalxGxBDNAqHU"
+			          		data-callback="onSubmit"
+          					data-size="invisible">
+          				</div>
+						<div class="boton">
+							<button id="btnMainContact" onclick="eventHandlerFormMainContact(this)"
+								class="m_btn">Contactar y Ver tel&eacute;fono</button>
+						</div>
+					</div>
+				</form>
+				<!-- Fin contacto por email -->
+				<!-- Inicio mensaje contacto por email exitoso -->
+				<div class="detalle_mensaje_contacto exitoso mainContact"
+					style="display: none;">
+					<div id="contactProjectPhones">
+	<p>
+		<strong>Gracias!</strong>Tu mensaje fue enviado
+	</p>
+	<span>Puedes contactarte con el anunciante a los siguientes tel&eacute;fonos:</span> <br>
+
+	<ul>
+			<!-- 	nombre de la sala de venta -->
+				<li><strong>Sala de Ventas</strong></li>
+					<!-- 	telefonos de las salas -->
+					<!-- 	telefonos con extension -->
+						<li>(1) 7430066 Ext: 531</li>
+									<!-- 	telefonos con extension -->
+						<li>
+											3213137286</li>
+									</ul>
+		<div class="llamar_formulario">
+			<!-- callme -->
+</div>
+	<hr>
+</div>
+
+
+<div id="contactPhonesProjectGalery" style="display:none; ">
+	<style>
+	   	.phonesGalleryContainer .phonesSalesRoom ul{
+	        display:inline-block;  
+	        vertical-align:middle;
+	        margin-right:10px;   
+	       }
+	</style>
+	<p id="galleryContactMessage" style="display: inline-block;">
+			<strong>Gracias!</strong> Tu mensaje fue enviado
+		</p>
+		<span>Tel&eacute;fonos Salas de Venta:</span>	
+		<div class="phonesSalesRoom" style="display:inline-block; vartical-align:middle;">
+			<!-- 	nombre de la sala de venta -->
+				<ul>
+					<li><strong>Sala de Ventas</strong>
+						<!-- 	telefonos de las salas -->
+						<ul>
+							<!-- 	telefonos con extension -->
+								<li>(1) 7430066 Ext: 531</li>
+											<!-- 	telefonos con extension -->
+								<li>
+													3213137286</li>
+											</ul>
+					</li>
+				</ul>
+			</div>
+	</div>
+</div>				
+				<!-- Fin mensaje contacto por email exitoso -->
+				<!-- Inicio mensaje contacto por email fallido Captcha -->
+				<div class="detalle_mensaje_contacto errorCaptcha" style="display: none;">
+					<p>Los datos del captcha no corresponden</p>
+				</div>
+				<!--Fin mensaje contacto por email fallido Captcha-->
+				<!-- Inicio mensaje contacto por email fallido -->
+				<div class="detalle_mensaje_contacto error" style="display: none;">
+					<p>Su mensaje no pudo ser enviado</p>
+				</div>
+				<!--Fin mensaje contacto por email fallido -->
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Fin caja contacto escritorio -->
+<!-- Inicio Fondo Modal Contacto para escritorio -->
+<div class="desktop_contact_background"></div>
+<!-- Fin Fondo Modal Contacto para escritorio -->
+<div id="list-hide" class="mfp-hide" data-property-url="/detail/inmueble/reportar"
+	data-project-url="/detail/proyecto/reportar">
+  <div class="m_popup_hide_ad contenedor_reportar_anuncio">
+     <h2 class="title">Reportar anuncio</h2>
+     <p>¿Por qué quiere reportar el anuncio?</p>
+     <ul>
+       <li><a href="#" reasonNumber="1" class="ad_price">Precio (diferente al publicado)</a></li>
+       <li><a href="#" reasonNumber="2" class="ad_sold">Ya se vendi&oacute; / arrend&oacute;</a></li>
+       <li><a href="#" reasonNumber="3" class="ad_area">Área (diferente a la publicada)</a></li>
+       <li><a href="#" reasonNumber="4" class="ad_location">Ubicación (diferente a la del anuncio)</a></li>
+       <li><a href="#" reasonNumber="0" class="ad_other tab">Otro</a></li>
+     </ul>
+   <div class="ad_other_form">
+      <div class="input_box">
+        <label for="other_reason">otro</label>
+        <input type="text" id="other_reason" for="other_reason" maxlength="50" required>
+      </div>
+      <div class="control">
+        
+<a href="#" reasonNumber="0" class="m_btn inline " >
+  Enviar
+</a>
+
+
+        <a href="#" class="cancel tab">cancelar</a>
+      </div>
+   </div>
+</div>
+
+<!-- Inicio Mensaje Confirmación Anuncio Reportado -->
+<div class="reportar_confirmacion">
+  <h2>Anuncio reportado exitosamente</h2>
+  <p>El anuncio ha sido reportado por <span>Precio (diferente al publicado)</span></p>
+</div>
+<!-- Fin Mensaje Confirmación Anuncio Reportado -->
+
+
+</div></div>
+</div>
+
+<div data-hide-sidebar-sticky></div>
+
+<div id="divUbicacion" class="m_m_collapsable_wrapper collapsable_map"data-m-collapse="visible">
+		<h3 class="m_m_collapsable_wrapper_title show_on_mobile" data-m-collapse-link>Ubicaci&oacute;n</h3>
+		<div class="m_m_collapsable_wrapper_content" data-m-collapse-content>	
+			<div id="contentGeo" data-urlmap="/detail/mapa/ajax/3457-C00001-20"
+			data-urlmaplib="/detail/mapa/ajax/google">
+				<input type="hidden" id="urlGoogle" value="https://maps.googleapis.com/maps/api/js?v=3.23&sensor=false&channel=m2_web_detallenuevo&client=gme-casaeditorialeltiempo&region=co&libraries=places" />
+<input type="hidden" id="metrocuadradoMapas" value="/estatico/metrocuadrado-detail/js/metrocuadradoMapas.js" />
+<input type="hidden" id="namespacejs" value="/estatico/metrocuadrado-detail/js/Namespace.js" />
+<input type="hidden" id="clientminjs" value="/estatico/metrocuadrado-detail/js/client.min.js" />
+<input type="hidden" id="georeferenced" value="S" />
+<input type="hidden" id="builderMap" value="S" />
+<div id="ubicacion_y_valorizacion" name="ubicacion_y_valorizacion">
+
+			<input type="hidden" id="latitude" value="4.666546">
+			<input type="hidden" id="longitude" value="-74.04511">
+
+			<div data-tabs="" class="m_location_map detail">
+				<div class="wrapper">
+					<div class="m_location_map_tooltip_1" style="z-index: 5; position: absolute; margin-top: 0px;">
+						<div class="fake_select hide_for_desktop">Tipo de visualización</div>
+						<ul data-toggle-content="">
+							<li class="boton_mapa_ubicacion tabMapaConstructora" data-name="Mapa de Ubicacion" data-toggle-item="">
+								<a data-tabs-tab="" class="" id="btn_map"> Ubicación del proyecto </a>
+							</li>
+							<li class="boton_streetview tabMapaConstructora" data-name="Street View" data-toggle-item="" id="btn_street">
+								<a class="">Street View</a>
+							</li>
+							<li class="boton_mapa_constructor tabMapaConstructora" data-name="Como LLegar" data-toggle-item="">
+								<a data-tabs-tab="" class="last active">Mapa del constructor</a>
+							</li>
+						</ul>
+					</div>
+					<div class="m_location_map_tooltip_2_wrapper" style="display:none">
+						<a href="#" class="m_order_list_btn hide_for_mobile hide_for_tablet"> lista de viviendas </a>
+						<div class="m_location_map_tooltip_2 check_puntos_interes">
+							<div class="form_checkbox">
+								<span class="checkbox webkit webkit45 not_msie custom-form_check_01"><input id="check_01" class="interestCheck" name="check_01" type="checkbox" value="false"></span>
+								<label for="check_01" class="form_label form_label_inline">Puntos de Interés</label>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="map-img-wrapper">
+					<img srcset="/estatico/metrocuadrado-detail/images/content/mapa_detalle_650x300.jpg 767w,
+							/estatico/metrocuadrado-detail/images/content/mapa_detalle_900x300.jpg 990w,
+							/estatico/metrocuadrado-detail/images/content/mapa_detalle_1600x500.jpg 1200w"
+								 class="imagen_mapa" alt="" src="/estatico/metrocuadrado-detail/images/content/mapa_detalle_1600x500.jpg"
+								 style="display: none; width:100%;"/>
+						<img class="imagen_mapa_constructor" src="/files/logos/company/1306/buildermap298.png?1547990910291" onError="this.src='/estatico/metrocuadrado-detail/images/content/mapa_constructor_detalle_1600x500.jpg'"
+						 style="display: block; " >
+				</div>
+			</div>
+
+		</div>
+		<div class="contenedor_lightbox mapa_nuevos" id="modalMap" style="display: none;">
+			<div class="cerrar">X</div>
+		   	<div class="mapa_contenedor">		       	
+		       	<div id="mapaMetrocuadrado" style="width:100%; height:100%"></div>
+		       	<img class="imagen_mapa_constructor" src="/files/logos/company/1306/buildermap298.png?1547990910291" onError="this.src='/estatico/metrocuadrado-detail/images/content/mapa_constructor_detalle_1600x500.jpg'" style="display: block;">
+		   	</div>
+		</div>
+	<div id="contentGeoLibs"></div>
+			</div>
+		</div>
+	</div>
+<div class="wrapper">
+	<div class="m_m_collapsable_wrapper " data-m-collapse="visible">
+		<h3 class="m_m_collapsable_wrapper_title show_on_mobile"
+			data-m-collapse-link>Sala de ventas</h3>
+		<div class="m_m_collapsable_wrapper_content" data-m-collapse-content>
+			<div id="sala_de_ventas" name="sala_de_ventas"></div>
+			<div class="m_realestate_info">
+				<div class="m_realestate_info_col_1">
+					<div class="m_re_details">
+						<div class="cargando" id="salesRoomContainer" 
+									data-url="/detail/proyecto/ajax/saleRooms/3457-C00001"></div>
+							</div>
+				</div>
+				<div class="m_realestate_info_col_2">
+						<div class="wrapper detail_form right">
+							<div id="formCallMeContainer_SR" class="fromCallMeContainer"
+	style="display: block;">
+	<p>Quiero que me contacten</p>
+		<form id="formCallMe_SR" action="javascript:void(0)"
+		data-form-action="/detail/proyecto/contact/ajax/send.do"
+		class="formCallMe" enctype="multipart/form-data">
+		<!-- necessary data -->
+		<input type="hidden"
+			name="projectId" value="298" />
+		<input type="hidden" name="visitorId" value="" /> <input
+			type="hidden"
+			name="interestingProjectIds"
+			value="1249,290" /> <input type="hidden" name="companyId"
+			value="1306" /> <input type="hidden" name="contactType"
+			value="Quiero que me llamen" /> <input type="hidden" name="isCallMe"
+			value="true" /> <input type="hidden" name="requestURI" value="" />
+		<!-- parametros que especifica que el contacto es hecho desde la Galeria -->
+		<input type="hidden" name="formSource" value="L" /> <input type="hidden"
+			name="cookieBlockContact"
+			value="false" /> <input
+			type="hidden" name="callMeToken" value="" />
+		<input type="hidden" name="contactPoint" value="1" />
+			<input type="hidden" name="projectCode" value="3457-C00001" />
+			<input class="contact_propertyTypeId" type="hidden" name="propertyTypeId"
+				value="3457-C00001-20" />
+		<input type="hidden" name="city" value="1" />
+		<!--end necessary data -->
+		<div class="campo form-group" data-message="Ingrese su nombre"
+			style="margin: 0 0 20px 0;">
+			<div class="form-control-wrapper form-control-wrapper-full">
+				<input type="text" id="contact_name" name="name" required
+					placeholder="Nombre" aria-required="true" maxlength="90"
+					placeholder="Nombre" data-max="90" onkeypress="return validarNombre(event)"
+					class="form-control required validateMaxLength validateMinLength"
+					value="">
+				<div class="errorReq error"></div>
+			</div>
+		</div>
+		<div class="campo form-group" data-message="Ingrese su tel&eacutefono">
+			<div class="form-control-wrapper form-control-wrapper-full">
+				<input type="text" id="contact_phone"
+					name="phone" required
+					placeholder="Tel&eacute;fono" aria-required="true" maxlength="20"
+					minlength="7" data-min="7" data-max="20"
+					onkeypress="return validarNUM(event)"
+					class="form-control telefono_campo validateMaxLength validateMinLength validateDigitRepeated required"
+					value="">
+				<div class="errorReq error"></div>
+			</div>
+		</div>
+		<div class="form_checkbox m_acceptance_box">
+				<input id="newsletter" name="newsletter" type="checkbox" value="true"
+					required="" aria-required="true" checked="checked"/>
+				<p class="label">
+					Acepto <a href="/metrocuadrado-header/terminoscondiciones" target="_blank">políticas y términos</a> - 
+					<a href="/metrocuadrado-header/avisoprivacidad" target="_blank">
+					Aviso deprivacidad</a> y enviar mis datos al anunciante.
+				</p>
+			</div>
+		<div class="boton">
+			<button onclick="eventHandlerForFormCallMe(this)" class="m_btn">Enviar</button>
+		</div>
+		</form>
+</div>
+<!-- Inicio mensaje quiero que me llamen exitoso -->
+<div id="mensajeExitosoCallmeDesk" class="detalle_mensaje_contacto exitoso"
+	style="display: none;">
+	<p>
+		<strong>Gracias!</strong>Tus datos fueron enviados, pronto nos comunicaremos
+		contigo.
+	</p>
+</div>
+<!-- Fin mensaje quiero que me llamen exitoso -->
+<div class="clear"></div>
+</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- Información de la constructora/ -->
+<div class="realstate_info_container">
+	<!-- Inicio información Constructora -->
+<div class="realstate_info">
+     <div class="datos_inmobiliaria">	
+			<p class="name">COLOMBIANA DE EDIFICACIONES SAS</p>
+			<p>CALLE 119 # 72A - 26</p>
+			<p class="more">
+				<a href="https://www.metrocuadrado.com/constructora/colombiana-de-edificaciones-sas/1306"> 
+				
+	   						Conoce m&aacute;s proyectos de esta Constructora
+	   					</a>
+			</p>						
+	   </div>
+     </div>
+<!-- Fin información Constructora --></div>
+
+<!-- Módulo Quiero Que Me Contacten para móvil -->
+<div class="wrapper detail_form mobile">
+	<div id="callmedivMobile_SR" class="formCallMeMobileContainer"
+	style="display: block;">
+	<p>Quiero que me contacten</p>
+		<form id="formCallMeMobile_SR" class="formCallMeMobile"
+		action="javascript:void(0)"
+		data-form-action="/detail/proyecto/contact/ajax/send.do"
+		enctype="multipart/form-data">
+		<!-- necessary data -->
+		<input type="hidden"
+			name="projectId" value="298" />
+		<input type="hidden" name="visitorId" value="" /> <input
+			type="hidden"
+			name="interestingProjectIds"
+			value="1249,290" /> <input type="hidden" name="companyId"
+			value="1306" /> <input type="hidden" name="contactType"
+			value="Quiero que me llamen" /> <input type="hidden" name="formSource"
+			value="L" /> <input type="hidden" name="city" value="1" /> <input
+			type="hidden" name="isCallMe" value="true" /> <input type="hidden"
+			name="requestURI" value="" /> <input type="hidden" name="cookieBlockContact"
+			value="false" /> <input
+			type="hidden" name="callMeToken" value="" />
+		<!-- parametros que especifica que el contacto es hecho desde la Galeria -->
+		<input type="hidden" name="contactPoint" value="1" />
+			<input type="hidden" name="projectCode" value="3457-C00001" />
+		<div class="campo form-group" data-message="Ingrese su nombre"
+			style="margin-botton: 10px;">
+			<div class="form-control-wrapper form-control-wrapper-full">
+				<input type="text" id="contact_name" name="name" required
+					placeholder="Nombre" aria-required="true" maxlength="90"
+					placeholder="Nombre" data-max="90" onkeypress="return validarNombre(event)"
+					class="form-control required validateMaxLength validateMinLength"
+					value="">
+				<div class="errorReq error"></div>
+			</div>
+		</div>
+		<div class="campo form-group" data-message="Ingrese su tel&eacutefono">
+			<div class="form-control-wrapper form-control-wrapper-full">
+				<input type="text" id="contact_phone"
+					name="phone" required
+					placeholder="Tel&eacute;fono" aria-required="true" maxlength="20"
+					minlength="7" data-min="7" data-max="20"
+					onkeypress="return validarNUM(event)"
+					class="form-control telefono_campo validateMaxLength validateMinLength validateDigitRepeated required"
+					value="">
+				<div class="errorReq error"></div>
+			</div>
+		</div>
+		<div class="form_checkbox m_acceptance_box">
+			<input id="newsletter" name="newsletter" type="checkbox" value="true"
+				required="" aria-required="true" checked="checked" />
+			<p class="label">
+				Acepto <a href="/metrocuadrado-header/terminoscondiciones" target="_blank">políticas y términos</a> - 
+				<a href="/metrocuadrado-header/avisoprivacidad" target="_blank">
+				Aviso deprivacidad</a> y enviar mis datos al anunciante.
+			</p>
+		</div>
+		<div class="boton" style="margin-bottom: 15px;">
+			<button onclick="eventHandlerForFormCallMeMobile(this)" class="m_btn">Enviar</button>
+		</div>
+	</form>
+</div>
+<!-- Inicio mensaje quiero que me llamen exitoso -->
+<div id="mensajeExitosoCallmeMobile" class="detalle_mensaje_contacto exitoso"
+	style="display: none;">
+	<p>
+		<strong>Gracias!</strong>Tus datos fueron enviados, pronto nos comunicaremos
+		contigo.
+	</p>
+</div>
+<!-- Fin mensaje quiero que me llamen exitoso -->
+<div class="clear"></div>
+</div>
+<!-- Inicio Formulario Boletín -->
+<div class="wrapper detail_form newsletter">
+	<style>
+		#form-newsletter-subscription div.form-group{
+			margin-bottom: 0;
+		}
+		#form-newsletter-subscription .campo input {
+			margin-top:0;
+			height:44px;		
+		}
+	</style>
+  <div class="filter_image"></div>
+	<img class="lazyload"
+		data-src="/estatico/metrocuadrado-detail/images/content/detail_newsletter_image.jpg"
+		data-srcset="/estatico/metrocuadrado-detail/images/content/detail_newsletter_image_mobile.jpg 600w,
+             /estatico/metrocuadrado-detail/images/content/detail_newsletter_image_mobile.jpg 800w,
+                /estatico/metrocuadrado-detail/images/content/detail_newsletter_image.jpg 1200w">
+	<div class="form_newsletter">
+    <p class="title">¿Quieres recibir nuestro boletín y las últimas noticias?</p>
+      <form action="javascript:void(0);" style="display: block;" id="form-newsletter-subscription">
+		<div class="campo form-group" data-message="Ingrese su correo">
+			<div class="form-control-wrapper form-control-wrapper-full">
+				<input type="email" id="contact_email_email" name="email"
+					placeholder="Email" maxlength="90" data-max="90"
+					class="form-control contentMail validateMaxLength validateMinLength required"/>
+				<div class="errorReq error"></div>	
+			</div>
+		</div>
+							
+		<div class="boton">
+        	<button class="m_btn">Suscribirse</button>
+        </div>
+		
+        <div class="form_checkbox m_acceptance_box">
+	        <span class="checkbox webkit webkit61 not_msie custom-form_newsletter">
+	        	<input id="newsletter" name="newsletter" type="checkbox" value="true" checked="checked" required="" aria-required="true">
+	        </span>
+	        <p class="label">
+	        	Acepto <a href="/metrocuadrado-header/terminoscondiciones" target="_blank">pol&iacute;ticas y t&eacute;rminos </a> 
+				<a href="/metrocuadrado-header/avisoprivacidad" target="_blank">- Aviso de privacidad</a> y enviar mis datos al anunciante.
+	        </p>
+        </div>
+      </form>
+	  <div class="clear"></div>
+  </div>
+  <script type="text/javascript">
+  	
+  	
+  </script>
+</div>
+<!-- Fin Formulario Boletín -->
+<hr class="separator" />
+<hr class="separator show_on_mobile" />
+
+<!-- </div> -->
+<input type="hidden" id="currentDeviceMobile" value="false" />
+<input type="hidden" id="currentDeviceTablet" value="false" />
+<input type="hidden" id="currentDeviceNormal"	value="false" />
+<input type="hidden" id="currentDevicePlatform"	value="false" />
+
+<div class="bannerBarraFijaDetalle"></div>
+<div class="footer">
+<header>
+	<div class="m_real_estate_list">
+				<div class="wrapper">
+					<h2 class="title">Inmuebles en venta o arriendo en Colombia DETALLES</h2>
+					</div>
+			</div>
+		</header>
+<div class="m_contact_social">
+		<div class="wrapper">
+			<div class="contact">
+				<div class="col">
+					<h3 class="title">
+						Oficinas<br />Metrocuadrado
+					</h3>
+					<p>
+						Avenida de calle 26 No. 68B-70<br /> Casa Editorial El Tiempo.
+						Bogotá.<br />Colombia.<br /> (571)425 1734
+					</p>
+				</div>
+				<div class="col last">
+					<strong>Línea Nacional</strong>
+					<p>
+						01 8000 115 252
+					</p>
+				</div>
+				<div class="col contactenos">
+			        <a style="backgound-image:url('/estatico/metrocuadrado-detail/images/icons/png/contact-icon.png')" 
+			        	href="/metrocuadrado-header/contactenos">Contáctanos</a>
+			    </div>
+			</div>
+
+			<div class="col s-col social">
+				<h3 class="title">Síguenos en</h3>
+				<ul>
+					<li><a href="https://twitter.com/metrocuadrado" target="_blank"><span class="sm_tw">Tweeter</span></a></li>
+					<li><a href="http://www.facebook.com/metrocuadradocom" target="_blank"><span class="sm_fb">Facebook</span></a></li>
+					<li><a href="https://www.instagram.com/metrocuadradooficial/?utm_source=ig_profile_share&igshid=1srxatoub206l" target="_blank"><span class="sm_go">Instagram</span></a></li>
+					<li><a href="https://www.youtube.com/user/METROCUADRADOcom" target="_blank"><span class="sm_yt">You Tube</span></a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- ./wrapper -->
+	</div>
+	<!-- ./m_contact_social-->
+	<div class="m_footer_others">
+		<div class="wrapper">
+			<ul class="legal">
+				<li><a href="/metrocuadrado-header/terminoscondiciones" target="_blank">Política y términos</a></li>
+				<li><a href="/metrocuadrado-header/avisoprivacidad" target="_blank">Aviso de privacidad</a></li>
+				<li><a href="/metrocuadrado-header/politicaCookies" target="_blank">Política Datos de Navegación</a></li>
+				<li><a href="https://www.eltiempo.com/linea-etica" target="_blank"> Línea Ética</a></li>
+				<li><a href="/metrocuadrado-header/contactenos?tipoContacto=quejasYReclamos" target="_blank">Quejas y reclamos</a></li>
+				<li><a href="/metrocuadrado-header/ayuda" target="_blank">ayuda</a></li>
+			</ul>
+			<hr />
+			<h3 class="title">Nuestros portales especializados</h3>
+			<ul class="portals_icons">
+				<li><a href="https://clasificados.eltiempo.com/" target="blank"><span class="pt_clasified">El tiempo clasificados</span></a></li>
+				<li><a href="http://www.elempleo.com/colombia/trabajo/ofertas.aspx" target="blank"><span class="pt_job">El empleo</span></a></li>
+				<li><a href="http://www.carroya.com/" target="blank"><span class="pt_motor">Carroya</span></a></li>
+				<li><a href="http://www.guiaacademica.com/" target="blank"><span class="pt_studies">guia académica</span></a></li>
+				<li><a href="https://goo.gl/KJk6hu" target="blank"><span class="pt_contrato">TratoconTrato</span></a></li>
+				
+			</ul>
+			<hr />
+			<div class="logo_tiempo">
+				<a href="#"><span> el tiempo </span></a>
+			</div>
+			<div class="info-logo-superint">
+				<p class="info" style="text-align: center">
+				
+					Copyright &copy; 2019 Metrocuadrado.com. Usar este site implica que
+					usted acepta nuestras <a href="/metrocuadrado-header/terminoscondiciones" target="_blank" >Políticas y Términos | 
+					<a href="/metrocuadrado-header/avisoprivacidad" target="_blank"> Aviso
+						de Privacidad</a> <br /> Prohibida su reproducción total o parcial,
+					así como su traducción a cualquier idioma sin autorización escrita
+					de su titular.
+				</p>
+				<a href="http://www.sic.gov.co/" target="blank">
+					<img class="lazyload" data-src="/estatico/metrocuadrado-header-resources/images/icons/png/logo_super_industria_comercio.png"
+					 alt="Logo - Superintendencia de Industria y comercio" />
+				</a>				
+			</div>
+			
+			<div class="portals_list">
+				<div class="accordion_footer">
+					<div data-collapsable class="accordion_collapsable"
+						data-collapsable-group="group_01">
+						<a class="title" href="#" data-collapsable-toggle>Conoce
+							nuestra red de portales</a>
+						<div data-collapsable-content>
+							<ul class="col s-col">
+								<li><a href="http://www.portafolio.co/" target="blank">PORTAFOLIO.CO - </a> Noticias de Econom&iacute;a</li>
+								<li><a href="http://bogota.vive.in/bogota/index.html" target="blank">VIVE.IN - </a> Planes en Bogot&aacute;</li>
+								<li><a href="http://www.futbolred.com/" target="blank">FUTBOLRED.COM - </a> F&uacute;tbol colombiano</li>
+								<li><a href="http://www.carroya.com/" target="blank">CARROYA.COM - </a> Venta de carros</li>
+								<li><a href="http://www.revistadonjuan.com/" target="blank">REVISTADONJUAN.COM - </a> Fotos de mujeres</li>
+							</ul>
+							<ul class="col s-col">
+								<li><a href="http://www.abcdelbebe.com/" target="blank">ABCDELBEB&Eacute;.COM - </a> Embarazo</li>
+								<li><a href="http://diarioadn.co/" target="blank">MOTOR.COM.CO - </a> Carros y motos</li>
+								<li><a href="http://diarioadn.co/" target="blank">DIARIOADN.CO - </a> Noticias de Bogot&aacute;</li>
+								<li><a href="http://www.guiaacademica.com/" target="blank">GUIA ACADEMICA.COM - </a> Educaci&oacute;n</li>
+								<li><a href="http://alo.co/" target="blank">ALO.CO - </a> Consejos para mujeres</li>
+							</ul>
+							<ul class="col s-col">
+								<li><a href="http://www.elempleo.com/colombia/trabajo/ofertas.aspx" target="blank">ELEMPLEO.COM - </a> Clasificados de trabajo</li>
+								<li><a href="http://www.circulodelectores.com.co/" target="blank">C&Iacute;RCULODELECTORES.COM.CO - </a> Venta de libros</li>
+								<li><a href="https://clasificados.eltiempo.com/" target="blank">CLASIFICADOS.ELTIEMPO.COM - </a> Clasificados</li>
+								<li><a href="http://www.citytv.com.co/" target="blank">CITYTV.COM.CO - </a> Videos de entrenimiento</li>
+								<li><a href="http://www.eltiempo.com/" target="blank">ELTIEMPO.COM - </a> Portal de noticias</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- ./portal_list -->
+		</div>
+		<!-- ./wrapper -->
+	</div>
+	<!-- ./m_footer_others -->
+
+
+
+
+</div>
+<!-- Inicio slider detalle principal -->
+  <div id="slider_contenedor_principal" class="slider_contenedor principal" style="display: none;"></div>
+  <!-- Fin slider detalle principal -->
+
+  <!-- Inicio slider detalle tipo 1 -->
+  
+  <div id="slider_contenedor_tipo_1" class="slider_contenedor tipo_1" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_2" class="slider_contenedor tipo_2" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_3" class="slider_contenedor tipo_3" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_4" class="slider_contenedor tipo_4" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_5" class="slider_contenedor tipo_5" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_6" class="slider_contenedor tipo_6" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_7" class="slider_contenedor tipo_7" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_8" class="slider_contenedor tipo_8" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_9" class="slider_contenedor tipo_9" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_10" class="slider_contenedor tipo_10" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_11" class="slider_contenedor tipo_11" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_12" class="slider_contenedor tipo_12" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_13" class="slider_contenedor tipo_13" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_14" class="slider_contenedor tipo_14" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_15" class="slider_contenedor tipo_15" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_16" class="slider_contenedor tipo_16" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_17" class="slider_contenedor tipo_17" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_18" class="slider_contenedor tipo_18" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_19" class="slider_contenedor tipo_19" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_20" class="slider_contenedor tipo_20" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_21" class="slider_contenedor tipo_21" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_22" class="slider_contenedor tipo_22" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_23" class="slider_contenedor tipo_23" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_24" class="slider_contenedor tipo_24" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_25" class="slider_contenedor tipo_25" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_26" class="slider_contenedor tipo_26" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_27" class="slider_contenedor tipo_27" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_28" class="slider_contenedor tipo_28" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_29" class="slider_contenedor tipo_29" style="display: none;"></div>
+  <div id="slider_contenedor_tipo_30" class="slider_contenedor tipo_30" style="display: none;"></div>
+  <!-- Fin slider detalle tipo uno -->
+
+<input type="hidden" id="projectGaleryUrl" value="/detail/ajax/imagen/projectgallery/"/>
+<input type="hidden" id="propertyTypeGaleryUrl" value="/detail/ajax/imagen/propertytypegallery/"/>
+<input type="hidden" id="projectId" value="298"/>
+<input type="hidden" id="projectCode" value="3457-C00001"/>
+<input type="hidden" id="propertyIdHidden" value="3457-C00001-20"/>
+<input type="hidden" id="nameProjectDescription" value="Apartamentos nuevos en Venta en La cabrera,Bogotá D.C." />
+<input type="hidden" id="urlProperty" value="https://www.metrocuadrado.com/proyecto/cenit-de-la-cabrera/3457-C00001"/>
+
+<input type="hidden" id="typeDetail" value="project"/>
+<div class="contenedor_compartir" style="display: none;"></div>
+<input type="hidden" id="urlClickLogoBuilderDetail" src="/detail/statistics/project/ajax/clicklogobuilderdetail"/>
+<input type="hidden" id="urlClickprojectlogodetail" src="/detail/statistics/project/ajax/clickprojectlogodetail"/>
+
+<input type="hidden" id="urlNumberofClicksInShowPhone" value="/detail/statistics/project/ajax/numberofclicksinshowphone"/>
+<input type="hidden" id="urlNumberofClicksInShowPhonePropertyType" value="/detail/statistics/project/ajax/numberofClicksonshowphonepropertytype"/>
+
+<input type="hidden" id="urlclickCallButtonProject" value="/detail/statistics/project/ajax/clickCallButtonProject"/>
+<input type="hidden" id="urlclickWhatsappButtonProject" value="/detail/statistics/project/ajax/clickWhatsappButtonProject"/>
+
+<input type="hidden" id="companyId" value="1306"/>
+<input type="hidden" id="projectStatus" value="P"/>
+<input type="hidden" id="preview" value=""/>
+<input type="hidden" id="urlNewsProjectStatic" value="https://www.metrocuadrado.com/estatico/json/detalle/detalle_notas_nuevos.json"/>
+<input type="hidden" id="staticUrlLoadNews" value="/detail/news/ajax/load/static"/>
+</div>
+
+	</div>
+
+
+
+	<input type="hidden" id="basepath"
+		value="/detail" />
+
+
+	<!-- Imágenes responsive -->
+	<script>
+		// Picture element HTML5 shiv
+		document.createElement("picture");
+	</script>
+
+	<!-- Imágenes lazyLoad -->
+
+	<script type="text/javascript">_satellite.pageBottom();</script>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTMXDZ"
+			height="0" width="0" style="display: none; visibility: hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"65a5f3086e","agent":"","beacon":"bam.nr-data.net","applicationTime":437,"applicationID":"41151898","transactionName":"MwcHNhMEVhVSUUYPCwpNNhITDFYBcF1cEhYLDgkHE0pbCV1GUwUQC00GAw0JVQMcSVYDEg0BAB9BTX8jZxs=","queueTime":0}</script></body>
+
+
+
+</html>

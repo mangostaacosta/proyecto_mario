@@ -1,0 +1,372 @@
+
+  PRODUCCION
+
+  *
+    Home
+
+    <index1.php>
+  *
+    Operación
+
+    <#>
+      o
+        Captura manual
+
+        <inserta_inm.php>
+      o
+        Captura automática
+
+        <#>
+          +
+            Descarga MC
+
+            <form_mc.php>
+          +
+            Reset Captura
+
+            <borra_oferta.php>
+          +
+            Datos N1 estándar
+
+            <pre_parser.php>
+          +
+            Datos N1 especial
+
+            <parser1a.php>
+          +
+            Datos N2
+
+            <parser2a.php>
+          +
+            Insertar a BD
+
+            <metedatos_2.php>
+          +
+            Datos N3 (seg)
+
+            <parser3a.php>
+      o
+        Depuración
+
+        <#>
+          +
+            Limpieza datos
+
+            <depurador.php>
+          +
+            Revisar gemelos
+
+            <emparejador.php>
+          +
+            Indicadores x inmueble
+
+            <indicadores.php>
+          +
+            Prolongar inmuebles
+
+            <finalizador.php>
+      o
+        Tablas
+
+        <#>
+          +
+            Datos Mínimos
+
+            <tabla_barrios01.php>
+          +
+            Seleccionar
+
+            <tabla_barrios02.php>
+          +
+            Comparativo MC
+
+            <tabla_barrios03.php>
+          +
+            Por zonas
+
+            <tabla_zonas_2.php>
+          +
+            Todos
+
+            <tabla_barrios00.php>
+      o
+        Intertemporal
+
+        <#>
+          +
+            Comparativo Mensual
+
+            <compara_tiempo.php>
+          +
+            Rotación
+
+            <indicadores_rotacion.php>
+      o
+        Seguimiento
+
+        <#>
+          +
+            Ofertas
+
+            <informe_baratos.php>
+          +
+            Inmuebles
+
+            <seguimiento.php>
+          +
+            Barrios
+
+            <seguir_barrios.php>
+  *
+    Administración
+
+    <#>
+      o
+        Conteo Fechas
+
+        <tabla_cargas.php>
+      o
+        Corte Mensual
+
+        <indicadores_corte.php>
+      o
+        Generar idBarrios
+
+        <crea_t_barrio.php>
+  *
+    Shortcuts
+
+    <#>
+      o
+        Listado barrio
+
+        <vecinos.php>
+      o
+        Editar inmueble
+
+        <edita_inm.php>
+      o
+        Matriz evaluación
+
+        <evaluador.php>
+      o
+        Presupuesto remodelación
+
+        <edita_presupuesto.php>
+
+Guía de Usuario
+Dentro de get_info
+80
+http://www.metrocuadrado.com/servlet/co.com.m2.servlet.ajax.MostrarInmueblesFastJson?requestXML=1&mciudad=Bogota&mtipoinmueble=Apartamentos&mvalorventa=0;500000000&mzona=Norte&mestadoinmueble=Usado&mtiempoconstruido=Entre%200%20y%205%20a%C3%B1os&irA=1
+{"inmuebles":[{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":81.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":null,"ValorNegocio":"$
+385.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/771-3944\/771-3944_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"771-3944","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/cedritos\/apartamento-cedritos-usaquen-81mts_771-3944?idInmueble=771-3944","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"2","CintaProyecto":" ","VisitorId":458172,"ComentarioPublicacion":"Estrene
+hermoso apto exterior, vista maravillosa a los cerros orientales,dos
+alcobas,dos ba�os,un parqueadero cubierto, dos depositos, chimenea a
+gas, terraza que comunica la sala, y las dos alcobas, tiene gas para
+colocar un BBQ. Cocina abierta,zona lavanderia. El edificio tiene salon
+multiple,salon de juegos,audivisuales,sala de estudio,salon
+reuniones,terraza comunal con sendero de trote. dos BBQ, y gimnasio.
+Hermoso apto, hermoso edificio.Inf:
+ojaramillo@inmobiliariosg15.com","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"ojaramillo@inmobiliariosg15.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":70.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":null,"ValorNegocio":"$
+400.000.000","TipoNegocio2":"Venta y
+Arriendo","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/771-3031\/771-3031_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"771-3031","UrlDetalle":"\/venta-arriendo\/apartamento\/bogota\/norte\/country\/apartamento-lacalleja-70mts_771-3031?idInmueble=771-3031","Zona":"Norte","LogoResultado":"
+<http:\/\/www.metrocuadrado.com\/micrositesPlus\/patriciamg15\/indexM2.html><\/a>","Banos":"2","NroCuartos":"2","CintaProyecto":" ","VisitorId":458163,"ComentarioPublicacion":"Inf.
+Flor Jim�nez Excelente exterior, quinto piso, excelente luz, sala
+comedor con balc�n, cocina abierta, zona de lavander�a, dos alcobas,
+estudio, dos ba�os, techos altos, excelentes acabados, dos garajes y
+dep�sito, edificio con terraza comunal BBQ, parqueos visitantes, sal�n
+social. Lind�simo, muy buen edificio, cerca a parques, muy buenas v�as
+de acceso. Edificio
+inteligente.","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta y
+Arriendo","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"fjimenez@inmobiliariosg15.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":57.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"el
+contador alcala","ValorNegocio":"$
+260.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/MC1247720\/MC1247720_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"1","IdInmueble":"MC1247720","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/country\/apartamento-elcontador-57mts_MC1247720?idInmueble=MC1247720","Zona":"Norte","LogoResultado":"","Banos":"2","NroCuartos":"1","CintaProyecto":" ","VisitorId":505462,"ComentarioPublicacion":"APARTAESTUDIO,con
+una habitaci�n muy c�moda, cuenta con cocina tipo americana y zona de
+lavander�a independiente, el edificio tiene zona de BBQ, gimnasio, salon
+comunal y dos
+ascensores","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"linamgarcia8@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":83.0,"FechaPublicacion":"hoy","NroBanos":"3","CodigoCiudad":"bogota","NombreComunBarrio":"CHICO
+SAN PATRICIO","ValorNegocio":"$
+480.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/317-991989\/317-991989_2_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"317-991989","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/santabarbara\/apartamento-sanpatricio-83mts_317-991989?idInmueble=317-991989","Zona":"Norte","LogoResultado":"
+<http:\/\/www.metrocuadrado.com\/micrositesPlus\/patriciamg15\/indexM2.html><\/a>","Banos":"3","NroCuartos":"2","CintaProyecto":" ","VisitorId":78713,"ComentarioPublicacion":"Apartamento
+interior de 2 alcobas, cada una con ba�o, ba�o social, cocina tipo
+americano. Pisos en madera, excelentes acabado. El edificio cuenta con
+sal�n comunal, gimnasio y zona de bbq en terraza. 3 a�os de
+construido.","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"sergioalvarez","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":84.0,"FechaPublicacion":"hoy","NroBanos":"3","CodigoCiudad":"bogota","NombreComunBarrio":"Santa
+Barbara Occidental","ValorNegocio":"$
+498.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-1058748\/3241-1058748_9_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"3241-1058748","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabarbaraoccidental-84mts_3241-1058748?idInmueble=3241-1058748","Zona":"Norte","LogoResultado":"<\/a>","Banos":"3","NroCuartos":"2","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento exterior para estrenar en tercer, quinto y sexto piso, super
+iluminado, buenos acabados, sala comedor en un solo ambiente, cocina
+abierta con lavaplatos el�ctrico y mes�n a granito, zona de lavander�a
+independiente, cada habitaci�n con su ba�o, dep�sito.
+","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":70.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Santa
+Barbara","ValorNegocio":"$ 430.000.000","TipoNegocio2":"Venta y
+Arriendo","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-1055354\/3241-1055354_3_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"3241-1055354","UrlDetalle":"\/venta-arriendo\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabarbaraoccidental-70mts_3241-1055354?idInmueble=3241-1055354","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"2","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento exterior con excelentes acabados, supremamente iluminado,
+sala comedor con chimenea, cocina abierta, zona de ropas, dep�sito.
+Edificio con terraza para BBQ, teatrino, mini gimnasio y sal�n social.
+En arriendo el valor de la administraci�n ya esta incluida en el
+canon","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta y
+Arriendo","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":80.0,"FechaPublicacion":"hoy","NroBanos":"3","CodigoCiudad":"bogota","NombreComunBarrio":"SANTA
+BARBARA ","ValorNegocio":"$ 470.000.000","TipoNegocio2":"Venta y
+Arriendo","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-906314\/3241-906314_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"3241-906314","UrlDetalle":"\/venta-arriendo\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabarbaraoccidental-80mts_3241-906314?idInmueble=3241-906314","Zona":"Norte","LogoResultado":"<\/a>","Banos":"3","NroCuartos":"2","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento exterior con balc�n, excelentes acabados super iluminado,
+sala comedor, cocina abierta, patio de ropas, dep�sito.
+BM","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta y
+Arriendo","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":59.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Santa
+Barbara Occidental","ValorNegocio":"$
+390.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-1058808\/3241-1058808_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"1","IdInmueble":"3241-1058808","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabarbaraoccidental-59mts_3241-1058808?idInmueble=3241-1058808","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"1","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento exterior en segundo, tercero y cuarto piso con buenos
+acabados super iluminado, sala comedor en un solo ambiente, cocina
+abierta, zona de ropas, dep�sito. Edificio con 20 parqueadero de
+visitantes y un mini gimnasio.
+","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":45.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Chico
+Navarra","ValorNegocio":"$ 285.000.000","TipoNegocio2":"Venta y
+Arriendo","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-1175507\/3241-1175507_4_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"1","IdInmueble":"3241-1175507","UrlDetalle":"\/venta-arriendo\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabibiana-45mts_3241-1175507?idInmueble=3241-1175507","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"1","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento lateral para estrenar, con excelentes acabados, super
+iluminado, cocina abierta con barra, sala comedor, dep�sito.
+","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta y
+Arriendo","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":78.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Cedritos","ValorNegocio":"$
+330.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-869841\/3241-869841_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"3","IdInmueble":"3241-869841","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/cedritos\/apartamento-loscedros-78mts_3241-869841?idInmueble=3241-869841","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"3","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento exterior esquinero con buenos acabados, iluminadisimo, sala
+comedor en un solo ambiente, biblioteca, cocina abierta tipo americana,
+punto de gas para secadora, ba�os enchapados, pisos en madera laminada,
+puerta de seguridad, dep�sito, shut de basuras, ascensor. Vigilancia las
+24 horas.
+LF","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":54.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Chico
+Navarra","ValorNegocio":"$
+395.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-911731\/3241-911731_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"1","IdInmueble":"3241-911731","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabibiana-54mts_3241-911731?idInmueble=3241-911731","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"1","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento para estrenar con balc�n interior esquinero, con excelentes
+acabados, muy iluminado, sala comedor con chimenea a gas, cocina abierta
+tipo americana, estudio, espacio para ropas, dep�sito. Edificio con
+sal�n comunal, lobby, parqueadero de visitantes.
+DB","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":100.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Santa
+Barbara Occidental","ValorNegocio":"$
+450.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-913463\/3241-913463_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"3241-913463","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabarbaraoccidental-100mts_3241-913463?idInmueble=3241-913463","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"2","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento exterior con terraza, esquinero, excelentes acabados, super
+iluminado, puerta de seguridad, hall de entrada, sala con chimenea a
+gas, comedor con balc�n, cocina abierta, zona de ropas, pisos en madera
+y porcelanato, dep�sito. Edificio con lobby, sal�n comunal, terraza con
+BBQ.
+SS","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":55.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Chico
+Navarra","ValorNegocio":"$ 360.000.000","TipoNegocio2":"Venta y
+Arriendo","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-867011\/3241-867011_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"1","IdInmueble":"3241-867011","UrlDetalle":"\/venta-arriendo\/apartamento\/bogota\/norte\/santabarbara\/apartamento-santabibiana-55mts_3241-867011?idInmueble=3241-867011","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"1","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento con balc�n, tipo loft interior con excelentes acabados,
+super iluminado, ba�o social, cocina tipo americana, zona de ropas,
+dep�sito. Edificio con sal�n comunal, parqueadero de visitantes, �reas
+h�medas, terraza con BBQ, gimnasio.
+","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta y
+Arriendo","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":78.0,"FechaPublicacion":"hoy","NroBanos":"3","CodigoCiudad":"bogota","NombreComunBarrio":"Cedritos","ValorNegocio":"$
+350.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-1023081\/3241-1023081_8_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"2","IdInmueble":"3241-1023081","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/cedritos\/apartamento-loscedrosoriental-78mts_3241-1023081?idInmueble=3241-1023081","Zona":"Norte","LogoResultado":"<\/a>","Banos":"3","NroCuartos":"2","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento interior con excelentes acabados, super iluminado, sala
+comedor con balconcito, cocina abierta, dep�sito. Edificio cuenta con
+gimnasio, golfito, terraza, piscina, teatrino y sal�n
+comunal.","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":102.0,"FechaPublicacion":"hoy","NroBanos":"3","CodigoCiudad":"bogota","NombreComunBarrio":"Cedritos","ValorNegocio":"$
+380.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-780657\/3241-780657_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"3","IdInmueble":"3241-780657","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/cedritos\/apartamento-acaciasusaquen-102mts_3241-780657?idInmueble=3241-780657","Zona":"Norte","LogoResultado":"<\/a>","Banos":"3","NroCuartos":"3","CintaProyecto":" ","VisitorId":153166,"ComentarioPublicacion":"Espectacular
+apartamento exterior, super iluminado, estudio, cocina, abierta, barra
+auxiliar, zona de lavander�a, dep�sito. Edificio con terraza comunal,
+sal�n social, parque infantil, gimnasio, sal�n de juegos y
+ascensor.","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"gcastro","PrecioNoche":null},{"CaracteristicaPrincipal":null,"Capacidad":0,"Area":65.0,"FechaPublicacion":"hoy","NroBanos":"2","CodigoCiudad":"bogota","NombreComunBarrio":"Santa
+Paula","ValorNegocio":"$
+420.000.000","TipoNegocio2":"Venta","TipoInmueble":"Apartamento","srcImagen":"http:\/\/metrocuadrado.blob.core.windows.net\/inmuebles\/3241-950018\/3241-950018_1_m.jpg","TipoInmuebleSeo":"Apartamento","Cuartos":"1","IdInmueble":"3241-950018","UrlDetalle":"\/venta\/apartamento\/bogota\/norte\/santabarbara\/apartamento-rincondelchico-65mts_3241-950018?idInmueble=3241-950018","Zona":"Norte","LogoResultado":"<\/a>","Banos":"2","NroCuartos":"1","CintaProyecto":" ","VisitorId":460961,"ComentarioPublicacion":"Espectacular
+apartamento exterior para estrear, con excelentes acabados supremamente
+iluminado, tipo loft, walkin closet, ba�o social, estudio, cocina
+abierta, zona de lavander�a independiente, sonido incorporado, pisos en
+madera, puerta de seguridad, dep�sito. Edificio con terraza comunal y 2
+BBQ.
+","CodigoRegion":"Cundinamarca","TipoNegocio":"Venta","Categoria":"Vivienda","Ciudad":"Bogot�
+D.C.","IdMicrositio":null,"LogindId":"multipropiedadeseinversiones@gmail.com","PrecioNoche":null}],"limiteSuperior":16,"isTurismo":false,"destacados":[],"limiteInferior":0,"iteraciones":0,"encontrados":2240,"desfiltrado":false,"datosBusqueda":{"descriptionSEO":"","keywordsSEO":"","tituloSEO":"","criterioOrden":"","numPaginaActual":0,"cantidadencontrados":"2240
+","paginaactual":"0 al 16 de 2240 resultados Resultados
+","tipoBusqueda":0,"idMicrositio":0,"desfiltrado":false,"color":"","didYouMing":"","resXPaginaActual":0,"numTotalPaginas":140,"tipoFuente":0,"sitioCliente":"","tipoOrden":""},"tituloBusquedaOriginal":"","tituloBusqueda":"Venta
+en la zona Norte en Bogot� D.C., Precio venta de 500.000.000 a
+500.000.000, Antig�edad: Entre 0 y 5
+a�os","barrio":"","tipoInmueble":"Apartamento","channel":"Buscar -
+Buscadores","didyoumean":null,"filtros":[{"Modificadores":[{"Activo":true,"Valor":"","Nombre":"Bogot�
+D.C.","Cantidad":2240},{"Activo":false,"Valor":"","Nombre":"Cali","Cantidad":27},{"Activo":false,"Valor":"","Nombre":"Armenia","Cantidad":15},{"Activo":false,"Valor":"","Nombre":"Manizales","Cantidad":4},{"Activo":false,"Valor":"","Nombre":"Cartagena
+de
+Indias","Cantidad":1}],"TipoVisualizacion":5,"Activo":true,"Id":5,"Valor":"Bogot�
+D.C.","NombreFast":"mciudad","Nombre":"Ciudad","PadreId":0,"Descripcion":"Ciudad"},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"Construido","Cantidad":2236},{"Activo":false,"Valor":"","Nombre":"En
+Construcci�n","Cantidad":4}],"TipoVisualizacion":6,"Activo":false,"Id":36,"Valor":"","NombreFast":"mesnuevotexto","Nombre":"Construidos","PadreId":0,"Descripcion":null},{"Modificadores":[{"Activo":true,"Valor":"","Nombre":"Norte","Cantidad":2240}],"TipoVisualizacion":0,"Activo":true,"Id":6,"Valor":"Norte","NombreFast":"mzona","Nombre":"Zona","PadreId":5,"Descripcion":"Zona"},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"Cedritos","Cantidad":616},{"Activo":false,"Valor":"","Nombre":"Santa
+B�rbara","Cantidad":602},{"Activo":false,"Valor":"","Nombre":"Country","Cantidad":453},{"Activo":false,"Valor":"","Nombre":"Orqu�deas","Cantidad":362},{"Activo":false,"Valor":"","Nombre":"Chic�","Cantidad":207}],"TipoVisualizacion":1,"Activo":false,"Id":15,"Valor":"","NombreFast":"msector","Nombre":"Sector","PadreId":6,"Descripcion":"Sector"},{"Modificadores":[{"Activo":true,"Valor":"","Nombre":"Apartamento","Cantidad":2240}],"TipoVisualizacion":0,"Activo":true,"Id":9,"Valor":"Apartamento","NombreFast":"mtipoinmueble","Nombre":"Tipo
+inmueble","PadreId":0,"Descripcion":"Tipo
+inmueble"},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"Hasta
+40
+millones","Cantidad":44},{"Activo":false,"Valor":"","Nombre":"70'000.001
+a
+100'000.000","Cantidad":3},{"Activo":false,"Valor":"","Nombre":"100'000.001
+a
+150'000.000","Cantidad":31},{"Activo":false,"Valor":"","Nombre":"150'000.001
+a
+200'000.000","Cantidad":64},{"Activo":false,"Valor":"","Nombre":"200'000.001
+a
+250'000.000","Cantidad":179},{"Activo":false,"Valor":"","Nombre":"250'000.001
+a
+300'000.000","Cantidad":273},{"Activo":false,"Valor":"","Nombre":"300'000.001
+a
+400'000.000","Cantidad":912},{"Activo":false,"Valor":"","Nombre":"400'000.001
+a
+500'000.000","Cantidad":734}],"TipoVisualizacion":4,"Activo":true,"Id":3,"Valor":"500.000.000
+a 500.000.000","NombreFast":"mvalorventarango","Nombre":"Precio
+venta","PadreId":0,"Descripcion":"Precio
+Venta"},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"Hasta
+60","Cantidad":579},{"Activo":false,"Valor":"","Nombre":"61 a
+100","Cantidad":1407},{"Activo":false,"Valor":"","Nombre":"101 a
+200","Cantidad":245},{"Activo":false,"Valor":"","Nombre":"201 a
+300","Cantidad":2},{"Activo":false,"Valor":"","Nombre":"301 a
+400","Cantidad":2},{"Activo":false,"Valor":"","Nombre":"1001 o
+m�s","Cantidad":4}],"TipoVisualizacion":4,"Activo":false,"Id":2,"Valor":0,"NombreFast":"marearango","Nombre":"�rea
+m^2<\/sup>","PadreId":0,"Descripcion":"Area"},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"1
+habitaci�n","Cantidad":718},{"Activo":false,"Valor":"","Nombre":"2
+habitaciones","Cantidad":764},{"Activo":false,"Valor":"","Nombre":"3
+habitaciones","Cantidad":738},{"Activo":false,"Valor":"","Nombre":"4
+habitaciones","Cantidad":10},{"Activo":false,"Valor":"","Nombre":"5 o
+m�s
+habitaciones","Cantidad":1}],"TipoVisualizacion":1,"Activo":false,"Id":16,"Valor":"","NombreFast":"mnrocuartosrango","Nombre":"Habitaciones","PadreId":0,"Descripcion":"Habitaciones"},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"1
+ba�o","Cantidad":190},{"Activo":false,"Valor":"","Nombre":"2
+ba�os","Cantidad":1580},{"Activo":false,"Valor":"","Nombre":"3
+ba�os","Cantidad":424},{"Activo":false,"Valor":"","Nombre":"4
+ba�os","Cantidad":29},{"Activo":false,"Valor":"","Nombre":"5 o m�s
+ba�os","Cantidad":5}],"TipoVisualizacion":1,"Activo":false,"Id":17,"Valor":"","NombreFast":"mnrobanosrango","Nombre":"Ba�os","PadreId":0,"Descripcion":"Ba�os"},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"Con
+Fotos","Cantidad":2123},{"Activo":false,"Valor":"","Nombre":"Sin
+Fotos","Cantidad":117}],"TipoVisualizacion":2,"Activo":false,"Id":50,"Valor":"","NombreFast":"mmultimediafoto","Nombre":"Fotos","PadreId":0,"Descripcion":null},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"Sin
+Muebles","Cantidad":2211},{"Activo":false,"Valor":"","Nombre":"Con
+Muebles","Cantidad":29}],"TipoVisualizacion":2,"Activo":false,"Id":7,"Valor":"","NombreFast":"mconmuebles","Nombre":"Muebles","PadreId":0,"Descripcion":null},{"Modificadores":[{"Activo":false,"Valor":"","Nombre":"Sobre
+Plano","Cantidad":232},{"Activo":false,"Valor":"","Nombre":"En
+Construcci�n","Cantidad":183},{"Activo":false,"Valor":"","Nombre":"Para
+Estrenar","Cantidad":1143},{"Activo":false,"Valor":"","Nombre":"Remodelado","Cantidad":165},{"Activo":true,"Valor":"","Nombre":"Entre
+0 y 5 a�os","Cantidad":2240},{"Activo":false,"Valor":"","Nombre":"Entre
+5 y 10 a�os","Cantidad":876},{"Activo":false,"Valor":"","Nombre":"Entre
+10 y 20 a�os","Cantidad":1395},{"Activo":false,"Valor":"","Nombre":"M�s
+de 20
+a�os","Cantidad":1061}],"TipoVisualizacion":1,"Activo":true,"Id":18,"Valor":"Entre
+0 y 5
+a�os","NombreFast":"mtiempoconstruido","Nombre":"Antig�edad","PadreId":0,"Descripcion":"Antig�edad"}]}
+
+hola0
+didyoumeanencontrados2240tituloBusquedaVenta en la zona Norte en Bogot�
+D.C., Precio venta de 500.000.000 a 500.000.000, Antig�edad: Entre 0 y 5
+a�osdestacadoslimiteSuperior16barriotituloBusquedaOriginaltipoInmuebleApartamentoisTurismofalsedesfiltradofalsefiltrosId5TipoVisualizacion5ActivotruePadreId0NombreFastmciudadValorBogot�
+D.C.ModificadoresActivotrueCantidad2240ValorNombreBogot�
+D.C.ActivofalseCantidad27ValorNombreCaliActivofalseCantidad15ValorNombreArmeniaActivofalseCantidad4ValorNombreManizalesActivofalseCantidad1ValorNombreCartagena
+de
+IndiasDescripcionCiudadNombreCiudadId36TipoVisualizacion6ActivofalsePadreId0NombreFastmesnuevotextoValorModificadoresActivofalseCantidad2236ValorNombreConstruidoActivofalseCantidad4ValorNombreEn
+Construcci�nDescripcionNombreConstruidosId6TipoVisualizacion0ActivotruePadreId5NombreFastmzonaValorNorteModificadoresActivotrueCantidad2240ValorNombreNorteDescripcionZonaNombreZonaId15TipoVisualizacion1ActivofalsePadreId6NombreFastmsectorValorModificadoresActivofalseCantidad616ValorNombreCedritosActivofalseCantidad602ValorNombreSanta
+B�rbaraActivofalseCantidad453ValorNombreCountryActivofalseCantidad362ValorNombreOrqu�deasActivofalseCantidad207ValorNombreChic�DescripcionSectorNombreSectorId9TipoVisualizacion0ActivotruePadreId0NombreFastmtipoinmuebleValorApartamentoModificadoresActivotrueCantidad2240ValorNombreApartamentoDescripcionTipo
+inmuebleNombreTipo
+inmuebleId3TipoVisualizacion4ActivotruePadreId0NombreFastmvalorventarangoValor500.000.000
+a 500.000.000ModificadoresActivofalseCantidad44ValorNombreHasta 40
+millonesActivofalseCantidad3ValorNombre7

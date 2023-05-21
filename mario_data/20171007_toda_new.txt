@@ -1,0 +1,944 @@
+<!doctype html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+
+<meta charset="utf-8" />
+
+<!-- Always force latest IE rendering engine or request Chrome Frame -->
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="description" />
+
+
+<!-- OpenGraph -->
+
+<meta property="og:url" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Apartamento en Venta en Todas, Bogot&amp;aacute; Para estrenar" />
+<meta property="og:description" />
+<meta property="og:image" content="http://www.metrocuadrado.com/images/logo-metrocuadrado-home.png" />
+<meta property="og:site_name" content="metrocuadrado.com" />
+<meta property="fb:admins" content="facebook cuenta m2" />
+<meta property="fb:app_id" content="facebook app m2" />
+
+
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@metrocuadrado" />
+<meta name="twitter:creator" content="@metrocuadrado" />
+<meta name="twitter:title" content="Apartamento en Venta en Todas, Bogot&amp;aacute; Para estrenar" />
+<meta name="twitter:description" />
+<meta name="twitter:image" content="http://www.metrocuadrado.com/images/logo-metrocuadrado-home.png" />
+
+
+<!-- Use title if it's in the page YAML frontmatter -->
+<title>Apartamento en Venta Para estrenar en Todas, Bogotá</title>
+
+<!--[if lt IE 9]>
+    <script src="assets/javascripts/html5shiv.js" type="text/javascript"></script>
+    <![endif]-->
+
+<!--[if lte IE 9]>
+    <link href="assets/stylesheets/stylesheets.ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+<link href="/estatico/metrocuadrado-results/css/stylesheets.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="canonical" />
+
+
+<!-- Google FONTS -->
+
+
+<link href="//fonts.googleapis.com/css?family=Oswald:400,700,300|Raleway:400,500,600,700,300,100" rel="stylesheet" type="text/css" />
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WTMXDZ');</script>
+<!-- End Google Tag Manager -->
+<!-- see statics/gulpfile.js -->
+<script src="/estatico/metrocuadrado-results/js/jsFilesResults1.min.js" type="text/javascript"></script>
+
+
+<!-- Tag CrazyEgg -->
+<script type="text/javascript">
+		setTimeout(function() {			
+			var a = document.createElement("script");
+			var b = document.getElementsByTagName("script")[0];
+			a.src = document.location.protocol
+					+"//script.crazyegg.com/pages/scripts/0017/1361.js";
+			a.async = true;
+			a.type = "text/javascript";
+			b.parentNode.insertBefore(a, b)
+		}, 1);
+	</script>
+<!-- End Tag CrazyEgg -->
+
+<!-- Tag DTM -->
+
+<script src="//assets.adobedtm.com/41d3b477534338831f14b02d7af1cd359b73904f/satelliteLib-8aeb63a9ee18c0379a15a0fcb080dcbc94c88dd8.js"></script>
+<!-- End Tag DTM -->
+
+<script src="http://ak-ns.sascdn.com/diff/js/smart.js" type="text/javascript" async="async"></script>
+	
+<script type="text/javascript">
+var sas = sas || {};
+sas.cmd = sas.cmd || [];
+sas.cmd.push(function() {
+    sas.setup({ domain: "http://ads.eltiempo.com", async: true });
+});
+
+</script>
+
+<script type="text/javascript">
+var s_account='eltiempometrocuadradoprod,eltiempoglobal';
+var loadResultsStatsEventName='load-results';
+var viewPhoneStatsEventName='view-phone';
+var sendMyContactStatsEventName='send-my-contact';
+
+var detailImageAzureServer='http://static.metrocuadrado.com/inmuebles';
+var detailImageAmazonServer='http://e.metrocuadrado.com.s3.amazonaws.com/inmuebles';
+var unAvailableDetailNImageUrl='/estatico/metrocuadrado-results/images/foto_no_disponible_n.jpg';
+var unAvailableDetailPImageUrl='/estatico/metrocuadrado-results/images/foto_no_disponible_p.jpg';
+var serverString = 'http://www.metrocuadrado.com';
+</script>
+
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults2.min.js"></script>
+	
+<script type="text/javascript">
+
+/*<![CDATA[*/
+	var propertyState=null;
+	var totalResultsCount = 0;
+	var city = 'Bogot\xE1';
+	var zone = 'Todas';
+	var neighborhood = null;
+	var propertyType = 'apartamento';
+	var businessType = 'venta';
+	var queryWithNoInitialResults = true;
+	if(propertyState==null && businessType!=null){
+		if(businessType=='venta'){
+			propertyState = "nuevo y usado";
+		}else{
+			propertyState = "usado";
+		}
+	}
+	
+	currentViewType = 'list';
+	setOmnitureChannel();
+	initResultPageOmnitureEvents();
+	/*]]>*/
+	
+</script>		
+	
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults3.min.js"></script>
+
+<script>
+	var locationAutocompleteContentUrl = 'http://www.metrocuadrado.com/estatico/locations.js'
+</script>
+
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/locations-autocomplete.js"></script>
+
+<!-- see statics/gulpfile.js -->
+<script type="text/javascript" src="/estatico/metrocuadrado-results/js/jsFilesResults4.min.js"></script>
+	
+
+<script type="text/javascript">
+	var metrocuadradoResultsUrlContext = '/';
+
+	//Initialize result in map variables
+	var dragMoveEnableEventPercentage = '50';
+	var maxMarkers = null;
+	var urlGoogleMapsAPIJs = 'https://maps.googleapis.com/maps/api/js?v=3.27&libraries=geometry&language=es&channel=m2_web_resultados&client=gme-casaeditorialeltiempo';
+	var urlM2MapAPIJs =  '/estatico/metrocuadrado-results/js/map.js';
+	var mapLoaded = false;
+
+</script>
+
+<script type="text/javascript">
+	$(function() {
+	    $('.lazy').lazy();
+	});
+</script>
+
+
+<style type="text/css">
+.m_location_ma {
+	width: 100%;
+	height: 600px;
+}
+</style>
+
+<style type="text/css">
+.p_absolute {
+	position:absolute;
+}
+</style>
+
+<link href="/estatico/metrocuadrado-results/css/locations-autocomplete.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body data-sticky_parent="" class="body_resultados_mapa">
+	
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTMXDZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+	<div id="page" class="m2_list">
+
+		<header id="header"> </header>
+
+
+		<div id="breadcrumb" class="wrapper" style="display:block">
+
+		
+
+	</div>
+
+
+		<hr id="header-result-separator" class="separator" />
+
+
+		<script type="text/javascript" src="/estatico/metrocuadrado-results/js/sidebar-filters.js"></script>
+		
+		<div id="resultListHtmlContainer">
+			<div class="wrapper" data-sticky-content="" style="position: relative;">
+
+
+		<div class="mfp-hide" id="list-guardarBusqueda">
+		<script>
+		/*<![CDATA[*/
+		           var saveSearchMessage = 'Estamos almacenando su b\xFAsqueda';				 
+		 /*]]>*/
+		</script>
+		<div class="m_login">
+			<div class="m_login_bg"></div>
+			<div class="m_login_close" data-login-toggle=""></div>
+
+			<div class="m_login_content resultados_guardar_busqueda">
+
+				<form class="save-search-form" action="#" data-form-validate="" method="get">
+
+					<p>La b&uacute;squeda se guardar&aacute; con el nombre:</p>
+					<p>
+						<span class="save-search-title">0 Apartamento en Venta en Todas, Bogot&aacute; Para estrenar</span>
+					</p>
+
+					<input type="button" value="Guardar B&uacute;squeda" class="save-search-button m_btn big a" id="listsave-search-button" />
+
+				</form>
+			</div>
+		</div>
+		<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+	</div>
+	
+		<div id="layout">
+
+			
+
+			<div id="sidebar">
+
+		<div class="sidebar_filters" id="search_filter">
+
+			<div class="m_search_filter header show_on_mobile show_on_tablet">
+				<div class="btn_light filter_btn ">
+					<a href="#" class="m_btn search-filters" data-search-filter-popup-toggle="">
+						filtre su b&uacute;squeda </a>
+				</div>
+			</div>
+
+			<div class="m_search_filter main" data-filters="">
+				<div class="m_search_filter_close" data-search-filter-popup-toggle=""></div>
+
+				<div class="search_main">
+					<h2 class="title search-filters">Filtre su b&uacute;squeda</h2>
+				</div>
+
+				<div>
+
+					<div class="m_search_by price">									
+							<div id="price-range-filter" class="title">rango de precio en millones</div>							
+							<div>									
+								
+	
+
+			<div class="form_select">
+				<select class="sidebar-filter price_range" data-hidden-field-id="mvalorventa" id="list-mvalorventa">
+
+					<option value="">Todas los precios</option>
+					
+				</select>
+			</div>
+			<div class="from_to_price">
+				<div class="form_text_field">
+					<label for="list-price_from">Desde</label> 
+					<input type="text" data-thousands="." data-prefix="$" data-precision="0" name="list-price_from" id="list-price_from" />
+				</div>
+				<div class="form_text_field">
+					<label for="list-price_to">hasta</label> 
+					<input type="text" data-thousands="." data-prefix="$" data-precision="0" name="list-price_to" id="list-price_to" />
+				</div>
+
+			</div>
+
+			<a href="#" class="m_btn inline inverted price_range" data-hidden-field-id="mvalorventa" id="list-search-by-price-range"> ok </a>
+
+	
+	
+								  <div style="clear: both;"></div>						
+							</div>
+					</div>
+
+					<div class="m_search_by size">
+						<!-- cabecera -->
+						<div class="title">&aacute;rea (m&sup2;)</div>
+						<div>
+							
+	
+		<!-- 			Common -->		
+			<div class="form_select">
+				<select class="sidebar-filter area-range" data-hidden-field-id="marea" id="list-marea">
+					<option value="">Todas las &aacute;reas</option>
+					
+
+				</select>
+			</div>
+			
+		<!-- Common			 -->
+		
+	
+	
+						</div>
+					</div>
+
+
+
+					<div class="m_search_by others">
+						<!-- cabecera -->
+						<div class="title">aplicar m&aacute;s filtros</div>
+						<div>
+							<div>
+		<p class="light">Habitaciones</p>
+		<div class="form_checkbox m_checkbox_numbers">
+			
+			<div class="box content_1">
+				<input type="checkbox" value="1" id="list-mnrocuartos-checkbox-1" class="rooms-filter sidebar-filter mnrocuartos-checkbox-1" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-1" />
+			</div>
+
+			<div class="box content_2">
+				<input type="checkbox" value="2" id="list-mnrocuartos-checkbox-2" class="rooms-filter sidebar-filter mnrocuartos-checkbox-2" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-2" />
+			</div>
+
+			<div class="box content_3">
+				<input type="checkbox" value="3" id="list-mnrocuartos-checkbox-3" class="rooms-filter sidebar-filter mnrocuartos-checkbox-3" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-3" />
+			</div>
+
+			<div class="box content_4">
+				<input type="checkbox" value="4" id="list-mnrocuartos-checkbox-4" class="rooms-filter sidebar-filter mnrocuartos-checkbox-4" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-4" />
+			</div>
+
+			<div class="box content_plus">
+				<input type="checkbox" value="5" id="list-mnrocuartos-checkbox-plus" class="rooms-filter sidebar-filter mnrocuartos-checkbox-plus" data-hidden-field-id="mnrocuartos" data-checkbox-class="mnrocuartos-checkbox-plus" />
+			</div>
+			
+
+		</div>
+		<hr />
+	</div>
+
+							<div>
+
+		<p class="light">Baños</p>
+
+		<div class="form_checkbox m_checkbox_numbers">
+
+					
+			<div class="box content_1">
+				<input type="checkbox" value="1" id="list-mnrobanos-checkbox-1" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-1" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-1" />
+			</div>
+
+			<div class="box content_2">
+				<input type="checkbox" value="2" id="list-mnrobanos-checkbox-2" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-2" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-2" />
+			</div>
+
+			<div class="box content_3">
+				<input type="checkbox" value="3" id="list-mnrobanos-checkbox-3" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-3" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-3" />
+			</div>
+
+			<div class="box content_4">
+				<input type="checkbox" value="4" id="list-mnrobanos-checkbox-4" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-4" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-4" />
+			</div>
+
+			<div class="box content_plus">
+				<input type="checkbox" value="5" id="list-mnrobanos-checkbox-plus" class="bathrooms-filter sidebar-filter mnrobanos-checkbox-plus" data-hidden-field-id="mnrobanos" data-checkbox-class="mnrobanos-checkbox-plus" />
+			</div>
+			
+
+		</div>
+
+		<hr />
+
+	</div>
+
+							<div>
+
+
+		<div>
+
+			<p class="light">Garajes</p>
+
+			<div class="form_checkbox m_checkbox_numbers">
+				
+				<div class="box content_1">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-1" data-checkbox-class="mnrogarajes-checkbox-1" class="garages-filter sidebar-filter mnrogarajes-checkbox-1" value="1" data-hidden-field-id="mnrogarajes" />
+				</div>
+				<div class="box content_2">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-2" data-checkbox-class="mnrogarajes-checkbox-2" class="garages-filter sidebar-filter mnrogarajes-checkbox-2" value="2" data-hidden-field-id="mnrogarajes" />
+				</div>
+				<div class="box content_3">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-3" data-checkbox-class="mnrogarajes-checkbox-3" class="garages-filter sidebar-filter mnrogarajes-checkbox-3" value="3" data-hidden-field-id="mnrogarajes" />
+				</div>
+				<div class="box content_4">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-4" data-checkbox-class="mnrogarajes-checkbox-4" class="garages-filter sidebar-filter mnrogarajes-checkbox-4" value="4" data-hidden-field-id="mnrogarajes" />
+				</div>
+				<div class="box content_plus">
+					<input type="checkbox" id="list-mnrogarajes-checkbox-plus" data-checkbox-class="mnrogarajes-checkbox-plus" class="garages-filter sidebar-filter mnrogarajes-checkbox-plus" value="5" data-hidden-field-id="mnrogarajes" />
+				</div>
+				
+			</div>
+
+			<hr />
+
+		</div>
+	</div>
+
+							<div>
+
+		<p class="light">Antigüedad</p>
+
+		<div class="form_select">
+			<select class="sidebar-filter antiquity-filter" data-hidden-field-id="mtiempoconstruido" id="list-mtiempoconstruido">
+				<option value="">Todas las opciones</option>
+				
+			</select>
+		</div>
+
+	</div>
+						</div>
+					</div>
+					
+					<div class="m_search_by wonder">
+						<!-- cabecera -->
+						<div class="title">me gustar&iacute;a que tenga</div>
+						<div>
+							
+	
+		
+				<div class="filter_group">
+					<div class="form_checkbox">
+						<input id="check_01" class="amenity-filter" name="check_01" value="amoblados" type="checkbox" />
+						<label for="check_01" class="form_label form_label_inline">Amoblado</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_02" class="amenity-filter" name="check_02" value="con-zona-para-ninos" type="checkbox" />
+						<label for="check_02" class="form_label form_label_inline">Zona para ni&ntilde;os</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_03" class="amenity-filter" name="check_03" value="con-gimnasio" type="checkbox" />
+						<label for="check_03" class="form_label form_label_inline">Gimnasio</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_04" class="amenity-filter" name="check_04" value="con-cancha-squash" type="checkbox" />
+						<label for="check_04" class="form_label form_label_inline">Cancha(s) de Squash</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_05" class="amenity-filter" name="check_05" value="con-acceso-discapacitados" type="checkbox" />
+						<label for="check_05" class="form_label form_label_inline">Acceso para discapacitados</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_06" class="amenity-filter" name="check_06" value="con-piscina" type="checkbox" />
+						<label for="check_06" class="form_label form_label_inline">Piscina</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_07" class="amenity-filter" name="check_07" value="con-zonas-verdes" type="checkbox" />
+						<label for="check_07" class="form_label form_label_inline">Zonas verdes</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_08" class="amenity-filter" name="check_08" value="con-cancha-tenis" type="checkbox" />
+						<label for="check_08" class="form_label form_label_inline">Cancha(s) de tennis</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_09" class="amenity-filter" name="check_09" value="con-cancha-futbol" type="checkbox" />
+						<label for="check_09" class="form_label form_label_inline">Cancha(s) de f&uacute;tbol</label>
+					</div>
+					<div class="form_checkbox">
+						<input id="check_10" class="amenity-filter" name="check_09" value="verificado" type="checkbox" />
+						<label for="check_10" class="form_label form_label_inline">Verificado</label>
+					</div>
+				</div>
+				<div class="filter_wrapper">
+	
+					<a href="#" class="m_btn inverted amenity-filter-search-button"> aplicar preferencias </a>
+	
+	
+				</div>
+
+	
+	
+						</div>
+					</div>
+
+					<div class="boton_guardar_busqueda">
+						<a href="#list-guardarBusqueda" class="m_btn inline save-search" data-login-toggle=""> guardar b&uacute;squeda </a>
+					</div>
+
+
+				</div>
+
+			</div>
+
+
+			<div style="" class="sidebar_filters_hidden" data-sticky-content-sidebar="">
+				<div style="display: none;" class="m_search_filter sticky hide_for_mobile hide_for_tablet">
+					<div class="sticky_filter">
+						<a href="#search_filter" data-smooth="70" class="title">Filtre su b&uacute;squeda</a>
+					</div>
+					<div class="save_search hide_for_mobile hide_for_tablet">
+
+						<a href="#list-guardarBusqueda" class="m_btn" data-login-toggle="">guardar b&uacute;squeda </a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+
+			<div id="main">
+				
+				
+				
+				<div>
+		<!-- Inicio mensaje de resultados -->
+		<div class="listado_mensaje_resultados">
+			<span>!</span>
+			<p>No tenemos inmuebles que coincidan con su b&uacute;squeda pero le
+				sugerimos los siguientes inmuebles:</p>
+		</div>
+		<!-- Fin mensaje de resultados -->
+		<div class="m_rs_list_header">
+			
+			<h1 class="title escritorio">Apartamento en Venta en Todas, Bogot&aacute; Para estrenar</h1>
+			<div>
+				<div class="btn_lista resultados active" data-result-view-url="/search/list/ajax" data-result-view-type="list" data-result-view-container="resultListHtmlContainer">
+					<a href="#">Lista</a>
+				</div>
+
+				 <!-- --> <div class="btn_map resultados" data-result-view-url="/search/map/ajax" data-result-view-type="map" data-result-view-container="resultMapHtmlContainer">
+					<a href="#">mapa</a>
+				</div><!-- -->
+				
+				<div class="order_by">
+		<div class="form_select">
+			<select class="order-by" id="resultlist-sort-by">
+				<option value="" disabled="disabled" selected="selected">Ordenar por</option>
+				<option value="DESC-mvalorventa">Mayor precio</option>
+				<option value="ASC-mvalorventa">Menor precio</option>
+				<option value="DESC-mfechapublicacion">M&aacute;s reciente</option>
+				<option value="ASC-mfechapublicacion">Menos reciente</option>
+				<option value="DESC-mnrocuartos">M&aacute;s habitaciones</option>
+				<option value="ASC-mnrocuartos">Menos habitaciones</option>
+				<option value="DESC-marea">Mayor &aacute;rea</option>
+				<option value="ASC-marea">Menor &aacute;rea</option>
+			</select>
+		</div>
+	</div>
+				
+			</div>
+			<hr class="separator" />
+		</div>
+	</div>
+
+				<div id="highlighted-properties-list"></div>
+				
+				
+				
+
+				<div class="m_banner ">		
+  		<a href="http://www.metrocuadrado.com/publicar-inmuebles/solicitud-inmuebles/">
+ 		<img src="http://www.metrocuadrado.com/estatico/metrocuadrado-results/images/resultados_banner_solicitudes.jpg" /></a>
+  	</div><div class="m_rs_list_paginator">
+		
+		
+		<input class="list-paginator" data-request-param="currentPage" id="current-page-list" name="current-page-list" type="hidden" value="0" />
+		<input class="list-paginator" data-request-param="totalPropertiesCount" id="total-properties-count-list" name="total-properties-count-list" type="hidden" value="0" />
+		<input class="list-paginator" data-request-param="totalUsedPropertiesCount" id="total-used-properties-count-list" name="total-used-properties-count-list" type="hidden" value="0" />
+		<input class="list-paginator" data-request-param="totalNewPropertiesCount" id="total-new-properties-count-list" name="total-new-properties-count-list" type="hidden" value="0" />
+
+		
+		
+	</div>
+
+			</div>
+			<!-- main -->
+		</div>
+
+	</div>
+		</div>
+		
+
+
+		<hr id="last-seen-properties-separator" class="separator" />
+
+		<div id="last-seen-properties-container" class="wrapper wrapper_space m2_list" style="display:block">
+		<div class="m_property_carousel" id="lastseenpropertiescontainer">
+			<div class="m_property_carousel_title" id="tituloPanelUltimosVistos" style="display: none;">
+				<h3>&Uacute;ltimos inmuebles vistos</h3>
+			</div>
+			
+		</div>
+	</div>
+		
+		<div id="result-list-view-banner" class="m_banner "></div>
+
+		<hr id="footer-separator" class="separator" />
+
+		<div id="list-contact" class="mfp-hide">
+		<div class="m_popup_contact_seller">
+			<h2 class="title">Env&iacute;a tus datos para que te contacten</h2>
+
+
+			<hr class="separator" />
+			<form action="#" data-form-validate="" novalidate="novalidate" id="send-my-contact">
+				<input type="hidden" id="propertyId" name="propertyId" /> <input type="hidden" id="offerer" name="offerer" /> <input type="hidden" id="propertyDescription" name="propertyDescription" />
+
+				<div class="data">
+					<div class="input_box">
+						<label for="name">Nombre</label> <input type="text" name="name" id="name" required="" aria-required="true" value="" />
+					</div>
+					<div class="input_box">
+						<label for="telephone">Tel&eacute;fono</label> <input type="text" name="telephone" id="telephone" required="" aria-required="true" value="" />
+					</div>
+				</div>
+
+
+				<div class="form_checkbox m_acceptance_box">
+					<span class="checkbox webkit webkit55 not_msie custom-form_newsletter"><input id="newsletter" name="newsletter" type="checkbox" value="false" required="" aria-required="true" /></span>
+					<p class="label">
+						Acepto <a target="_blank" href="http://www.metrocuadrado.com/metrocuadrado-header/terminoscondiciones">pol&iacute;ticas y t&eacute;rminos</a> - <a target="_blank" href="http://www.metrocuadrado.com/metrocuadrado-header/avisoprivacidad">Aviso de
+							privacidad</a> y enviar mis datos al anunciante.
+					</p>
+				</div>
+
+				<div class="send_data">
+					<input type="submit" class="m_btn contact-seller" data-omniture-event="contactSeller" value="Quiero que me contacten" />
+				</div>
+			</form>
+		</div>
+
+	</div>
+		
+		<div class="footer">
+		<div class="m_real_estate_list">
+			<div class="wrapper">
+				<h2 class="title">inmuebles en venta y arriendo en colombia</h2>
+				<div class="col" data-m-collapse="visible">
+					<h3 class="title-col" data-m-collapse-link="">Apartamentos en arriendo</h3>
+					<ul class="m_list" data-m-collapse-content="">
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/bogota/"><h4>Apartamentos en arriendo en Bogot&aacute;</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/medellin/"><h4>Apartamentos en arriendo en Medell&iacute;n</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/cali/"><h4>Apartamentos en arriendo en Cali</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/barranquilla/"><h4>Apartamentos en arriendo en Barranquilla</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/cartagena/"><h4>Apartamentos en arriendo en Cartagena</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/santa-marta/"><h4>Apartamentos en arriendo en Santa Marta</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/armenia/"><h4>Apartamentos en arriendo en Armenia</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/manizales/"><h4>Apartamentos en arriendo en Manizales</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/pereira/"><h4>Apartamentos en arriendo en Pereira</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/arriendo/bucaramanga/"><h4>Apartamentos en arriendo en Bucaramanga</h4></a></li>
+					</ul>
+				</div>
+
+				<div class="col" data-m-collapse="visible">
+					<h3 class="title-col" data-m-collapse-link="">Apartamentos en venta</h3>
+					<ul class="m_list" data-m-collapse-content="">
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/bogota/"><h4>Apartamentos en venta en Bogot&aacute;</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/medellin/"><h4>Apartamentos en venta en Medell&iacute;n</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/cali/"><h4>Apartamentos en venta en Cali</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/barranquilla/"><h4>Apartamentos en venta en Barranquilla</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/cartagena/"><h4>Apartamentos en venta en Cartagena</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/santa-marta/"><h4>Apartamentos en venta en Santa Marta</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/armenia/"><h4>Apartamentos en venta en Armenia</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/manizales/"><h4>Apartamentos en venta en Manizales</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/pereira/"><h4>Apartamentos en venta en Pereira</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/apartamentos/venta/bucaramanga/"><h4>Apartamentos en venta en Bucaramanga</h4></a></li>
+					</ul>
+				</div>
+
+				<div class="col" data-m-collapse="visible">
+					<h3 class="title-col" data-m-collapse-link="">Casas en arriendo</h3>
+					<ul class="m_list" data-m-collapse-content="">
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/bogota/"><h4>Casas en arriendo en Bogot&aacute;</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/medellin/"><h4>Casas en arriendo en Medell&iacute;n</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/cali/"><h4>Casas en arriendo en Cali</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/barranquilla/"><h4>Casas en arriendo en Barranquilla</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/cartagena/"><h4>Casas en arriendo en Cartagena</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/santa-marta/"><h4>Casas en arriendo en Santa Marta</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/armenia/"><h4>Casas en arriendo en Armenia</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/manizales/"><h4>Casas en arriendo en Manizales</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/pereira/"><h4>Casas en arriendo en Pereira</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/arriendo/bucaramanga/"><h4>Casas en arriendo en Bucaramanga</h4></a></li>
+					</ul>
+				</div>
+
+				<div class="col" data-m-collapse="visible">
+					<h3 class="title-col" data-m-collapse-link="">Casas en venta</h3>
+					<ul class="m_list" data-m-collapse-content="">
+						<li><a href="http://www.metrocuadrado.com/casas/venta/bogota/"><h4>Casas en venta en Bogot&aacute;</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/medellin/"><h4>Casas en venta en Medell&iacute;n</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/cali/"><h4>Casas en venta en Cali</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/barranquilla/"><h4>Casas en venta en Barranquilla</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/cartagena/"><h4>Casas en venta en Cartagena</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/santa-marta/"><h4>Casas en venta en Santa Marta</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/armenia/"><h4>Casas en venta en Armenia</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/manizales/"><h4>Casas en venta en Manizales</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/pereira/"><h4>Casas en venta en Pereira</h4></a></li>
+						<li><a href="http://www.metrocuadrado.com/casas/venta/bucaramanga/"><h4>Casas en venta en Bucaramanga</h4></a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- ./wrapper -->
+		</div>
+	</div>
+
+		
+		<div>
+		<!-- Inicio mensaje limite de favoritos superado -->
+		<div class="contenedor_favoritos_superado" style="display: none;">
+			<div class="mfp-bg"></div>
+			<div class="mfp-wrap">
+				<div class="mfp-container">
+					<div class="mfp-content">
+						<div class="m_popup_hide_ad">
+							<h2 class="title">L&iacute;­mite de favoritos alcanzado</h2>
+							<p>Ha alcanzado el l&iacute;­mite de inmuebles que puede marcar como
+								favoritos. Revise y elimine inmuebles de su listado de
+								favoritos.</p>
+						</div>
+						<button title="Close (Esc)" type="button" class="mfp-close">X</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Fin mensaje limite de favoritos superado -->
+	</div>
+
+		<div class="footer">
+		<div class="m_real_estate_list">
+		
+		<!-- ./wrapper -->
+	</div>
+		<div id="footer"></div>
+	</div>
+
+
+	</div>
+
+	<div id="login" class="mfp-hide">
+		<div class="m_login">
+			<div class="m_login_bg"></div>
+			<div class="m_login_close" data-login-toggle=""></div>
+
+			<div class="m_login_content">
+				<div class="m_login_content_title">Ingresa a MetroCuadrado, el
+					mejor portal inmobiliario de Colombia</div>
+				<div class="m_login_content_error">Se ha producido un error en
+					el servidor, int&eacute;ntelo m&aacute;s tarde</div>
+				<form action="#" data-form-validate="">
+					<div class="input_box">
+						<label for="login_user">Usuario</label> <input type="email" id="login_user" for="login_user" placeholder="Usuario" />
+					</div>
+					<div class="input_box">
+						<label for="login_pass">Clave</label> <input type="password" id="login_pass" for="login_pass" placeholder="Clave" />
+					</div>
+
+					<input type="submit" value="Ingresar" class="m_btn big" />
+
+					<div class="m_login_social">
+						<div class="col_social">
+							<a href="#" class="m_btn fb">Ingresar con Facebook</a>
+						</div>
+						<div class="col_social">
+							<a href="#" class="m_btn gp">Ingresar con Google</a>
+						</div>
+					</div>
+
+					<div class="m_login_links">
+						<div class="col_link">
+							<a href="#">¿Olvid&oacute; su clave?</a>
+						</div>
+						<div class="col_link">
+							<a href="#">Reg&iacute;strese</a>
+						</div>
+					</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div id="advertising" style="display: none;">
+
+
+		<div id="pushdown-banner">
+			<div id="sas_21675">
+				<!-- init pushdown desktop banner -->
+				<!-- end pushdown desktop banner -->
+			</div>
+		</div>
+		
+		
+
+
+		
+
+
+
+		<div id="big-top-banner-ad">
+			<div id="sas_8931">
+				<!-- init desktop big top banner add -->
+				<noscript>
+					<a href="http://ads.eltiempo.co/ac?jump=1&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=8931&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" target="_blank"> <img src="http://ads.eltiempo.co/ac?out=nonrich&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=8931&amp;visit=m&amp;tmstp=[timestamp]" border="0" alt="" /></a>
+				</noscript>
+				<!-- end desktop big top banner add -->
+			</div>
+		</div>
+
+
+		<div id="highlighted-ad">
+			<div id="sas_21607">
+				<!--  init highlighted module desktop ad -->
+				<noscript>
+					<a href="http://ads.eltiempo.co/call/pubjumpi/25081/168864/21607/S/[timestamp]/?" target="_blank"> <img src="http://ads.eltiempo.co/call/pubi/25081/168864/21607/S/[timestamp]/?" border="0" alt="" /></a>
+				</noscript>
+				<!--  init highlighted module desktop ad -->
+			</div>
+		</div>
+
+
+		
+
+
+
+		<div id="top-mpu-ad">
+			<div id="sas_9346">
+				<!-- init desktop top mpu ad  -->
+				<noscript>
+					<a href="http://ads.eltiempo.co/ac?jump=1&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9346&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" target="_blank"> <img src="http://ads.eltiempo.co/ac?out=nonrich&amp;nwid=484&amp;siteid=25081&amp;pgname=resultados_busqueda&amp;fmtid=9346&amp;visit=m&amp;tmstp=[timestamp]" border="0" alt="" /></a>
+				</noscript>
+				<!-- end desktop top mpu ad  -->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="loader" class="contenedor-cargador" style="display: none;">
+		<div class="cargador">
+			<img src="/estatico/metrocuadrado-results/images/M2_loader.gif" alt="Cargando..." />
+			<p id="loader-message">
+				<strong>Mostrando:</strong>Proyectos nuevos Lorem Ipsum es
+				simplemente el texto de relleno de las imprentas y archivos de texto
+				Lorem Ipsum es simplemente el texto de relleno de las imprentas y
+				archivos de texto ...
+			</p>
+		</div>
+		
+		<script>
+		/*<![CDATA[*/
+		           var searchPropertiesMessage = 'Buscando inmuebles...';
+		 /*]]>*/
+		</script>
+		<script type="text/javascript" src="/estatico/metrocuadrado-results/js/loader.js"></script>
+		
+	</div>
+	
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		           
+		
+		
+		$(document).ready(
+				function(){
+					$.ajaxSetup({ cache: false });		
+					var headerUrl = '/metrocuadrado-header/include?showSearchPanel=true&includeScripts=false';
+					var footerUrl = '/estatico/metrocuadrado-footer/footer.html';
+					var dontShowHighlight = null;
+					
+					currentViewType = 'list';
+					currentViewUrl = '/search/list/ajax';
+					currentViewContainer = 'resultListHtmlContainer';
+					
+					$(document).ajaxStop(function(){
+							M2.init();
+							$(window).trigger('resize');
+							
+						}
+					);
+					
+					load("header",headerUrl,function(){
+						$('.bg_inf').addClass('visible');	
+						
+						initLocationAutocomplete();
+						initStructuredSearch();
+						initFilterValues();
+						if(!dontShowHighlight){initHighlightedProperties()};
+						initHeader(true);
+						
+						initChangeResultView();
+						initListPaginator();
+						initSaveSearch();
+						initFavorites();
+						initVisualizeDetails();
+						initContactSeller();					
+						initOmnitureEvents();
+						loadResultsStatsEvent();
+						initLastSeenProperties();
+						
+						
+					});
+					
+					initDetailImageLoad(".detail_image");				
+					
+					load("footer",footerUrl);
+					
+					
+						
+				}
+		);
+		
+		/*]]>*/
+	</script>
+	<script type="text/javascript">_satellite.pageBottom();</script>	
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1&cb=1241835087';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
