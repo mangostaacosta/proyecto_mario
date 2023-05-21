@@ -1,0 +1,50 @@
+<?php
+  
+   
+  include "header.php" ;
+  
+  global $g_conexion ;
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET Banos_Sobre_habit = banos / habitaciones;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET Precio_Sobre_Mt2 = precio / area_construida;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET Garaje_Sobre_habit = garajes / habitaciones;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET Admon_Sobre_Precio = admon / precio;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";  
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET Admon_Sobre_m2 = admon / area_construida;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";    
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET Garaje_Sobre_m2 = garajes / area_construida;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";   
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET Habit_Sobre_m2 = habitaciones / area_construida;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";
+  $sql = "UPDATE MetroCuadrado SET DeltaMas31_2a8 = ValorEdad2a8 - ValorEdadmasde31; ";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+		  echo "$Num_rows";
+  $sql = "UPDATE MetroCuadrado SET Delta16a30_2a8 = ValorEdad2a8 - ValorEdad16a30 ;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";
+  $sql = "UPDATE MatrizEvaluacion SET Puntaje_Total = Edad_Edificio * 10 + Iluminacion * 10 + Vista * 10 + Distribucion_General * 8 + Parqueaderos * 10 + Ascensor * 10 + Banos_Numero * 7 + Banos_Ventilacion * 6 + Banos_Numero * 7 + Banos_Ventilacion * 6 + Cocina_Ventilacion_Luz * 8 + Gas * 7 + Shut_De_Basuras * 5 + Estado_Zonas_Comunes * 8 + Estado_Parqueadero * 7 + Estado_Estructura_Construccion * 7 + Ruido_Exterior * 6 + Apariencia_Fachada_Calidad * 8 + Riesgo_Seguridad_Vecindario * 7 + Calidad_Vecinos * 7 + Cercania_Vias_Principales * 6 + Valor_Administracion * 8 + Piso * 10 + Trafico_Acceso * 10 + Parqueaderos_Visitantes * 9 + Sobre_Via_Principal * 7;";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+	  echo "$Num_rows";
+  $sql = "UPDATE Datos_de_Ubicacion_Web SET catastro = barrio WHERE antiguedad = '0';";
+  $g_conexion->execute( $sql ); 
+  $Num_rows=$g_conexion->affectedRows( );
+		  echo "$Num_rows";
