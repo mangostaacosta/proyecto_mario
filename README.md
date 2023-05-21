@@ -1,3 +1,2 @@
-# prueba_borrar
-Prueba para crear un sitio web
-Esto es un ensayo para la primera vez
+# prueba_borrar ahora proyecto mario
+El proyecto mario era una aplicativo optimizado para recopilar datos de www.metrocuadrado y procesarlos en una base de datos
